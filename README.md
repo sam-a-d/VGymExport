@@ -1,8 +1,8 @@
 # Virtuagym Export Service
 
-This is a lightweight backend service, built with **FastAPI** and **Pandas**, that allows a gym manager to export data reports in both CSV and JSON formats.
+This is a full-stack application, built with **FastAPI**, **Pandas**, and **React**, that allows a gym manager to preview and export data reports in both CSV and JSON formats.
 
-This project was built as part of the Virtuagym Software Engineering Internship Challenge. It fulfills the core requirement of building an export service that combines local mock data with data from the public **ExerciseDB API**.
+This project was built as part of the Virtuagym Software Engineering Internship Challenge. It fulfills the core requirement of building an export service and an optional frontend to visualize the data.
 
 ## Features
 
