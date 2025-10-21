@@ -57,7 +57,11 @@ To get this project running locally, follow these steps.
 
 ### 3. Generate Mock Data
 
-Before running the API, you must generate the local mock data. First go to backend by using the command ```cd backend/scripts``` and then
+Before running the API, you must generate the local mock data. First go to backend by using the command 
+```
+cd backend/scripts
+```
+and then
 
 1.  **Generate base data (Clubs, Members, Check-ins):**
     ```bash
