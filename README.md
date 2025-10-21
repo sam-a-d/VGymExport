@@ -29,7 +29,7 @@ To get this project running locally, follow these steps.
 
 #### Clone the repo
   ```bash
-    git clone ___link____
+    git clone https://github.com/sam-a-d/VGymExport.git
     cd VGymExport
   ```
 #### Backend Setup
@@ -57,7 +57,7 @@ To get this project running locally, follow these steps.
 
 ### 3. Generate Mock Data
 
-Before running the API, you must generate the local mock data.
+Before running the API, you must generate the local mock data. First go to backend by using the command ```cd backend``` and then
 
 1.  **Generate base data (Clubs, Members, Check-ins):**
     ```bash
