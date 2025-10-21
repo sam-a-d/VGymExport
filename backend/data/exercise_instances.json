@@ -1,0 +1,7002 @@
+[
+    {
+        "instance_id": 1,
+        "member_id": 63,
+        "exercise_id": "Z5YStHW",
+        "club_id": 4,
+        "timestamp": "2025-08-14T17:44:36.703654"
+    },
+    {
+        "instance_id": 2,
+        "member_id": 46,
+        "exercise_id": "RxayqAZ",
+        "club_id": 1,
+        "timestamp": "2025-09-30T20:50:36.552664"
+    },
+    {
+        "instance_id": 3,
+        "member_id": 18,
+        "exercise_id": "7ePTw4B",
+        "club_id": 2,
+        "timestamp": "2025-09-14T20:32:57.173795"
+    },
+    {
+        "instance_id": 4,
+        "member_id": 66,
+        "exercise_id": "iCPqbki",
+        "club_id": 5,
+        "timestamp": "2025-08-07T23:56:41.598072"
+    },
+    {
+        "instance_id": 5,
+        "member_id": 89,
+        "exercise_id": "X3cqyXz",
+        "club_id": 1,
+        "timestamp": "2025-07-05T15:47:11.960739"
+    },
+    {
+        "instance_id": 6,
+        "member_id": 79,
+        "exercise_id": "wu5LXwz",
+        "club_id": 2,
+        "timestamp": "2025-10-10T19:00:58.093394"
+    },
+    {
+        "instance_id": 7,
+        "member_id": 97,
+        "exercise_id": "kont8Ut",
+        "club_id": 1,
+        "timestamp": "2025-06-24T19:38:41.786033"
+    },
+    {
+        "instance_id": 8,
+        "member_id": 45,
+        "exercise_id": "JhYSVwT",
+        "club_id": 1,
+        "timestamp": "2025-07-17T10:27:57.830510"
+    },
+    {
+        "instance_id": 9,
+        "member_id": 17,
+        "exercise_id": "GSDioYu",
+        "club_id": 1,
+        "timestamp": "2025-09-04T18:20:49.924796"
+    },
+    {
+        "instance_id": 10,
+        "member_id": 6,
+        "exercise_id": "JhYSVwT",
+        "club_id": 3,
+        "timestamp": "2025-09-06T19:16:20.674007"
+    },
+    {
+        "instance_id": 11,
+        "member_id": 12,
+        "exercise_id": "kont8Ut",
+        "club_id": 5,
+        "timestamp": "2025-09-23T04:21:53.959205"
+    },
+    {
+        "instance_id": 12,
+        "member_id": 10,
+        "exercise_id": "zd4P4B2",
+        "club_id": 4,
+        "timestamp": "2025-06-24T06:40:29.864159"
+    },
+    {
+        "instance_id": 13,
+        "member_id": 42,
+        "exercise_id": "Wgbn9qo",
+        "club_id": 4,
+        "timestamp": "2025-07-10T04:50:24.597948"
+    },
+    {
+        "instance_id": 14,
+        "member_id": 10,
+        "exercise_id": "fUBheHs",
+        "club_id": 4,
+        "timestamp": "2025-08-11T18:28:34.665536"
+    },
+    {
+        "instance_id": 15,
+        "member_id": 32,
+        "exercise_id": "LMGXZn8",
+        "club_id": 5,
+        "timestamp": "2025-07-26T21:47:44.013718"
+    },
+    {
+        "instance_id": 16,
+        "member_id": 56,
+        "exercise_id": "IGjKj1v",
+        "club_id": 3,
+        "timestamp": "2025-07-18T13:36:24.720505"
+    },
+    {
+        "instance_id": 17,
+        "member_id": 100,
+        "exercise_id": "ZIViNh1",
+        "club_id": 5,
+        "timestamp": "2025-08-20T01:29:50.015846"
+    },
+    {
+        "instance_id": 18,
+        "member_id": 60,
+        "exercise_id": "JOZhu2h",
+        "club_id": 4,
+        "timestamp": "2025-10-01T03:03:33.601062"
+    },
+    {
+        "instance_id": 19,
+        "member_id": 43,
+        "exercise_id": "1xHyxys",
+        "club_id": 3,
+        "timestamp": "2025-07-22T12:04:59.631401"
+    },
+    {
+        "instance_id": 20,
+        "member_id": 67,
+        "exercise_id": "pgIdT6i",
+        "club_id": 4,
+        "timestamp": "2025-06-26T16:09:16.253347"
+    },
+    {
+        "instance_id": 21,
+        "member_id": 57,
+        "exercise_id": "A3P4O0R",
+        "club_id": 1,
+        "timestamp": "2025-09-12T19:47:44.675628"
+    },
+    {
+        "instance_id": 22,
+        "member_id": 86,
+        "exercise_id": "2IxROQ1",
+        "club_id": 2,
+        "timestamp": "2025-09-08T00:14:30.429683"
+    },
+    {
+        "instance_id": 23,
+        "member_id": 41,
+        "exercise_id": "veXwo0D",
+        "club_id": 2,
+        "timestamp": "2025-07-16T18:11:31.367376"
+    },
+    {
+        "instance_id": 24,
+        "member_id": 62,
+        "exercise_id": "o8aOcrz",
+        "club_id": 2,
+        "timestamp": "2025-08-12T20:44:26.935272"
+    },
+    {
+        "instance_id": 25,
+        "member_id": 17,
+        "exercise_id": "RxayqAZ",
+        "club_id": 1,
+        "timestamp": "2025-09-28T05:34:22.874581"
+    },
+    {
+        "instance_id": 26,
+        "member_id": 41,
+        "exercise_id": "ufaxB52",
+        "club_id": 2,
+        "timestamp": "2025-07-30T20:27:10.229506"
+    },
+    {
+        "instance_id": 27,
+        "member_id": 43,
+        "exercise_id": "X3cqyXz",
+        "club_id": 3,
+        "timestamp": "2025-08-29T09:08:04.795491"
+    },
+    {
+        "instance_id": 28,
+        "member_id": 75,
+        "exercise_id": "J60bN17",
+        "club_id": 2,
+        "timestamp": "2025-10-04T00:39:22.174946"
+    },
+    {
+        "instance_id": 29,
+        "member_id": 79,
+        "exercise_id": "A3P4O0R",
+        "club_id": 2,
+        "timestamp": "2025-08-06T16:00:04.802268"
+    },
+    {
+        "instance_id": 30,
+        "member_id": 16,
+        "exercise_id": "R5swFnc",
+        "club_id": 1,
+        "timestamp": "2025-07-21T18:26:51.353172"
+    },
+    {
+        "instance_id": 31,
+        "member_id": 7,
+        "exercise_id": "5lE7XRz",
+        "club_id": 1,
+        "timestamp": "2025-09-18T08:39:47.387566"
+    },
+    {
+        "instance_id": 32,
+        "member_id": 79,
+        "exercise_id": "qcY50ZD",
+        "club_id": 2,
+        "timestamp": "2025-08-18T17:59:38.075724"
+    },
+    {
+        "instance_id": 33,
+        "member_id": 30,
+        "exercise_id": "cAvTaSg",
+        "club_id": 1,
+        "timestamp": "2025-08-22T12:15:55.996575"
+    },
+    {
+        "instance_id": 34,
+        "member_id": 46,
+        "exercise_id": "Wgbn9qo",
+        "club_id": 1,
+        "timestamp": "2025-07-31T17:05:08.579351"
+    },
+    {
+        "instance_id": 35,
+        "member_id": 23,
+        "exercise_id": "K1vlode",
+        "club_id": 4,
+        "timestamp": "2025-07-06T00:55:48.063780"
+    },
+    {
+        "instance_id": 36,
+        "member_id": 97,
+        "exercise_id": "veXwo0D",
+        "club_id": 1,
+        "timestamp": "2025-10-04T06:13:30.707186"
+    },
+    {
+        "instance_id": 37,
+        "member_id": 17,
+        "exercise_id": "EIsE3u8",
+        "club_id": 1,
+        "timestamp": "2025-10-21T08:14:49.846171"
+    },
+    {
+        "instance_id": 38,
+        "member_id": 40,
+        "exercise_id": "jDnrkar",
+        "club_id": 1,
+        "timestamp": "2025-09-25T12:14:29.786534"
+    },
+    {
+        "instance_id": 39,
+        "member_id": 82,
+        "exercise_id": "u3UuCZu",
+        "club_id": 3,
+        "timestamp": "2025-07-19T01:00:13.054292"
+    },
+    {
+        "instance_id": 40,
+        "member_id": 55,
+        "exercise_id": "dmgMp3n",
+        "club_id": 1,
+        "timestamp": "2025-09-22T09:05:14.448175"
+    },
+    {
+        "instance_id": 41,
+        "member_id": 33,
+        "exercise_id": "PbzNu7c",
+        "club_id": 2,
+        "timestamp": "2025-09-27T20:31:25.686997"
+    },
+    {
+        "instance_id": 42,
+        "member_id": 64,
+        "exercise_id": "N6dZN2I",
+        "club_id": 3,
+        "timestamp": "2025-10-15T19:33:36.670845"
+    },
+    {
+        "instance_id": 43,
+        "member_id": 35,
+        "exercise_id": "wpbD28t",
+        "club_id": 2,
+        "timestamp": "2025-07-06T18:05:43.426773"
+    },
+    {
+        "instance_id": 44,
+        "member_id": 87,
+        "exercise_id": "gtO1ErP",
+        "club_id": 3,
+        "timestamp": "2025-08-24T17:01:05.150147"
+    },
+    {
+        "instance_id": 45,
+        "member_id": 42,
+        "exercise_id": "NN8nSNT",
+        "club_id": 4,
+        "timestamp": "2025-07-09T21:55:29.060872"
+    },
+    {
+        "instance_id": 46,
+        "member_id": 43,
+        "exercise_id": "R5swFnc",
+        "club_id": 3,
+        "timestamp": "2025-08-27T20:45:47.443476"
+    },
+    {
+        "instance_id": 47,
+        "member_id": 100,
+        "exercise_id": "R5swFnc",
+        "club_id": 5,
+        "timestamp": "2025-08-17T07:06:36.298211"
+    },
+    {
+        "instance_id": 48,
+        "member_id": 96,
+        "exercise_id": "9pQSkH8",
+        "club_id": 3,
+        "timestamp": "2025-08-10T06:52:26.051584"
+    },
+    {
+        "instance_id": 49,
+        "member_id": 57,
+        "exercise_id": "qcY50ZD",
+        "club_id": 1,
+        "timestamp": "2025-07-12T09:33:30.597404"
+    },
+    {
+        "instance_id": 50,
+        "member_id": 24,
+        "exercise_id": "aaXr7ld",
+        "club_id": 3,
+        "timestamp": "2025-09-10T23:05:11.356025"
+    },
+    {
+        "instance_id": 51,
+        "member_id": 35,
+        "exercise_id": "kprile3",
+        "club_id": 2,
+        "timestamp": "2025-07-20T15:19:14.365805"
+    },
+    {
+        "instance_id": 52,
+        "member_id": 76,
+        "exercise_id": "ZIViNh1",
+        "club_id": 5,
+        "timestamp": "2025-10-19T08:54:18.498811"
+    },
+    {
+        "instance_id": 53,
+        "member_id": 94,
+        "exercise_id": "bLyQokI",
+        "club_id": 4,
+        "timestamp": "2025-09-12T22:51:09.695542"
+    },
+    {
+        "instance_id": 54,
+        "member_id": 96,
+        "exercise_id": "2IxROQ1",
+        "club_id": 3,
+        "timestamp": "2025-08-27T13:17:12.660079"
+    },
+    {
+        "instance_id": 55,
+        "member_id": 66,
+        "exercise_id": "VYmYxK5",
+        "club_id": 5,
+        "timestamp": "2025-10-08T11:42:53.584146"
+    },
+    {
+        "instance_id": 56,
+        "member_id": 59,
+        "exercise_id": "JOZhu2h",
+        "club_id": 5,
+        "timestamp": "2025-09-09T03:04:27.344402"
+    },
+    {
+        "instance_id": 57,
+        "member_id": 72,
+        "exercise_id": "Jsgsc27",
+        "club_id": 3,
+        "timestamp": "2025-07-29T05:29:58.384848"
+    },
+    {
+        "instance_id": 58,
+        "member_id": 77,
+        "exercise_id": "oHg8eop",
+        "club_id": 4,
+        "timestamp": "2025-08-10T07:27:57.198182"
+    },
+    {
+        "instance_id": 59,
+        "member_id": 83,
+        "exercise_id": "ZujAdR9",
+        "club_id": 4,
+        "timestamp": "2025-08-18T20:28:53.048122"
+    },
+    {
+        "instance_id": 60,
+        "member_id": 39,
+        "exercise_id": "Nh3mvOO",
+        "club_id": 1,
+        "timestamp": "2025-09-27T01:14:17.423090"
+    },
+    {
+        "instance_id": 61,
+        "member_id": 84,
+        "exercise_id": "bndCa3Q",
+        "club_id": 4,
+        "timestamp": "2025-08-19T23:28:14.854860"
+    },
+    {
+        "instance_id": 62,
+        "member_id": 86,
+        "exercise_id": "wbUYILZ",
+        "club_id": 2,
+        "timestamp": "2025-07-17T12:50:18.865115"
+    },
+    {
+        "instance_id": 63,
+        "member_id": 2,
+        "exercise_id": "yRLPCLu",
+        "club_id": 2,
+        "timestamp": "2025-08-06T17:15:02.270325"
+    },
+    {
+        "instance_id": 64,
+        "member_id": 72,
+        "exercise_id": "wkgnGfb",
+        "club_id": 3,
+        "timestamp": "2025-08-21T15:33:56.215420"
+    },
+    {
+        "instance_id": 65,
+        "member_id": 42,
+        "exercise_id": "Jsgsc27",
+        "club_id": 4,
+        "timestamp": "2025-07-24T20:17:44.876277"
+    },
+    {
+        "instance_id": 66,
+        "member_id": 69,
+        "exercise_id": "bZq4bwK",
+        "club_id": 2,
+        "timestamp": "2025-09-13T03:41:47.526914"
+    },
+    {
+        "instance_id": 67,
+        "member_id": 53,
+        "exercise_id": "VjYliFZ",
+        "club_id": 4,
+        "timestamp": "2025-08-06T08:10:45.335916"
+    },
+    {
+        "instance_id": 68,
+        "member_id": 98,
+        "exercise_id": "s0HKO2I",
+        "club_id": 2,
+        "timestamp": "2025-08-24T19:09:21.907037"
+    },
+    {
+        "instance_id": 69,
+        "member_id": 32,
+        "exercise_id": "HJ63mSO",
+        "club_id": 5,
+        "timestamp": "2025-10-09T19:22:44.150333"
+    },
+    {
+        "instance_id": 70,
+        "member_id": 46,
+        "exercise_id": "LuBEORI",
+        "club_id": 1,
+        "timestamp": "2025-09-03T10:08:56.206827"
+    },
+    {
+        "instance_id": 71,
+        "member_id": 35,
+        "exercise_id": "3xK09Sk",
+        "club_id": 2,
+        "timestamp": "2025-09-29T15:29:57.696672"
+    },
+    {
+        "instance_id": 72,
+        "member_id": 9,
+        "exercise_id": "JF8AkMX",
+        "club_id": 2,
+        "timestamp": "2025-07-31T15:16:58.691164"
+    },
+    {
+        "instance_id": 73,
+        "member_id": 77,
+        "exercise_id": "aaXr7ld",
+        "club_id": 4,
+        "timestamp": "2025-08-26T06:47:05.736288"
+    },
+    {
+        "instance_id": 74,
+        "member_id": 85,
+        "exercise_id": "Nu7jqFE",
+        "club_id": 2,
+        "timestamp": "2025-08-02T14:49:23.613758"
+    },
+    {
+        "instance_id": 75,
+        "member_id": 50,
+        "exercise_id": "RxayqAZ",
+        "club_id": 5,
+        "timestamp": "2025-08-17T23:33:12.018336"
+    },
+    {
+        "instance_id": 76,
+        "member_id": 48,
+        "exercise_id": "ZIViNh1",
+        "club_id": 2,
+        "timestamp": "2025-08-03T01:01:21.210924"
+    },
+    {
+        "instance_id": 77,
+        "member_id": 62,
+        "exercise_id": "eZyBC3j",
+        "club_id": 2,
+        "timestamp": "2025-08-06T03:31:17.007720"
+    },
+    {
+        "instance_id": 78,
+        "member_id": 53,
+        "exercise_id": "aaxA3cm",
+        "club_id": 4,
+        "timestamp": "2025-08-31T08:48:35.536744"
+    },
+    {
+        "instance_id": 79,
+        "member_id": 69,
+        "exercise_id": "X6ytgYZ",
+        "club_id": 2,
+        "timestamp": "2025-10-02T10:25:22.364513"
+    },
+    {
+        "instance_id": 80,
+        "member_id": 91,
+        "exercise_id": "kprile3",
+        "club_id": 1,
+        "timestamp": "2025-10-02T03:06:58.798491"
+    },
+    {
+        "instance_id": 81,
+        "member_id": 60,
+        "exercise_id": "x6KpKpq",
+        "club_id": 4,
+        "timestamp": "2025-09-25T02:50:45.000064"
+    },
+    {
+        "instance_id": 82,
+        "member_id": 80,
+        "exercise_id": "o8aOcrz",
+        "club_id": 3,
+        "timestamp": "2025-09-08T08:29:56.115657"
+    },
+    {
+        "instance_id": 83,
+        "member_id": 60,
+        "exercise_id": "8K7m2SS",
+        "club_id": 4,
+        "timestamp": "2025-08-31T14:47:24.499946"
+    },
+    {
+        "instance_id": 84,
+        "member_id": 11,
+        "exercise_id": "LuBEORI",
+        "club_id": 4,
+        "timestamp": "2025-07-19T14:50:18.171837"
+    },
+    {
+        "instance_id": 85,
+        "member_id": 45,
+        "exercise_id": "IGjKj1v",
+        "club_id": 1,
+        "timestamp": "2025-08-25T07:23:41.156674"
+    },
+    {
+        "instance_id": 86,
+        "member_id": 60,
+        "exercise_id": "J6Dx1Mu",
+        "club_id": 4,
+        "timestamp": "2025-09-16T21:05:16.850048"
+    },
+    {
+        "instance_id": 87,
+        "member_id": 78,
+        "exercise_id": "veXwo0D",
+        "club_id": 1,
+        "timestamp": "2025-09-28T22:00:31.202890"
+    },
+    {
+        "instance_id": 88,
+        "member_id": 71,
+        "exercise_id": "Z5YStHW",
+        "club_id": 1,
+        "timestamp": "2025-09-20T12:12:19.744602"
+    },
+    {
+        "instance_id": 89,
+        "member_id": 55,
+        "exercise_id": "7I6LNUG",
+        "club_id": 1,
+        "timestamp": "2025-09-02T16:53:38.682382"
+    },
+    {
+        "instance_id": 90,
+        "member_id": 97,
+        "exercise_id": "Q4DSJPC",
+        "club_id": 1,
+        "timestamp": "2025-07-26T11:56:38.862729"
+    },
+    {
+        "instance_id": 91,
+        "member_id": 33,
+        "exercise_id": "Ca76jUE",
+        "club_id": 2,
+        "timestamp": "2025-08-02T14:43:15.819247"
+    },
+    {
+        "instance_id": 92,
+        "member_id": 10,
+        "exercise_id": "WrYPP2g",
+        "club_id": 4,
+        "timestamp": "2025-06-28T21:52:42.988062"
+    },
+    {
+        "instance_id": 93,
+        "member_id": 55,
+        "exercise_id": "uxJcFUU",
+        "club_id": 1,
+        "timestamp": "2025-09-10T13:12:02.728271"
+    },
+    {
+        "instance_id": 94,
+        "member_id": 77,
+        "exercise_id": "VPPtusI",
+        "club_id": 4,
+        "timestamp": "2025-09-09T01:07:55.306594"
+    },
+    {
+        "instance_id": 95,
+        "member_id": 26,
+        "exercise_id": "7vG5o25",
+        "club_id": 4,
+        "timestamp": "2025-08-11T07:40:01.127991"
+    },
+    {
+        "instance_id": 96,
+        "member_id": 58,
+        "exercise_id": "x6KpKpq",
+        "club_id": 4,
+        "timestamp": "2025-08-16T09:33:56.568496"
+    },
+    {
+        "instance_id": 97,
+        "member_id": 79,
+        "exercise_id": "yaAxcQr",
+        "club_id": 2,
+        "timestamp": "2025-07-24T18:07:33.556356"
+    },
+    {
+        "instance_id": 98,
+        "member_id": 2,
+        "exercise_id": "xbkPfaw",
+        "club_id": 2,
+        "timestamp": "2025-07-09T12:12:59.601282"
+    },
+    {
+        "instance_id": 99,
+        "member_id": 53,
+        "exercise_id": "Gchi5Tr",
+        "club_id": 4,
+        "timestamp": "2025-07-30T04:47:22.811650"
+    },
+    {
+        "instance_id": 100,
+        "member_id": 21,
+        "exercise_id": "uxJcFUU",
+        "club_id": 1,
+        "timestamp": "2025-07-06T16:25:48.704105"
+    },
+    {
+        "instance_id": 101,
+        "member_id": 92,
+        "exercise_id": "7aVz15j",
+        "club_id": 2,
+        "timestamp": "2025-07-15T19:48:57.251760"
+    },
+    {
+        "instance_id": 102,
+        "member_id": 24,
+        "exercise_id": "VjYliFZ",
+        "club_id": 3,
+        "timestamp": "2025-07-28T06:05:18.106043"
+    },
+    {
+        "instance_id": 103,
+        "member_id": 97,
+        "exercise_id": "SzX3uzM",
+        "club_id": 1,
+        "timestamp": "2025-08-14T14:14:31.008624"
+    },
+    {
+        "instance_id": 104,
+        "member_id": 11,
+        "exercise_id": "X3cqyXz",
+        "club_id": 4,
+        "timestamp": "2025-08-16T19:07:44.668737"
+    },
+    {
+        "instance_id": 105,
+        "member_id": 77,
+        "exercise_id": "wkgnGfb",
+        "club_id": 4,
+        "timestamp": "2025-07-06T22:51:42.526009"
+    },
+    {
+        "instance_id": 106,
+        "member_id": 85,
+        "exercise_id": "MgKwAAo",
+        "club_id": 2,
+        "timestamp": "2025-09-27T13:15:14.565363"
+    },
+    {
+        "instance_id": 107,
+        "member_id": 14,
+        "exercise_id": "JF8AkMX",
+        "club_id": 1,
+        "timestamp": "2025-09-01T20:52:47.759276"
+    },
+    {
+        "instance_id": 108,
+        "member_id": 87,
+        "exercise_id": "1xHyxys",
+        "club_id": 3,
+        "timestamp": "2025-10-09T01:25:14.283523"
+    },
+    {
+        "instance_id": 109,
+        "member_id": 61,
+        "exercise_id": "s0HKO2I",
+        "club_id": 5,
+        "timestamp": "2025-07-30T22:43:53.741495"
+    },
+    {
+        "instance_id": 110,
+        "member_id": 58,
+        "exercise_id": "zZlORz6",
+        "club_id": 4,
+        "timestamp": "2025-09-14T11:02:40.390536"
+    },
+    {
+        "instance_id": 111,
+        "member_id": 37,
+        "exercise_id": "JGKowMS",
+        "club_id": 2,
+        "timestamp": "2025-10-02T16:29:25.796012"
+    },
+    {
+        "instance_id": 112,
+        "member_id": 93,
+        "exercise_id": "SJqRxOt",
+        "club_id": 5,
+        "timestamp": "2025-08-25T22:09:22.202898"
+    },
+    {
+        "instance_id": 113,
+        "member_id": 75,
+        "exercise_id": "OmQ8w0p",
+        "club_id": 2,
+        "timestamp": "2025-10-06T14:03:49.828798"
+    },
+    {
+        "instance_id": 114,
+        "member_id": 7,
+        "exercise_id": "kesXOpB",
+        "club_id": 1,
+        "timestamp": "2025-09-27T04:57:00.593576"
+    },
+    {
+        "instance_id": 115,
+        "member_id": 83,
+        "exercise_id": "U7D9Fx3",
+        "club_id": 4,
+        "timestamp": "2025-09-01T01:55:45.197300"
+    },
+    {
+        "instance_id": 116,
+        "member_id": 33,
+        "exercise_id": "U3ffHlY",
+        "club_id": 2,
+        "timestamp": "2025-07-17T11:00:38.774363"
+    },
+    {
+        "instance_id": 117,
+        "member_id": 47,
+        "exercise_id": "c8oybX6",
+        "club_id": 2,
+        "timestamp": "2025-09-09T13:41:14.053522"
+    },
+    {
+        "instance_id": 118,
+        "member_id": 12,
+        "exercise_id": "MgKwAAo",
+        "club_id": 5,
+        "timestamp": "2025-08-02T19:30:43.249438"
+    },
+    {
+        "instance_id": 119,
+        "member_id": 16,
+        "exercise_id": "oHg8eop",
+        "club_id": 1,
+        "timestamp": "2025-09-02T09:20:05.384967"
+    },
+    {
+        "instance_id": 120,
+        "member_id": 69,
+        "exercise_id": "g9AsZ8P",
+        "club_id": 2,
+        "timestamp": "2025-09-23T02:07:52.637578"
+    },
+    {
+        "instance_id": 121,
+        "member_id": 100,
+        "exercise_id": "9fCHfSc",
+        "club_id": 5,
+        "timestamp": "2025-09-03T01:29:04.484190"
+    },
+    {
+        "instance_id": 122,
+        "member_id": 22,
+        "exercise_id": "gtO1ErP",
+        "club_id": 5,
+        "timestamp": "2025-10-01T16:59:56.478378"
+    },
+    {
+        "instance_id": 123,
+        "member_id": 50,
+        "exercise_id": "wbUYILZ",
+        "club_id": 5,
+        "timestamp": "2025-10-02T16:59:51.682818"
+    },
+    {
+        "instance_id": 124,
+        "member_id": 3,
+        "exercise_id": "iZop9xO",
+        "club_id": 4,
+        "timestamp": "2025-06-25T23:52:24.572320"
+    },
+    {
+        "instance_id": 125,
+        "member_id": 37,
+        "exercise_id": "bLyQokI",
+        "club_id": 2,
+        "timestamp": "2025-07-27T02:55:23.723753"
+    },
+    {
+        "instance_id": 126,
+        "member_id": 98,
+        "exercise_id": "9fCHfSc",
+        "club_id": 2,
+        "timestamp": "2025-08-22T15:18:40.317787"
+    },
+    {
+        "instance_id": 127,
+        "member_id": 63,
+        "exercise_id": "1YUWDNZ",
+        "club_id": 4,
+        "timestamp": "2025-07-22T15:40:51.700495"
+    },
+    {
+        "instance_id": 128,
+        "member_id": 8,
+        "exercise_id": "JhYSVwT",
+        "club_id": 5,
+        "timestamp": "2025-09-19T20:31:14.516820"
+    },
+    {
+        "instance_id": 129,
+        "member_id": 68,
+        "exercise_id": "wbUYILZ",
+        "club_id": 5,
+        "timestamp": "2025-08-18T11:19:36.369118"
+    },
+    {
+        "instance_id": 130,
+        "member_id": 14,
+        "exercise_id": "JF8AkMX",
+        "club_id": 1,
+        "timestamp": "2025-07-06T17:27:30.180819"
+    },
+    {
+        "instance_id": 131,
+        "member_id": 44,
+        "exercise_id": "U6G2gk9",
+        "club_id": 5,
+        "timestamp": "2025-07-11T00:05:47.078335"
+    },
+    {
+        "instance_id": 132,
+        "member_id": 28,
+        "exercise_id": "ZujAdR9",
+        "club_id": 2,
+        "timestamp": "2025-08-27T21:00:38.845309"
+    },
+    {
+        "instance_id": 133,
+        "member_id": 83,
+        "exercise_id": "zd4P4B2",
+        "club_id": 4,
+        "timestamp": "2025-08-29T20:55:26.835163"
+    },
+    {
+        "instance_id": 134,
+        "member_id": 49,
+        "exercise_id": "LMGXZn8",
+        "club_id": 1,
+        "timestamp": "2025-09-09T17:12:31.265539"
+    },
+    {
+        "instance_id": 135,
+        "member_id": 95,
+        "exercise_id": "Tq6gbK6",
+        "club_id": 4,
+        "timestamp": "2025-10-02T17:31:01.384571"
+    },
+    {
+        "instance_id": 136,
+        "member_id": 25,
+        "exercise_id": "Jsgsc27",
+        "club_id": 4,
+        "timestamp": "2025-09-13T21:41:04.007847"
+    },
+    {
+        "instance_id": 137,
+        "member_id": 98,
+        "exercise_id": "dmgMp3n",
+        "club_id": 2,
+        "timestamp": "2025-09-07T02:06:34.468898"
+    },
+    {
+        "instance_id": 138,
+        "member_id": 18,
+        "exercise_id": "GSDioYu",
+        "club_id": 2,
+        "timestamp": "2025-06-29T16:21:26.069733"
+    },
+    {
+        "instance_id": 139,
+        "member_id": 6,
+        "exercise_id": "pgIdT6i",
+        "club_id": 3,
+        "timestamp": "2025-08-21T20:43:08.737459"
+    },
+    {
+        "instance_id": 140,
+        "member_id": 92,
+        "exercise_id": "8K7m2SS",
+        "club_id": 2,
+        "timestamp": "2025-07-24T06:34:20.275343"
+    },
+    {
+        "instance_id": 141,
+        "member_id": 12,
+        "exercise_id": "aaxA3cm",
+        "club_id": 5,
+        "timestamp": "2025-08-28T07:41:03.630713"
+    },
+    {
+        "instance_id": 142,
+        "member_id": 72,
+        "exercise_id": "7vG5o25",
+        "club_id": 3,
+        "timestamp": "2025-08-18T18:49:59.717254"
+    },
+    {
+        "instance_id": 143,
+        "member_id": 95,
+        "exercise_id": "O4oIqQD",
+        "club_id": 4,
+        "timestamp": "2025-10-20T20:56:11.425545"
+    },
+    {
+        "instance_id": 144,
+        "member_id": 33,
+        "exercise_id": "WM6TvvW",
+        "club_id": 2,
+        "timestamp": "2025-07-03T23:09:48.570197"
+    },
+    {
+        "instance_id": 145,
+        "member_id": 96,
+        "exercise_id": "EMpUwRI",
+        "club_id": 3,
+        "timestamp": "2025-08-06T20:36:33.458124"
+    },
+    {
+        "instance_id": 146,
+        "member_id": 25,
+        "exercise_id": "7aVz15j",
+        "club_id": 4,
+        "timestamp": "2025-09-03T10:57:35.132987"
+    },
+    {
+        "instance_id": 147,
+        "member_id": 16,
+        "exercise_id": "zd4P4B2",
+        "club_id": 1,
+        "timestamp": "2025-07-21T17:49:24.612887"
+    },
+    {
+        "instance_id": 148,
+        "member_id": 5,
+        "exercise_id": "eZyBC3j",
+        "club_id": 4,
+        "timestamp": "2025-07-13T10:40:48.669235"
+    },
+    {
+        "instance_id": 149,
+        "member_id": 94,
+        "exercise_id": "c8oybX6",
+        "club_id": 4,
+        "timestamp": "2025-09-24T18:39:02.989168"
+    },
+    {
+        "instance_id": 150,
+        "member_id": 19,
+        "exercise_id": "ezTvXcr",
+        "club_id": 2,
+        "timestamp": "2025-07-20T08:27:39.225387"
+    },
+    {
+        "instance_id": 151,
+        "member_id": 60,
+        "exercise_id": "SzX3uzM",
+        "club_id": 4,
+        "timestamp": "2025-06-29T05:59:38.924311"
+    },
+    {
+        "instance_id": 152,
+        "member_id": 71,
+        "exercise_id": "wbUYILZ",
+        "club_id": 1,
+        "timestamp": "2025-08-14T07:46:39.166469"
+    },
+    {
+        "instance_id": 153,
+        "member_id": 9,
+        "exercise_id": "7vG5o25",
+        "club_id": 2,
+        "timestamp": "2025-10-04T14:43:13.216298"
+    },
+    {
+        "instance_id": 154,
+        "member_id": 21,
+        "exercise_id": "RxayqAZ",
+        "club_id": 1,
+        "timestamp": "2025-08-24T19:31:46.704090"
+    },
+    {
+        "instance_id": 155,
+        "member_id": 42,
+        "exercise_id": "jdiExfW",
+        "club_id": 4,
+        "timestamp": "2025-07-11T11:42:26.511875"
+    },
+    {
+        "instance_id": 156,
+        "member_id": 11,
+        "exercise_id": "RrLske5",
+        "club_id": 4,
+        "timestamp": "2025-07-06T04:39:57.457938"
+    },
+    {
+        "instance_id": 157,
+        "member_id": 64,
+        "exercise_id": "HEJ6DIX",
+        "club_id": 3,
+        "timestamp": "2025-08-05T16:18:42.024462"
+    },
+    {
+        "instance_id": 158,
+        "member_id": 86,
+        "exercise_id": "KyLtiLT",
+        "club_id": 2,
+        "timestamp": "2025-06-29T21:33:12.642348"
+    },
+    {
+        "instance_id": 159,
+        "member_id": 31,
+        "exercise_id": "sYCcnon",
+        "club_id": 2,
+        "timestamp": "2025-09-13T12:32:34.961305"
+    },
+    {
+        "instance_id": 160,
+        "member_id": 39,
+        "exercise_id": "7vG5o25",
+        "club_id": 1,
+        "timestamp": "2025-07-09T13:28:10.271354"
+    },
+    {
+        "instance_id": 161,
+        "member_id": 95,
+        "exercise_id": "u3UuCZu",
+        "club_id": 4,
+        "timestamp": "2025-07-02T07:52:53.994974"
+    },
+    {
+        "instance_id": 162,
+        "member_id": 14,
+        "exercise_id": "kont8Ut",
+        "club_id": 1,
+        "timestamp": "2025-08-01T10:56:03.839175"
+    },
+    {
+        "instance_id": 163,
+        "member_id": 81,
+        "exercise_id": "VPPtusI",
+        "club_id": 5,
+        "timestamp": "2025-08-18T17:37:05.468104"
+    },
+    {
+        "instance_id": 164,
+        "member_id": 58,
+        "exercise_id": "u3UuCZu",
+        "club_id": 4,
+        "timestamp": "2025-08-30T18:04:08.875738"
+    },
+    {
+        "instance_id": 165,
+        "member_id": 87,
+        "exercise_id": "Nu7jqFE",
+        "club_id": 3,
+        "timestamp": "2025-09-14T22:32:42.806881"
+    },
+    {
+        "instance_id": 166,
+        "member_id": 3,
+        "exercise_id": "w2oRpuH",
+        "club_id": 4,
+        "timestamp": "2025-10-01T06:57:20.477536"
+    },
+    {
+        "instance_id": 167,
+        "member_id": 89,
+        "exercise_id": "kesXOpB",
+        "club_id": 1,
+        "timestamp": "2025-07-25T15:42:49.451099"
+    },
+    {
+        "instance_id": 168,
+        "member_id": 46,
+        "exercise_id": "VYmYxK5",
+        "club_id": 1,
+        "timestamp": "2025-08-24T20:39:17.962389"
+    },
+    {
+        "instance_id": 169,
+        "member_id": 5,
+        "exercise_id": "Nh3mvOO",
+        "club_id": 4,
+        "timestamp": "2025-09-12T11:35:18.990344"
+    },
+    {
+        "instance_id": 170,
+        "member_id": 58,
+        "exercise_id": "xbkPfaw",
+        "club_id": 4,
+        "timestamp": "2025-10-06T15:52:36.232695"
+    },
+    {
+        "instance_id": 171,
+        "member_id": 63,
+        "exercise_id": "IGjKj1v",
+        "club_id": 4,
+        "timestamp": "2025-07-27T17:35:00.909499"
+    },
+    {
+        "instance_id": 172,
+        "member_id": 18,
+        "exercise_id": "4CBIBOM",
+        "club_id": 2,
+        "timestamp": "2025-06-24T13:49:24.991457"
+    },
+    {
+        "instance_id": 173,
+        "member_id": 47,
+        "exercise_id": "3xK09Sk",
+        "club_id": 2,
+        "timestamp": "2025-08-18T11:44:58.097400"
+    },
+    {
+        "instance_id": 174,
+        "member_id": 77,
+        "exercise_id": "dU605di",
+        "club_id": 4,
+        "timestamp": "2025-10-19T04:14:36.688340"
+    },
+    {
+        "instance_id": 175,
+        "member_id": 79,
+        "exercise_id": "pgIdT6i",
+        "club_id": 2,
+        "timestamp": "2025-07-30T11:46:53.298366"
+    },
+    {
+        "instance_id": 176,
+        "member_id": 92,
+        "exercise_id": "ZujAdR9",
+        "club_id": 2,
+        "timestamp": "2025-08-03T09:32:15.596279"
+    },
+    {
+        "instance_id": 177,
+        "member_id": 49,
+        "exercise_id": "3xK09Sk",
+        "club_id": 1,
+        "timestamp": "2025-07-31T03:59:21.223685"
+    },
+    {
+        "instance_id": 178,
+        "member_id": 51,
+        "exercise_id": "9pQSkH8",
+        "club_id": 4,
+        "timestamp": "2025-08-21T08:37:26.682016"
+    },
+    {
+        "instance_id": 179,
+        "member_id": 57,
+        "exercise_id": "NfP83rA",
+        "club_id": 1,
+        "timestamp": "2025-07-07T23:51:06.864405"
+    },
+    {
+        "instance_id": 180,
+        "member_id": 36,
+        "exercise_id": "DKBwJrL",
+        "club_id": 1,
+        "timestamp": "2025-07-01T03:15:05.123198"
+    },
+    {
+        "instance_id": 181,
+        "member_id": 70,
+        "exercise_id": "4f8RXP8",
+        "club_id": 5,
+        "timestamp": "2025-10-09T22:15:52.841465"
+    },
+    {
+        "instance_id": 182,
+        "member_id": 50,
+        "exercise_id": "3T12T87",
+        "club_id": 5,
+        "timestamp": "2025-08-16T13:34:13.342155"
+    },
+    {
+        "instance_id": 183,
+        "member_id": 88,
+        "exercise_id": "wt6rwjk",
+        "club_id": 2,
+        "timestamp": "2025-06-29T23:09:28.974855"
+    },
+    {
+        "instance_id": 184,
+        "member_id": 90,
+        "exercise_id": "GaSzzuh",
+        "club_id": 5,
+        "timestamp": "2025-10-11T01:08:58.597484"
+    },
+    {
+        "instance_id": 185,
+        "member_id": 71,
+        "exercise_id": "4f8RXP8",
+        "club_id": 1,
+        "timestamp": "2025-07-25T10:33:21.150953"
+    },
+    {
+        "instance_id": 186,
+        "member_id": 73,
+        "exercise_id": "w44vFvP",
+        "club_id": 1,
+        "timestamp": "2025-08-06T18:31:02.379690"
+    },
+    {
+        "instance_id": 187,
+        "member_id": 77,
+        "exercise_id": "nZZZy9m",
+        "club_id": 4,
+        "timestamp": "2025-09-09T17:45:06.554751"
+    },
+    {
+        "instance_id": 188,
+        "member_id": 10,
+        "exercise_id": "LkoAWAE",
+        "club_id": 4,
+        "timestamp": "2025-09-12T06:35:15.091959"
+    },
+    {
+        "instance_id": 189,
+        "member_id": 25,
+        "exercise_id": "UFGF6gk",
+        "club_id": 4,
+        "timestamp": "2025-10-02T00:33:19.926456"
+    },
+    {
+        "instance_id": 190,
+        "member_id": 37,
+        "exercise_id": "G70mEAJ",
+        "club_id": 2,
+        "timestamp": "2025-10-07T10:46:51.126050"
+    },
+    {
+        "instance_id": 191,
+        "member_id": 29,
+        "exercise_id": "8d8qJQI",
+        "club_id": 2,
+        "timestamp": "2025-10-18T07:40:28.968501"
+    },
+    {
+        "instance_id": 192,
+        "member_id": 86,
+        "exercise_id": "PdmaD0N",
+        "club_id": 2,
+        "timestamp": "2025-07-12T06:39:31.535603"
+    },
+    {
+        "instance_id": 193,
+        "member_id": 94,
+        "exercise_id": "wpbD28t",
+        "club_id": 4,
+        "timestamp": "2025-08-18T09:15:42.002661"
+    },
+    {
+        "instance_id": 194,
+        "member_id": 3,
+        "exercise_id": "OIFMAp1",
+        "club_id": 4,
+        "timestamp": "2025-10-10T21:03:04.271875"
+    },
+    {
+        "instance_id": 195,
+        "member_id": 59,
+        "exercise_id": "Z5YStHW",
+        "club_id": 5,
+        "timestamp": "2025-09-05T06:54:29.302640"
+    },
+    {
+        "instance_id": 196,
+        "member_id": 12,
+        "exercise_id": "LuBEORI",
+        "club_id": 5,
+        "timestamp": "2025-06-26T20:09:32.837320"
+    },
+    {
+        "instance_id": 197,
+        "member_id": 41,
+        "exercise_id": "oHg8eop",
+        "club_id": 2,
+        "timestamp": "2025-07-07T09:10:56.297910"
+    },
+    {
+        "instance_id": 198,
+        "member_id": 44,
+        "exercise_id": "WrYPP2g",
+        "club_id": 5,
+        "timestamp": "2025-07-27T23:59:54.726111"
+    },
+    {
+        "instance_id": 199,
+        "member_id": 66,
+        "exercise_id": "GSDioYu",
+        "club_id": 5,
+        "timestamp": "2025-10-08T23:26:32.315308"
+    },
+    {
+        "instance_id": 200,
+        "member_id": 79,
+        "exercise_id": "U7D9Fx3",
+        "club_id": 2,
+        "timestamp": "2025-07-25T14:30:54.859923"
+    },
+    {
+        "instance_id": 201,
+        "member_id": 79,
+        "exercise_id": "7ePTw4B",
+        "club_id": 2,
+        "timestamp": "2025-08-25T04:42:30.865437"
+    },
+    {
+        "instance_id": 202,
+        "member_id": 50,
+        "exercise_id": "KyLtiLT",
+        "club_id": 5,
+        "timestamp": "2025-09-19T23:04:54.802929"
+    },
+    {
+        "instance_id": 203,
+        "member_id": 66,
+        "exercise_id": "v2DfH14",
+        "club_id": 5,
+        "timestamp": "2025-08-30T22:03:45.155721"
+    },
+    {
+        "instance_id": 204,
+        "member_id": 28,
+        "exercise_id": "c8oybX6",
+        "club_id": 2,
+        "timestamp": "2025-10-10T00:46:38.553366"
+    },
+    {
+        "instance_id": 205,
+        "member_id": 15,
+        "exercise_id": "v3vLFW0",
+        "club_id": 1,
+        "timestamp": "2025-08-22T01:41:36.085840"
+    },
+    {
+        "instance_id": 206,
+        "member_id": 74,
+        "exercise_id": "nZZZy9m",
+        "club_id": 2,
+        "timestamp": "2025-10-15T04:40:41.627950"
+    },
+    {
+        "instance_id": 207,
+        "member_id": 80,
+        "exercise_id": "Q4DSJPC",
+        "club_id": 3,
+        "timestamp": "2025-07-14T16:46:53.702556"
+    },
+    {
+        "instance_id": 208,
+        "member_id": 81,
+        "exercise_id": "wu5LXwz",
+        "club_id": 5,
+        "timestamp": "2025-10-09T03:46:21.361184"
+    },
+    {
+        "instance_id": 209,
+        "member_id": 92,
+        "exercise_id": "wu5LXwz",
+        "club_id": 2,
+        "timestamp": "2025-09-16T01:03:35.477993"
+    },
+    {
+        "instance_id": 210,
+        "member_id": 30,
+        "exercise_id": "hvV79Si",
+        "club_id": 1,
+        "timestamp": "2025-08-03T22:17:44.242736"
+    },
+    {
+        "instance_id": 211,
+        "member_id": 98,
+        "exercise_id": "MgKwAAo",
+        "club_id": 2,
+        "timestamp": "2025-08-20T03:08:47.290310"
+    },
+    {
+        "instance_id": 212,
+        "member_id": 80,
+        "exercise_id": "bLyQokI",
+        "club_id": 3,
+        "timestamp": "2025-07-19T01:30:46.364035"
+    },
+    {
+        "instance_id": 213,
+        "member_id": 70,
+        "exercise_id": "z6TAHoT",
+        "club_id": 5,
+        "timestamp": "2025-08-17T13:54:27.480159"
+    },
+    {
+        "instance_id": 214,
+        "member_id": 89,
+        "exercise_id": "3T12T87",
+        "club_id": 1,
+        "timestamp": "2025-08-13T22:20:28.623120"
+    },
+    {
+        "instance_id": 215,
+        "member_id": 11,
+        "exercise_id": "wu5LXwz",
+        "club_id": 4,
+        "timestamp": "2025-06-23T14:48:30.815460"
+    },
+    {
+        "instance_id": 216,
+        "member_id": 68,
+        "exercise_id": "yg8Totb",
+        "club_id": 5,
+        "timestamp": "2025-10-19T18:37:47.583070"
+    },
+    {
+        "instance_id": 217,
+        "member_id": 26,
+        "exercise_id": "Fhdtwf3",
+        "club_id": 4,
+        "timestamp": "2025-08-15T01:48:26.751958"
+    },
+    {
+        "instance_id": 218,
+        "member_id": 26,
+        "exercise_id": "iaapw0g",
+        "club_id": 4,
+        "timestamp": "2025-09-15T10:55:18.714066"
+    },
+    {
+        "instance_id": 219,
+        "member_id": 16,
+        "exercise_id": "zZlORz6",
+        "club_id": 1,
+        "timestamp": "2025-09-22T10:31:29.596808"
+    },
+    {
+        "instance_id": 220,
+        "member_id": 51,
+        "exercise_id": "EIsE3u8",
+        "club_id": 4,
+        "timestamp": "2025-07-24T08:02:53.460012"
+    },
+    {
+        "instance_id": 221,
+        "member_id": 38,
+        "exercise_id": "3T12T87",
+        "club_id": 2,
+        "timestamp": "2025-08-22T20:41:44.035972"
+    },
+    {
+        "instance_id": 222,
+        "member_id": 29,
+        "exercise_id": "8d8qJQI",
+        "club_id": 2,
+        "timestamp": "2025-07-16T18:24:25.330249"
+    },
+    {
+        "instance_id": 223,
+        "member_id": 88,
+        "exercise_id": "PQStVXH",
+        "club_id": 2,
+        "timestamp": "2025-09-30T15:17:23.538786"
+    },
+    {
+        "instance_id": 224,
+        "member_id": 88,
+        "exercise_id": "dmgMp3n",
+        "club_id": 2,
+        "timestamp": "2025-09-02T01:56:33.798929"
+    },
+    {
+        "instance_id": 225,
+        "member_id": 95,
+        "exercise_id": "7aVz15j",
+        "club_id": 4,
+        "timestamp": "2025-09-08T01:31:53.891914"
+    },
+    {
+        "instance_id": 226,
+        "member_id": 44,
+        "exercise_id": "U7D9Fx3",
+        "club_id": 5,
+        "timestamp": "2025-09-16T05:38:48.453375"
+    },
+    {
+        "instance_id": 227,
+        "member_id": 53,
+        "exercise_id": "X6ytgYZ",
+        "club_id": 4,
+        "timestamp": "2025-10-10T05:33:39.644467"
+    },
+    {
+        "instance_id": 228,
+        "member_id": 9,
+        "exercise_id": "NN8nSNT",
+        "club_id": 2,
+        "timestamp": "2025-07-28T20:28:04.087261"
+    },
+    {
+        "instance_id": 229,
+        "member_id": 77,
+        "exercise_id": "J6Dx1Mu",
+        "club_id": 4,
+        "timestamp": "2025-07-30T12:41:56.730353"
+    },
+    {
+        "instance_id": 230,
+        "member_id": 29,
+        "exercise_id": "u3UuCZu",
+        "club_id": 2,
+        "timestamp": "2025-07-06T14:42:33.628687"
+    },
+    {
+        "instance_id": 231,
+        "member_id": 20,
+        "exercise_id": "KyLtiLT",
+        "club_id": 2,
+        "timestamp": "2025-08-19T06:44:31.826095"
+    },
+    {
+        "instance_id": 232,
+        "member_id": 44,
+        "exercise_id": "Hx1WC8I",
+        "club_id": 5,
+        "timestamp": "2025-09-12T23:54:47.220100"
+    },
+    {
+        "instance_id": 233,
+        "member_id": 28,
+        "exercise_id": "N6dZN2I",
+        "club_id": 2,
+        "timestamp": "2025-06-25T19:53:55.049607"
+    },
+    {
+        "instance_id": 234,
+        "member_id": 25,
+        "exercise_id": "X6ytgYZ",
+        "club_id": 4,
+        "timestamp": "2025-10-14T11:12:37.321764"
+    },
+    {
+        "instance_id": 235,
+        "member_id": 4,
+        "exercise_id": "7vG5o25",
+        "club_id": 5,
+        "timestamp": "2025-08-07T10:44:07.210498"
+    },
+    {
+        "instance_id": 236,
+        "member_id": 61,
+        "exercise_id": "uOV3Itw",
+        "club_id": 5,
+        "timestamp": "2025-07-16T15:35:03.085902"
+    },
+    {
+        "instance_id": 237,
+        "member_id": 53,
+        "exercise_id": "U6G2gk9",
+        "club_id": 4,
+        "timestamp": "2025-08-02T12:42:25.189785"
+    },
+    {
+        "instance_id": 238,
+        "member_id": 81,
+        "exercise_id": "eZyBC3j",
+        "club_id": 5,
+        "timestamp": "2025-10-02T23:07:09.631935"
+    },
+    {
+        "instance_id": 239,
+        "member_id": 55,
+        "exercise_id": "xbkPfaw",
+        "club_id": 1,
+        "timestamp": "2025-09-06T03:25:05.048519"
+    },
+    {
+        "instance_id": 240,
+        "member_id": 51,
+        "exercise_id": "ZSJNetl",
+        "club_id": 4,
+        "timestamp": "2025-09-08T12:03:36.700086"
+    },
+    {
+        "instance_id": 241,
+        "member_id": 18,
+        "exercise_id": "qRZ5S1N",
+        "club_id": 2,
+        "timestamp": "2025-10-07T10:24:48.685859"
+    },
+    {
+        "instance_id": 242,
+        "member_id": 18,
+        "exercise_id": "U3ffHlY",
+        "club_id": 2,
+        "timestamp": "2025-07-29T13:21:31.137299"
+    },
+    {
+        "instance_id": 243,
+        "member_id": 25,
+        "exercise_id": "MgKwAAo",
+        "club_id": 4,
+        "timestamp": "2025-07-06T08:09:05.353905"
+    },
+    {
+        "instance_id": 244,
+        "member_id": 64,
+        "exercise_id": "BReCuOn",
+        "club_id": 3,
+        "timestamp": "2025-07-11T21:43:17.001574"
+    },
+    {
+        "instance_id": 245,
+        "member_id": 1,
+        "exercise_id": "dmgMp3n",
+        "club_id": 4,
+        "timestamp": "2025-07-25T09:56:36.880151"
+    },
+    {
+        "instance_id": 246,
+        "member_id": 41,
+        "exercise_id": "MgKwAAo",
+        "club_id": 2,
+        "timestamp": "2025-09-18T22:55:33.486099"
+    },
+    {
+        "instance_id": 247,
+        "member_id": 45,
+        "exercise_id": "w2oRpuH",
+        "club_id": 1,
+        "timestamp": "2025-06-30T05:44:05.030407"
+    },
+    {
+        "instance_id": 248,
+        "member_id": 41,
+        "exercise_id": "5lE7XRz",
+        "club_id": 2,
+        "timestamp": "2025-07-28T00:45:33.074370"
+    },
+    {
+        "instance_id": 249,
+        "member_id": 32,
+        "exercise_id": "g9AsZ8P",
+        "club_id": 5,
+        "timestamp": "2025-09-05T13:10:00.341159"
+    },
+    {
+        "instance_id": 250,
+        "member_id": 87,
+        "exercise_id": "XalXcvM",
+        "club_id": 3,
+        "timestamp": "2025-08-30T12:25:21.446071"
+    },
+    {
+        "instance_id": 251,
+        "member_id": 74,
+        "exercise_id": "bZq4bwK",
+        "club_id": 2,
+        "timestamp": "2025-07-17T09:53:43.183062"
+    },
+    {
+        "instance_id": 252,
+        "member_id": 15,
+        "exercise_id": "c8oybX6",
+        "club_id": 1,
+        "timestamp": "2025-10-07T04:30:15.183389"
+    },
+    {
+        "instance_id": 253,
+        "member_id": 81,
+        "exercise_id": "hbY9wqG",
+        "club_id": 5,
+        "timestamp": "2025-08-23T12:41:54.596136"
+    },
+    {
+        "instance_id": 254,
+        "member_id": 56,
+        "exercise_id": "VQ3sNCn",
+        "club_id": 3,
+        "timestamp": "2025-07-28T20:12:17.402353"
+    },
+    {
+        "instance_id": 255,
+        "member_id": 99,
+        "exercise_id": "hbY9wqG",
+        "club_id": 3,
+        "timestamp": "2025-07-22T17:41:52.952796"
+    },
+    {
+        "instance_id": 256,
+        "member_id": 96,
+        "exercise_id": "2IxROQ1",
+        "club_id": 3,
+        "timestamp": "2025-09-27T02:08:54.780480"
+    },
+    {
+        "instance_id": 257,
+        "member_id": 31,
+        "exercise_id": "9fCHfSc",
+        "club_id": 2,
+        "timestamp": "2025-10-02T15:43:02.277068"
+    },
+    {
+        "instance_id": 258,
+        "member_id": 40,
+        "exercise_id": "BJ0Hz5L",
+        "club_id": 1,
+        "timestamp": "2025-09-07T20:33:19.858152"
+    },
+    {
+        "instance_id": 259,
+        "member_id": 24,
+        "exercise_id": "PQStVXH",
+        "club_id": 3,
+        "timestamp": "2025-10-21T03:15:56.090399"
+    },
+    {
+        "instance_id": 260,
+        "member_id": 87,
+        "exercise_id": "o8aOcrz",
+        "club_id": 3,
+        "timestamp": "2025-09-02T06:02:02.575877"
+    },
+    {
+        "instance_id": 261,
+        "member_id": 66,
+        "exercise_id": "Mxa7Cr8",
+        "club_id": 5,
+        "timestamp": "2025-09-12T02:54:10.253519"
+    },
+    {
+        "instance_id": 262,
+        "member_id": 53,
+        "exercise_id": "WcHl7ru",
+        "club_id": 4,
+        "timestamp": "2025-09-25T20:09:35.720471"
+    },
+    {
+        "instance_id": 263,
+        "member_id": 39,
+        "exercise_id": "EIsE3u8",
+        "club_id": 1,
+        "timestamp": "2025-07-26T11:16:39.049384"
+    },
+    {
+        "instance_id": 264,
+        "member_id": 51,
+        "exercise_id": "yRLPCLu",
+        "club_id": 4,
+        "timestamp": "2025-07-17T11:59:35.384783"
+    },
+    {
+        "instance_id": 265,
+        "member_id": 82,
+        "exercise_id": "Nh3mvOO",
+        "club_id": 3,
+        "timestamp": "2025-07-14T04:39:01.467311"
+    },
+    {
+        "instance_id": 266,
+        "member_id": 34,
+        "exercise_id": "Z5YStHW",
+        "club_id": 3,
+        "timestamp": "2025-10-11T22:30:52.716542"
+    },
+    {
+        "instance_id": 267,
+        "member_id": 3,
+        "exercise_id": "A3P4O0R",
+        "club_id": 4,
+        "timestamp": "2025-09-17T09:16:43.840706"
+    },
+    {
+        "instance_id": 268,
+        "member_id": 43,
+        "exercise_id": "hvV79Si",
+        "club_id": 3,
+        "timestamp": "2025-08-10T12:08:49.089387"
+    },
+    {
+        "instance_id": 269,
+        "member_id": 14,
+        "exercise_id": "JhYSVwT",
+        "club_id": 1,
+        "timestamp": "2025-10-12T05:54:22.458050"
+    },
+    {
+        "instance_id": 270,
+        "member_id": 67,
+        "exercise_id": "Q4DSJPC",
+        "club_id": 4,
+        "timestamp": "2025-08-01T14:44:31.369783"
+    },
+    {
+        "instance_id": 271,
+        "member_id": 29,
+        "exercise_id": "IGjKj1v",
+        "club_id": 2,
+        "timestamp": "2025-08-06T21:33:48.060130"
+    },
+    {
+        "instance_id": 272,
+        "member_id": 95,
+        "exercise_id": "RrLske5",
+        "club_id": 4,
+        "timestamp": "2025-07-30T12:26:45.621413"
+    },
+    {
+        "instance_id": 273,
+        "member_id": 24,
+        "exercise_id": "kesXOpB",
+        "club_id": 3,
+        "timestamp": "2025-08-13T21:33:39.099324"
+    },
+    {
+        "instance_id": 274,
+        "member_id": 48,
+        "exercise_id": "NfP83rA",
+        "club_id": 2,
+        "timestamp": "2025-10-07T12:09:40.120404"
+    },
+    {
+        "instance_id": 275,
+        "member_id": 100,
+        "exercise_id": "bpJL2Qs",
+        "club_id": 5,
+        "timestamp": "2025-10-08T08:31:13.884208"
+    },
+    {
+        "instance_id": 276,
+        "member_id": 87,
+        "exercise_id": "wu5LXwz",
+        "club_id": 3,
+        "timestamp": "2025-09-16T10:28:11.353767"
+    },
+    {
+        "instance_id": 277,
+        "member_id": 25,
+        "exercise_id": "7aVz15j",
+        "club_id": 4,
+        "timestamp": "2025-07-16T06:52:38.170957"
+    },
+    {
+        "instance_id": 278,
+        "member_id": 70,
+        "exercise_id": "D5yqP2p",
+        "club_id": 5,
+        "timestamp": "2025-08-17T18:53:16.684336"
+    },
+    {
+        "instance_id": 279,
+        "member_id": 77,
+        "exercise_id": "1u36hhy",
+        "club_id": 4,
+        "timestamp": "2025-09-08T01:17:54.217962"
+    },
+    {
+        "instance_id": 280,
+        "member_id": 67,
+        "exercise_id": "bZq4bwK",
+        "club_id": 4,
+        "timestamp": "2025-09-25T22:26:52.774646"
+    },
+    {
+        "instance_id": 281,
+        "member_id": 4,
+        "exercise_id": "7aVz15j",
+        "club_id": 5,
+        "timestamp": "2025-07-23T18:35:37.817002"
+    },
+    {
+        "instance_id": 282,
+        "member_id": 41,
+        "exercise_id": "zZlORz6",
+        "club_id": 2,
+        "timestamp": "2025-06-30T19:22:23.162778"
+    },
+    {
+        "instance_id": 283,
+        "member_id": 92,
+        "exercise_id": "7vG5o25",
+        "club_id": 2,
+        "timestamp": "2025-08-25T16:10:45.064563"
+    },
+    {
+        "instance_id": 284,
+        "member_id": 20,
+        "exercise_id": "uxJcFUU",
+        "club_id": 2,
+        "timestamp": "2025-08-26T22:28:49.988365"
+    },
+    {
+        "instance_id": 285,
+        "member_id": 52,
+        "exercise_id": "PNtsX17",
+        "club_id": 3,
+        "timestamp": "2025-09-16T10:04:40.814849"
+    },
+    {
+        "instance_id": 286,
+        "member_id": 38,
+        "exercise_id": "jDnrkar",
+        "club_id": 2,
+        "timestamp": "2025-08-27T04:54:05.380208"
+    },
+    {
+        "instance_id": 287,
+        "member_id": 35,
+        "exercise_id": "3xK09Sk",
+        "club_id": 2,
+        "timestamp": "2025-10-11T19:14:24.269824"
+    },
+    {
+        "instance_id": 288,
+        "member_id": 21,
+        "exercise_id": "EIsE3u8",
+        "club_id": 1,
+        "timestamp": "2025-06-25T02:52:24.069829"
+    },
+    {
+        "instance_id": 289,
+        "member_id": 40,
+        "exercise_id": "G70mEAJ",
+        "club_id": 1,
+        "timestamp": "2025-09-06T19:16:39.214678"
+    },
+    {
+        "instance_id": 290,
+        "member_id": 26,
+        "exercise_id": "vtusOWT",
+        "club_id": 4,
+        "timestamp": "2025-10-15T14:16:27.166898"
+    },
+    {
+        "instance_id": 291,
+        "member_id": 95,
+        "exercise_id": "J6Dx1Mu",
+        "club_id": 4,
+        "timestamp": "2025-09-01T05:31:58.362369"
+    },
+    {
+        "instance_id": 292,
+        "member_id": 98,
+        "exercise_id": "DQ0cqkT",
+        "club_id": 2,
+        "timestamp": "2025-08-05T13:51:36.198090"
+    },
+    {
+        "instance_id": 293,
+        "member_id": 25,
+        "exercise_id": "bndCa3Q",
+        "club_id": 4,
+        "timestamp": "2025-07-21T23:00:14.613024"
+    },
+    {
+        "instance_id": 294,
+        "member_id": 59,
+        "exercise_id": "Nh3mvOO",
+        "club_id": 5,
+        "timestamp": "2025-09-27T22:22:06.406594"
+    },
+    {
+        "instance_id": 295,
+        "member_id": 82,
+        "exercise_id": "v2DfH14",
+        "club_id": 3,
+        "timestamp": "2025-09-20T11:21:48.281753"
+    },
+    {
+        "instance_id": 296,
+        "member_id": 40,
+        "exercise_id": "vpp9Ku2",
+        "club_id": 1,
+        "timestamp": "2025-07-10T10:06:02.831648"
+    },
+    {
+        "instance_id": 297,
+        "member_id": 15,
+        "exercise_id": "ZqNOWQ6",
+        "club_id": 1,
+        "timestamp": "2025-09-28T04:30:29.863149"
+    },
+    {
+        "instance_id": 298,
+        "member_id": 26,
+        "exercise_id": "yRLPCLu",
+        "club_id": 4,
+        "timestamp": "2025-07-14T21:08:49.243991"
+    },
+    {
+        "instance_id": 299,
+        "member_id": 14,
+        "exercise_id": "Tq6gbK6",
+        "club_id": 1,
+        "timestamp": "2025-06-27T11:26:09.337655"
+    },
+    {
+        "instance_id": 300,
+        "member_id": 57,
+        "exercise_id": "XUUD0Fs",
+        "club_id": 1,
+        "timestamp": "2025-07-10T17:13:20.054142"
+    },
+    {
+        "instance_id": 301,
+        "member_id": 38,
+        "exercise_id": "NN8nSNT",
+        "club_id": 2,
+        "timestamp": "2025-08-18T04:58:06.735264"
+    },
+    {
+        "instance_id": 302,
+        "member_id": 27,
+        "exercise_id": "EIsE3u8",
+        "club_id": 1,
+        "timestamp": "2025-07-12T09:34:10.317647"
+    },
+    {
+        "instance_id": 303,
+        "member_id": 60,
+        "exercise_id": "iaapw0g",
+        "club_id": 4,
+        "timestamp": "2025-07-18T06:49:43.778284"
+    },
+    {
+        "instance_id": 304,
+        "member_id": 59,
+        "exercise_id": "vpp9Ku2",
+        "club_id": 5,
+        "timestamp": "2025-08-15T03:12:37.916636"
+    },
+    {
+        "instance_id": 305,
+        "member_id": 40,
+        "exercise_id": "yaAxcQr",
+        "club_id": 1,
+        "timestamp": "2025-07-12T14:51:09.570767"
+    },
+    {
+        "instance_id": 306,
+        "member_id": 80,
+        "exercise_id": "5lE7XRz",
+        "club_id": 3,
+        "timestamp": "2025-10-20T20:17:52.757844"
+    },
+    {
+        "instance_id": 307,
+        "member_id": 41,
+        "exercise_id": "VuoerH0",
+        "club_id": 2,
+        "timestamp": "2025-08-21T05:33:10.970124"
+    },
+    {
+        "instance_id": 308,
+        "member_id": 39,
+        "exercise_id": "x6KpKpq",
+        "club_id": 1,
+        "timestamp": "2025-06-24T01:37:00.362902"
+    },
+    {
+        "instance_id": 309,
+        "member_id": 52,
+        "exercise_id": "aaXr7ld",
+        "club_id": 3,
+        "timestamp": "2025-07-01T11:21:10.511746"
+    },
+    {
+        "instance_id": 310,
+        "member_id": 39,
+        "exercise_id": "SJqRxOt",
+        "club_id": 1,
+        "timestamp": "2025-10-07T11:30:14.719949"
+    },
+    {
+        "instance_id": 311,
+        "member_id": 4,
+        "exercise_id": "Ca76jUE",
+        "club_id": 5,
+        "timestamp": "2025-09-15T09:06:37.484661"
+    },
+    {
+        "instance_id": 312,
+        "member_id": 69,
+        "exercise_id": "HJ63mSO",
+        "club_id": 2,
+        "timestamp": "2025-07-18T23:50:47.210220"
+    },
+    {
+        "instance_id": 313,
+        "member_id": 1,
+        "exercise_id": "o8aOcrz",
+        "club_id": 4,
+        "timestamp": "2025-10-11T02:04:36.540156"
+    },
+    {
+        "instance_id": 314,
+        "member_id": 44,
+        "exercise_id": "da4cXST",
+        "club_id": 5,
+        "timestamp": "2025-09-07T13:06:19.488339"
+    },
+    {
+        "instance_id": 315,
+        "member_id": 32,
+        "exercise_id": "pgIdT6i",
+        "club_id": 5,
+        "timestamp": "2025-09-25T05:15:44.955221"
+    },
+    {
+        "instance_id": 316,
+        "member_id": 60,
+        "exercise_id": "kprile3",
+        "club_id": 4,
+        "timestamp": "2025-10-15T16:06:08.389089"
+    },
+    {
+        "instance_id": 317,
+        "member_id": 59,
+        "exercise_id": "GaSzzuh",
+        "club_id": 5,
+        "timestamp": "2025-06-25T11:26:13.346508"
+    },
+    {
+        "instance_id": 318,
+        "member_id": 14,
+        "exercise_id": "r0z6xzQ",
+        "club_id": 1,
+        "timestamp": "2025-08-06T04:34:47.155894"
+    },
+    {
+        "instance_id": 319,
+        "member_id": 6,
+        "exercise_id": "EMpUwRI",
+        "club_id": 3,
+        "timestamp": "2025-09-14T09:42:22.867922"
+    },
+    {
+        "instance_id": 320,
+        "member_id": 81,
+        "exercise_id": "MgKwAAo",
+        "club_id": 5,
+        "timestamp": "2025-07-03T00:33:51.974302"
+    },
+    {
+        "instance_id": 321,
+        "member_id": 1,
+        "exercise_id": "2IxROQ1",
+        "club_id": 4,
+        "timestamp": "2025-09-02T05:59:24.833141"
+    },
+    {
+        "instance_id": 322,
+        "member_id": 15,
+        "exercise_id": "9pQSkH8",
+        "club_id": 1,
+        "timestamp": "2025-10-03T11:29:43.669485"
+    },
+    {
+        "instance_id": 323,
+        "member_id": 8,
+        "exercise_id": "GaSzzuh",
+        "club_id": 5,
+        "timestamp": "2025-07-20T10:32:33.502992"
+    },
+    {
+        "instance_id": 324,
+        "member_id": 13,
+        "exercise_id": "1YUWDNZ",
+        "club_id": 5,
+        "timestamp": "2025-09-07T00:34:40.674793"
+    },
+    {
+        "instance_id": 325,
+        "member_id": 18,
+        "exercise_id": "7vG5o25",
+        "club_id": 2,
+        "timestamp": "2025-10-01T22:40:25.359960"
+    },
+    {
+        "instance_id": 326,
+        "member_id": 71,
+        "exercise_id": "CJwa0vD",
+        "club_id": 1,
+        "timestamp": "2025-07-12T20:06:31.930990"
+    },
+    {
+        "instance_id": 327,
+        "member_id": 66,
+        "exercise_id": "1u36hhy",
+        "club_id": 5,
+        "timestamp": "2025-10-13T02:19:37.379816"
+    },
+    {
+        "instance_id": 328,
+        "member_id": 79,
+        "exercise_id": "BJ0Hz5L",
+        "club_id": 2,
+        "timestamp": "2025-10-08T19:12:43.995253"
+    },
+    {
+        "instance_id": 329,
+        "member_id": 61,
+        "exercise_id": "wu5LXwz",
+        "club_id": 5,
+        "timestamp": "2025-09-29T06:39:25.183658"
+    },
+    {
+        "instance_id": 330,
+        "member_id": 94,
+        "exercise_id": "KQfySvS",
+        "club_id": 4,
+        "timestamp": "2025-10-18T22:19:29.920806"
+    },
+    {
+        "instance_id": 331,
+        "member_id": 41,
+        "exercise_id": "dAJscVq",
+        "club_id": 2,
+        "timestamp": "2025-07-28T11:16:59.103178"
+    },
+    {
+        "instance_id": 332,
+        "member_id": 50,
+        "exercise_id": "VPPtusI",
+        "club_id": 5,
+        "timestamp": "2025-10-06T00:42:36.751161"
+    },
+    {
+        "instance_id": 333,
+        "member_id": 30,
+        "exercise_id": "VYmYxK5",
+        "club_id": 1,
+        "timestamp": "2025-08-17T16:10:12.129043"
+    },
+    {
+        "instance_id": 334,
+        "member_id": 30,
+        "exercise_id": "WcHl7ru",
+        "club_id": 1,
+        "timestamp": "2025-07-01T20:03:00.976372"
+    },
+    {
+        "instance_id": 335,
+        "member_id": 98,
+        "exercise_id": "yg8Totb",
+        "club_id": 2,
+        "timestamp": "2025-06-26T21:02:14.097332"
+    },
+    {
+        "instance_id": 336,
+        "member_id": 72,
+        "exercise_id": "NfP83rA",
+        "club_id": 3,
+        "timestamp": "2025-10-03T23:01:28.829395"
+    },
+    {
+        "instance_id": 337,
+        "member_id": 20,
+        "exercise_id": "Nh3mvOO",
+        "club_id": 2,
+        "timestamp": "2025-09-16T10:03:52.976420"
+    },
+    {
+        "instance_id": 338,
+        "member_id": 36,
+        "exercise_id": "qRZ5S1N",
+        "club_id": 1,
+        "timestamp": "2025-07-13T06:09:11.788812"
+    },
+    {
+        "instance_id": 339,
+        "member_id": 26,
+        "exercise_id": "W6PxUkg",
+        "club_id": 4,
+        "timestamp": "2025-08-12T04:21:39.341097"
+    },
+    {
+        "instance_id": 340,
+        "member_id": 16,
+        "exercise_id": "FVM1AUZ",
+        "club_id": 1,
+        "timestamp": "2025-08-25T07:12:39.514553"
+    },
+    {
+        "instance_id": 341,
+        "member_id": 68,
+        "exercise_id": "ZqNOWQ6",
+        "club_id": 5,
+        "timestamp": "2025-09-23T04:12:13.499104"
+    },
+    {
+        "instance_id": 342,
+        "member_id": 84,
+        "exercise_id": "sYCcnon",
+        "club_id": 4,
+        "timestamp": "2025-07-18T08:11:30.910222"
+    },
+    {
+        "instance_id": 343,
+        "member_id": 66,
+        "exercise_id": "4ievMJ9",
+        "club_id": 5,
+        "timestamp": "2025-08-05T19:12:51.226967"
+    },
+    {
+        "instance_id": 344,
+        "member_id": 17,
+        "exercise_id": "LkoAWAE",
+        "club_id": 1,
+        "timestamp": "2025-07-19T15:16:24.779871"
+    },
+    {
+        "instance_id": 345,
+        "member_id": 66,
+        "exercise_id": "dZl9Q27",
+        "club_id": 5,
+        "timestamp": "2025-09-03T14:35:09.503855"
+    },
+    {
+        "instance_id": 346,
+        "member_id": 93,
+        "exercise_id": "IGjKj1v",
+        "club_id": 5,
+        "timestamp": "2025-07-21T11:26:31.950679"
+    },
+    {
+        "instance_id": 347,
+        "member_id": 82,
+        "exercise_id": "4ievMJ9",
+        "club_id": 3,
+        "timestamp": "2025-09-22T00:37:09.228035"
+    },
+    {
+        "instance_id": 348,
+        "member_id": 5,
+        "exercise_id": "yRLPCLu",
+        "club_id": 4,
+        "timestamp": "2025-07-07T17:12:34.497633"
+    },
+    {
+        "instance_id": 349,
+        "member_id": 83,
+        "exercise_id": "9fCHfSc",
+        "club_id": 4,
+        "timestamp": "2025-10-07T00:49:07.185546"
+    },
+    {
+        "instance_id": 350,
+        "member_id": 43,
+        "exercise_id": "dZl9Q27",
+        "club_id": 3,
+        "timestamp": "2025-08-02T21:31:18.187445"
+    },
+    {
+        "instance_id": 351,
+        "member_id": 89,
+        "exercise_id": "DQ0cqkT",
+        "club_id": 1,
+        "timestamp": "2025-09-23T22:20:03.775038"
+    },
+    {
+        "instance_id": 352,
+        "member_id": 40,
+        "exercise_id": "KWyEjtI",
+        "club_id": 1,
+        "timestamp": "2025-09-04T09:46:51.077874"
+    },
+    {
+        "instance_id": 353,
+        "member_id": 1,
+        "exercise_id": "DKBwJrL",
+        "club_id": 4,
+        "timestamp": "2025-06-25T05:14:58.868772"
+    },
+    {
+        "instance_id": 354,
+        "member_id": 80,
+        "exercise_id": "IGjKj1v",
+        "club_id": 3,
+        "timestamp": "2025-08-16T05:55:22.179851"
+    },
+    {
+        "instance_id": 355,
+        "member_id": 44,
+        "exercise_id": "XUUD0Fs",
+        "club_id": 5,
+        "timestamp": "2025-09-13T00:25:45.272225"
+    },
+    {
+        "instance_id": 356,
+        "member_id": 20,
+        "exercise_id": "G8dXpNG",
+        "club_id": 2,
+        "timestamp": "2025-07-09T13:14:28.621649"
+    },
+    {
+        "instance_id": 357,
+        "member_id": 51,
+        "exercise_id": "X6ytgYZ",
+        "club_id": 4,
+        "timestamp": "2025-07-27T08:58:56.729980"
+    },
+    {
+        "instance_id": 358,
+        "member_id": 26,
+        "exercise_id": "wf24o8S",
+        "club_id": 4,
+        "timestamp": "2025-09-02T14:04:26.670555"
+    },
+    {
+        "instance_id": 359,
+        "member_id": 91,
+        "exercise_id": "G8dXpNG",
+        "club_id": 1,
+        "timestamp": "2025-10-02T11:45:53.460862"
+    },
+    {
+        "instance_id": 360,
+        "member_id": 56,
+        "exercise_id": "C0MA9bC",
+        "club_id": 3,
+        "timestamp": "2025-10-14T12:08:22.317319"
+    },
+    {
+        "instance_id": 361,
+        "member_id": 2,
+        "exercise_id": "1YUWDNZ",
+        "club_id": 2,
+        "timestamp": "2025-07-25T05:26:36.093352"
+    },
+    {
+        "instance_id": 362,
+        "member_id": 96,
+        "exercise_id": "D5yqP2p",
+        "club_id": 3,
+        "timestamp": "2025-08-27T17:18:28.824733"
+    },
+    {
+        "instance_id": 363,
+        "member_id": 56,
+        "exercise_id": "vtusOWT",
+        "club_id": 3,
+        "timestamp": "2025-06-26T05:10:06.182394"
+    },
+    {
+        "instance_id": 364,
+        "member_id": 58,
+        "exercise_id": "bLyQokI",
+        "club_id": 4,
+        "timestamp": "2025-06-27T07:00:02.740498"
+    },
+    {
+        "instance_id": 365,
+        "member_id": 46,
+        "exercise_id": "CJwa0vD",
+        "club_id": 1,
+        "timestamp": "2025-06-26T23:43:58.454343"
+    },
+    {
+        "instance_id": 366,
+        "member_id": 81,
+        "exercise_id": "PNtsX17",
+        "club_id": 5,
+        "timestamp": "2025-08-11T17:49:45.578225"
+    },
+    {
+        "instance_id": 367,
+        "member_id": 82,
+        "exercise_id": "bLyQokI",
+        "club_id": 3,
+        "timestamp": "2025-10-09T16:31:56.818166"
+    },
+    {
+        "instance_id": 368,
+        "member_id": 22,
+        "exercise_id": "yg8Totb",
+        "club_id": 5,
+        "timestamp": "2025-07-02T10:38:46.460533"
+    },
+    {
+        "instance_id": 369,
+        "member_id": 53,
+        "exercise_id": "aaxA3cm",
+        "club_id": 4,
+        "timestamp": "2025-10-16T03:23:03.278625"
+    },
+    {
+        "instance_id": 370,
+        "member_id": 1,
+        "exercise_id": "dU605di",
+        "club_id": 4,
+        "timestamp": "2025-08-05T14:00:50.592242"
+    },
+    {
+        "instance_id": 371,
+        "member_id": 28,
+        "exercise_id": "w44vFvP",
+        "club_id": 2,
+        "timestamp": "2025-09-26T02:35:29.127197"
+    },
+    {
+        "instance_id": 372,
+        "member_id": 85,
+        "exercise_id": "ZujAdR9",
+        "club_id": 2,
+        "timestamp": "2025-10-16T17:56:53.387561"
+    },
+    {
+        "instance_id": 373,
+        "member_id": 2,
+        "exercise_id": "JF8AkMX",
+        "club_id": 2,
+        "timestamp": "2025-10-11T09:29:38.359932"
+    },
+    {
+        "instance_id": 374,
+        "member_id": 91,
+        "exercise_id": "wkgnGfb",
+        "club_id": 1,
+        "timestamp": "2025-09-23T18:42:13.149643"
+    },
+    {
+        "instance_id": 375,
+        "member_id": 71,
+        "exercise_id": "4ievMJ9",
+        "club_id": 1,
+        "timestamp": "2025-08-01T05:31:41.597828"
+    },
+    {
+        "instance_id": 376,
+        "member_id": 54,
+        "exercise_id": "U7D9Fx3",
+        "club_id": 4,
+        "timestamp": "2025-09-30T11:43:06.399888"
+    },
+    {
+        "instance_id": 377,
+        "member_id": 67,
+        "exercise_id": "wf24o8S",
+        "club_id": 4,
+        "timestamp": "2025-07-16T22:41:09.425906"
+    },
+    {
+        "instance_id": 378,
+        "member_id": 67,
+        "exercise_id": "7vG5o25",
+        "club_id": 4,
+        "timestamp": "2025-09-06T17:04:25.246687"
+    },
+    {
+        "instance_id": 379,
+        "member_id": 5,
+        "exercise_id": "FVM1AUZ",
+        "club_id": 4,
+        "timestamp": "2025-09-26T16:20:34.641382"
+    },
+    {
+        "instance_id": 380,
+        "member_id": 44,
+        "exercise_id": "mpKZGWz",
+        "club_id": 5,
+        "timestamp": "2025-07-20T03:05:41.437787"
+    },
+    {
+        "instance_id": 381,
+        "member_id": 22,
+        "exercise_id": "bKWbrTA",
+        "club_id": 5,
+        "timestamp": "2025-07-31T15:49:34.376521"
+    },
+    {
+        "instance_id": 382,
+        "member_id": 70,
+        "exercise_id": "K1vlode",
+        "club_id": 5,
+        "timestamp": "2025-08-12T10:52:00.872320"
+    },
+    {
+        "instance_id": 383,
+        "member_id": 27,
+        "exercise_id": "4CBIBOM",
+        "club_id": 1,
+        "timestamp": "2025-08-12T07:48:22.280884"
+    },
+    {
+        "instance_id": 384,
+        "member_id": 87,
+        "exercise_id": "WM6TvvW",
+        "club_id": 3,
+        "timestamp": "2025-10-01T15:08:19.450853"
+    },
+    {
+        "instance_id": 385,
+        "member_id": 98,
+        "exercise_id": "7ePTw4B",
+        "club_id": 2,
+        "timestamp": "2025-07-14T22:42:58.247637"
+    },
+    {
+        "instance_id": 386,
+        "member_id": 24,
+        "exercise_id": "u3UuCZu",
+        "club_id": 3,
+        "timestamp": "2025-10-02T14:55:29.691232"
+    },
+    {
+        "instance_id": 387,
+        "member_id": 75,
+        "exercise_id": "z6TAHoT",
+        "club_id": 2,
+        "timestamp": "2025-10-18T14:50:49.461015"
+    },
+    {
+        "instance_id": 388,
+        "member_id": 41,
+        "exercise_id": "Wgbn9qo",
+        "club_id": 2,
+        "timestamp": "2025-08-13T12:11:45.883976"
+    },
+    {
+        "instance_id": 389,
+        "member_id": 87,
+        "exercise_id": "FVM1AUZ",
+        "club_id": 3,
+        "timestamp": "2025-07-28T18:01:07.341120"
+    },
+    {
+        "instance_id": 390,
+        "member_id": 95,
+        "exercise_id": "qcY50ZD",
+        "club_id": 4,
+        "timestamp": "2025-07-10T14:06:03.059552"
+    },
+    {
+        "instance_id": 391,
+        "member_id": 6,
+        "exercise_id": "qRZ5S1N",
+        "club_id": 3,
+        "timestamp": "2025-10-21T04:59:17.851680"
+    },
+    {
+        "instance_id": 392,
+        "member_id": 84,
+        "exercise_id": "pgIdT6i",
+        "club_id": 4,
+        "timestamp": "2025-07-16T05:07:11.296694"
+    },
+    {
+        "instance_id": 393,
+        "member_id": 53,
+        "exercise_id": "Gchi5Tr",
+        "club_id": 4,
+        "timestamp": "2025-07-07T08:15:15.488283"
+    },
+    {
+        "instance_id": 394,
+        "member_id": 55,
+        "exercise_id": "PbzNu7c",
+        "club_id": 1,
+        "timestamp": "2025-09-14T02:57:11.639699"
+    },
+    {
+        "instance_id": 395,
+        "member_id": 24,
+        "exercise_id": "JhYSVwT",
+        "club_id": 3,
+        "timestamp": "2025-08-03T19:57:44.125073"
+    },
+    {
+        "instance_id": 396,
+        "member_id": 60,
+        "exercise_id": "O4oIqQD",
+        "club_id": 4,
+        "timestamp": "2025-09-12T20:37:29.558827"
+    },
+    {
+        "instance_id": 397,
+        "member_id": 92,
+        "exercise_id": "BJ0Hz5L",
+        "club_id": 2,
+        "timestamp": "2025-09-26T13:43:40.005446"
+    },
+    {
+        "instance_id": 398,
+        "member_id": 18,
+        "exercise_id": "1YUWDNZ",
+        "club_id": 2,
+        "timestamp": "2025-09-05T13:23:49.910064"
+    },
+    {
+        "instance_id": 399,
+        "member_id": 25,
+        "exercise_id": "EIsE3u8",
+        "club_id": 4,
+        "timestamp": "2025-08-04T10:44:11.707190"
+    },
+    {
+        "instance_id": 400,
+        "member_id": 91,
+        "exercise_id": "fUBheHs",
+        "club_id": 1,
+        "timestamp": "2025-06-30T20:03:02.711269"
+    },
+    {
+        "instance_id": 401,
+        "member_id": 38,
+        "exercise_id": "wbUYILZ",
+        "club_id": 2,
+        "timestamp": "2025-08-07T03:18:32.248114"
+    },
+    {
+        "instance_id": 402,
+        "member_id": 42,
+        "exercise_id": "2IxROQ1",
+        "club_id": 4,
+        "timestamp": "2025-10-16T17:00:18.976903"
+    },
+    {
+        "instance_id": 403,
+        "member_id": 42,
+        "exercise_id": "yg8Totb",
+        "club_id": 4,
+        "timestamp": "2025-07-18T06:39:02.642849"
+    },
+    {
+        "instance_id": 404,
+        "member_id": 32,
+        "exercise_id": "z6TAHoT",
+        "club_id": 5,
+        "timestamp": "2025-09-12T15:25:53.522043"
+    },
+    {
+        "instance_id": 405,
+        "member_id": 34,
+        "exercise_id": "OVIKwsd",
+        "club_id": 3,
+        "timestamp": "2025-08-05T13:08:21.836166"
+    },
+    {
+        "instance_id": 406,
+        "member_id": 89,
+        "exercise_id": "Nh3mvOO",
+        "club_id": 1,
+        "timestamp": "2025-10-10T15:42:11.084672"
+    },
+    {
+        "instance_id": 407,
+        "member_id": 80,
+        "exercise_id": "da4cXST",
+        "club_id": 3,
+        "timestamp": "2025-08-09T13:17:32.000520"
+    },
+    {
+        "instance_id": 408,
+        "member_id": 27,
+        "exercise_id": "KQfySvS",
+        "club_id": 1,
+        "timestamp": "2025-06-29T17:36:06.574576"
+    },
+    {
+        "instance_id": 409,
+        "member_id": 27,
+        "exercise_id": "OTgkHwR",
+        "club_id": 1,
+        "timestamp": "2025-10-09T20:24:33.912335"
+    },
+    {
+        "instance_id": 410,
+        "member_id": 92,
+        "exercise_id": "bKWbrTA",
+        "club_id": 2,
+        "timestamp": "2025-08-28T19:18:00.691678"
+    },
+    {
+        "instance_id": 411,
+        "member_id": 92,
+        "exercise_id": "pgIdT6i",
+        "club_id": 2,
+        "timestamp": "2025-09-10T19:45:28.057678"
+    },
+    {
+        "instance_id": 412,
+        "member_id": 3,
+        "exercise_id": "Al3tP0D",
+        "club_id": 4,
+        "timestamp": "2025-09-17T15:55:59.386448"
+    },
+    {
+        "instance_id": 413,
+        "member_id": 53,
+        "exercise_id": "dmgMp3n",
+        "club_id": 4,
+        "timestamp": "2025-09-09T03:21:27.749522"
+    },
+    {
+        "instance_id": 414,
+        "member_id": 41,
+        "exercise_id": "VYmYxK5",
+        "club_id": 2,
+        "timestamp": "2025-08-08T12:11:29.384033"
+    },
+    {
+        "instance_id": 415,
+        "member_id": 26,
+        "exercise_id": "wbUYILZ",
+        "club_id": 4,
+        "timestamp": "2025-07-26T07:14:38.663618"
+    },
+    {
+        "instance_id": 416,
+        "member_id": 39,
+        "exercise_id": "LMGXZn8",
+        "club_id": 1,
+        "timestamp": "2025-08-08T03:15:47.815725"
+    },
+    {
+        "instance_id": 417,
+        "member_id": 8,
+        "exercise_id": "OxJk1fg",
+        "club_id": 5,
+        "timestamp": "2025-10-11T04:19:49.764186"
+    },
+    {
+        "instance_id": 418,
+        "member_id": 61,
+        "exercise_id": "C0MA9bC",
+        "club_id": 5,
+        "timestamp": "2025-10-19T09:24:37.171676"
+    },
+    {
+        "instance_id": 419,
+        "member_id": 17,
+        "exercise_id": "zZlORz6",
+        "club_id": 1,
+        "timestamp": "2025-09-27T18:03:07.126185"
+    },
+    {
+        "instance_id": 420,
+        "member_id": 10,
+        "exercise_id": "dmgMp3n",
+        "club_id": 4,
+        "timestamp": "2025-08-10T15:12:36.366765"
+    },
+    {
+        "instance_id": 421,
+        "member_id": 50,
+        "exercise_id": "tig3PXb",
+        "club_id": 5,
+        "timestamp": "2025-06-29T15:47:07.316042"
+    },
+    {
+        "instance_id": 422,
+        "member_id": 9,
+        "exercise_id": "9pQSkH8",
+        "club_id": 2,
+        "timestamp": "2025-08-11T02:08:32.381854"
+    },
+    {
+        "instance_id": 423,
+        "member_id": 39,
+        "exercise_id": "4cWjYEN",
+        "club_id": 1,
+        "timestamp": "2025-08-14T18:07:54.036389"
+    },
+    {
+        "instance_id": 424,
+        "member_id": 31,
+        "exercise_id": "W6PxUkg",
+        "club_id": 2,
+        "timestamp": "2025-07-08T02:30:56.630896"
+    },
+    {
+        "instance_id": 425,
+        "member_id": 56,
+        "exercise_id": "XalXcvM",
+        "club_id": 3,
+        "timestamp": "2025-10-12T08:33:20.571972"
+    },
+    {
+        "instance_id": 426,
+        "member_id": 41,
+        "exercise_id": "8K7m2SS",
+        "club_id": 2,
+        "timestamp": "2025-09-23T10:46:19.088767"
+    },
+    {
+        "instance_id": 427,
+        "member_id": 68,
+        "exercise_id": "BReCuOn",
+        "club_id": 5,
+        "timestamp": "2025-07-26T03:34:33.895071"
+    },
+    {
+        "instance_id": 428,
+        "member_id": 97,
+        "exercise_id": "oHg8eop",
+        "club_id": 1,
+        "timestamp": "2025-07-03T18:56:21.475830"
+    },
+    {
+        "instance_id": 429,
+        "member_id": 46,
+        "exercise_id": "PbzNu7c",
+        "club_id": 1,
+        "timestamp": "2025-07-23T06:36:50.709484"
+    },
+    {
+        "instance_id": 430,
+        "member_id": 14,
+        "exercise_id": "mpKZGWz",
+        "club_id": 1,
+        "timestamp": "2025-06-29T11:12:49.819532"
+    },
+    {
+        "instance_id": 431,
+        "member_id": 10,
+        "exercise_id": "v2DfH14",
+        "club_id": 4,
+        "timestamp": "2025-10-14T12:24:20.161121"
+    },
+    {
+        "instance_id": 432,
+        "member_id": 90,
+        "exercise_id": "8K7m2SS",
+        "club_id": 5,
+        "timestamp": "2025-10-17T09:44:35.844481"
+    },
+    {
+        "instance_id": 433,
+        "member_id": 8,
+        "exercise_id": "Mxa7Cr8",
+        "club_id": 5,
+        "timestamp": "2025-09-01T22:10:59.021509"
+    },
+    {
+        "instance_id": 434,
+        "member_id": 51,
+        "exercise_id": "PNtsX17",
+        "club_id": 4,
+        "timestamp": "2025-07-13T14:12:03.451035"
+    },
+    {
+        "instance_id": 435,
+        "member_id": 17,
+        "exercise_id": "wf24o8S",
+        "club_id": 1,
+        "timestamp": "2025-09-16T00:06:46.493073"
+    },
+    {
+        "instance_id": 436,
+        "member_id": 62,
+        "exercise_id": "u3UuCZu",
+        "club_id": 2,
+        "timestamp": "2025-06-25T01:23:18.576250"
+    },
+    {
+        "instance_id": 437,
+        "member_id": 29,
+        "exercise_id": "OIFMAp1",
+        "club_id": 2,
+        "timestamp": "2025-10-19T22:48:25.467227"
+    },
+    {
+        "instance_id": 438,
+        "member_id": 84,
+        "exercise_id": "MSfvriJ",
+        "club_id": 4,
+        "timestamp": "2025-09-26T18:01:58.764112"
+    },
+    {
+        "instance_id": 439,
+        "member_id": 60,
+        "exercise_id": "uxJcFUU",
+        "club_id": 4,
+        "timestamp": "2025-08-25T12:26:16.429098"
+    },
+    {
+        "instance_id": 440,
+        "member_id": 48,
+        "exercise_id": "U3ffHlY",
+        "club_id": 2,
+        "timestamp": "2025-06-30T09:48:14.511584"
+    },
+    {
+        "instance_id": 441,
+        "member_id": 71,
+        "exercise_id": "JF8AkMX",
+        "club_id": 1,
+        "timestamp": "2025-09-21T20:21:31.923991"
+    },
+    {
+        "instance_id": 442,
+        "member_id": 75,
+        "exercise_id": "J60bN17",
+        "club_id": 2,
+        "timestamp": "2025-09-15T05:47:54.577337"
+    },
+    {
+        "instance_id": 443,
+        "member_id": 60,
+        "exercise_id": "bZGHsAZ",
+        "club_id": 4,
+        "timestamp": "2025-07-12T03:14:34.315521"
+    },
+    {
+        "instance_id": 444,
+        "member_id": 53,
+        "exercise_id": "N6dZN2I",
+        "club_id": 4,
+        "timestamp": "2025-07-13T13:30:03.671869"
+    },
+    {
+        "instance_id": 445,
+        "member_id": 40,
+        "exercise_id": "Db7eEgw",
+        "club_id": 1,
+        "timestamp": "2025-10-20T13:54:42.514453"
+    },
+    {
+        "instance_id": 446,
+        "member_id": 53,
+        "exercise_id": "fUBheHs",
+        "club_id": 4,
+        "timestamp": "2025-09-05T13:51:15.063679"
+    },
+    {
+        "instance_id": 447,
+        "member_id": 34,
+        "exercise_id": "DKBwJrL",
+        "club_id": 3,
+        "timestamp": "2025-09-25T17:41:06.285455"
+    },
+    {
+        "instance_id": 448,
+        "member_id": 14,
+        "exercise_id": "2IxROQ1",
+        "club_id": 1,
+        "timestamp": "2025-09-22T05:44:37.490023"
+    },
+    {
+        "instance_id": 449,
+        "member_id": 23,
+        "exercise_id": "W6PxUkg",
+        "club_id": 4,
+        "timestamp": "2025-09-30T08:23:01.471792"
+    },
+    {
+        "instance_id": 450,
+        "member_id": 45,
+        "exercise_id": "zYmNaoY",
+        "club_id": 1,
+        "timestamp": "2025-08-23T00:41:15.691570"
+    },
+    {
+        "instance_id": 451,
+        "member_id": 87,
+        "exercise_id": "bZGHsAZ",
+        "club_id": 3,
+        "timestamp": "2025-10-03T08:08:26.047980"
+    },
+    {
+        "instance_id": 452,
+        "member_id": 8,
+        "exercise_id": "PQStVXH",
+        "club_id": 5,
+        "timestamp": "2025-07-02T10:46:17.357965"
+    },
+    {
+        "instance_id": 453,
+        "member_id": 37,
+        "exercise_id": "iaapw0g",
+        "club_id": 2,
+        "timestamp": "2025-07-02T12:09:00.972818"
+    },
+    {
+        "instance_id": 454,
+        "member_id": 81,
+        "exercise_id": "OxJk1fg",
+        "club_id": 5,
+        "timestamp": "2025-10-18T19:56:40.197312"
+    },
+    {
+        "instance_id": 455,
+        "member_id": 20,
+        "exercise_id": "4CBIBOM",
+        "club_id": 2,
+        "timestamp": "2025-09-29T10:03:23.485421"
+    },
+    {
+        "instance_id": 456,
+        "member_id": 49,
+        "exercise_id": "8d8qJQI",
+        "club_id": 1,
+        "timestamp": "2025-09-23T05:11:25.625546"
+    },
+    {
+        "instance_id": 457,
+        "member_id": 34,
+        "exercise_id": "1xHyxys",
+        "club_id": 3,
+        "timestamp": "2025-07-06T18:40:27.044827"
+    },
+    {
+        "instance_id": 458,
+        "member_id": 22,
+        "exercise_id": "nZZZy9m",
+        "club_id": 5,
+        "timestamp": "2025-09-08T20:44:36.284052"
+    },
+    {
+        "instance_id": 459,
+        "member_id": 27,
+        "exercise_id": "c8oybX6",
+        "club_id": 1,
+        "timestamp": "2025-07-12T10:33:18.249543"
+    },
+    {
+        "instance_id": 460,
+        "member_id": 40,
+        "exercise_id": "km0sQC0",
+        "club_id": 1,
+        "timestamp": "2025-08-07T22:24:11.271600"
+    },
+    {
+        "instance_id": 461,
+        "member_id": 6,
+        "exercise_id": "4OaumBr",
+        "club_id": 3,
+        "timestamp": "2025-06-25T08:41:49.909854"
+    },
+    {
+        "instance_id": 462,
+        "member_id": 10,
+        "exercise_id": "oHg8eop",
+        "club_id": 4,
+        "timestamp": "2025-07-18T00:48:32.107016"
+    },
+    {
+        "instance_id": 463,
+        "member_id": 71,
+        "exercise_id": "4Jt8QsQ",
+        "club_id": 1,
+        "timestamp": "2025-07-02T18:11:26.446954"
+    },
+    {
+        "instance_id": 464,
+        "member_id": 88,
+        "exercise_id": "jDnrkar",
+        "club_id": 2,
+        "timestamp": "2025-08-28T17:57:58.494626"
+    },
+    {
+        "instance_id": 465,
+        "member_id": 91,
+        "exercise_id": "GaSzzuh",
+        "club_id": 1,
+        "timestamp": "2025-07-12T22:18:14.128180"
+    },
+    {
+        "instance_id": 466,
+        "member_id": 10,
+        "exercise_id": "bZq4bwK",
+        "club_id": 4,
+        "timestamp": "2025-08-23T22:52:09.315498"
+    },
+    {
+        "instance_id": 467,
+        "member_id": 4,
+        "exercise_id": "JhYSVwT",
+        "club_id": 5,
+        "timestamp": "2025-07-20T15:53:07.998604"
+    },
+    {
+        "instance_id": 468,
+        "member_id": 31,
+        "exercise_id": "HEJ6DIX",
+        "club_id": 2,
+        "timestamp": "2025-09-02T19:16:32.036441"
+    },
+    {
+        "instance_id": 469,
+        "member_id": 14,
+        "exercise_id": "A3P4O0R",
+        "club_id": 1,
+        "timestamp": "2025-07-22T03:06:36.258340"
+    },
+    {
+        "instance_id": 470,
+        "member_id": 31,
+        "exercise_id": "iaapw0g",
+        "club_id": 2,
+        "timestamp": "2025-06-25T11:32:21.739784"
+    },
+    {
+        "instance_id": 471,
+        "member_id": 61,
+        "exercise_id": "pgIdT6i",
+        "club_id": 5,
+        "timestamp": "2025-06-24T21:08:24.634823"
+    },
+    {
+        "instance_id": 472,
+        "member_id": 40,
+        "exercise_id": "kesXOpB",
+        "club_id": 1,
+        "timestamp": "2025-09-03T11:56:22.761263"
+    },
+    {
+        "instance_id": 473,
+        "member_id": 53,
+        "exercise_id": "vtusOWT",
+        "club_id": 4,
+        "timestamp": "2025-09-24T11:39:37.259686"
+    },
+    {
+        "instance_id": 474,
+        "member_id": 36,
+        "exercise_id": "3xK09Sk",
+        "club_id": 1,
+        "timestamp": "2025-07-19T23:51:06.158116"
+    },
+    {
+        "instance_id": 475,
+        "member_id": 13,
+        "exercise_id": "gtO1ErP",
+        "club_id": 5,
+        "timestamp": "2025-07-01T16:55:20.804905"
+    },
+    {
+        "instance_id": 476,
+        "member_id": 83,
+        "exercise_id": "X3cqyXz",
+        "club_id": 4,
+        "timestamp": "2025-08-13T12:42:06.187738"
+    },
+    {
+        "instance_id": 477,
+        "member_id": 96,
+        "exercise_id": "HJ63mSO",
+        "club_id": 3,
+        "timestamp": "2025-08-28T11:41:42.748021"
+    },
+    {
+        "instance_id": 478,
+        "member_id": 95,
+        "exercise_id": "D5yqP2p",
+        "club_id": 4,
+        "timestamp": "2025-09-10T08:36:07.915926"
+    },
+    {
+        "instance_id": 479,
+        "member_id": 43,
+        "exercise_id": "JhYSVwT",
+        "club_id": 3,
+        "timestamp": "2025-06-28T02:34:06.838293"
+    },
+    {
+        "instance_id": 480,
+        "member_id": 51,
+        "exercise_id": "ZIViNh1",
+        "club_id": 4,
+        "timestamp": "2025-07-05T19:22:18.861442"
+    },
+    {
+        "instance_id": 481,
+        "member_id": 19,
+        "exercise_id": "Hx1WC8I",
+        "club_id": 2,
+        "timestamp": "2025-10-03T18:33:48.570852"
+    },
+    {
+        "instance_id": 482,
+        "member_id": 28,
+        "exercise_id": "W6PxUkg",
+        "club_id": 2,
+        "timestamp": "2025-07-31T15:53:26.526934"
+    },
+    {
+        "instance_id": 483,
+        "member_id": 65,
+        "exercise_id": "MgKwAAo",
+        "club_id": 1,
+        "timestamp": "2025-08-11T07:43:54.934157"
+    },
+    {
+        "instance_id": 484,
+        "member_id": 1,
+        "exercise_id": "LkoAWAE",
+        "club_id": 4,
+        "timestamp": "2025-09-18T11:11:59.409677"
+    },
+    {
+        "instance_id": 485,
+        "member_id": 92,
+        "exercise_id": "s5PdDyY",
+        "club_id": 2,
+        "timestamp": "2025-09-14T21:41:05.369909"
+    },
+    {
+        "instance_id": 486,
+        "member_id": 99,
+        "exercise_id": "pP8wP2P",
+        "club_id": 3,
+        "timestamp": "2025-07-19T23:51:31.513469"
+    },
+    {
+        "instance_id": 487,
+        "member_id": 9,
+        "exercise_id": "Hx1WC8I",
+        "club_id": 2,
+        "timestamp": "2025-08-29T01:30:47.106516"
+    },
+    {
+        "instance_id": 488,
+        "member_id": 6,
+        "exercise_id": "w44vFvP",
+        "club_id": 3,
+        "timestamp": "2025-09-25T22:19:13.531782"
+    },
+    {
+        "instance_id": 489,
+        "member_id": 81,
+        "exercise_id": "aaXr7ld",
+        "club_id": 5,
+        "timestamp": "2025-09-21T18:20:40.038735"
+    },
+    {
+        "instance_id": 490,
+        "member_id": 2,
+        "exercise_id": "D5yqP2p",
+        "club_id": 2,
+        "timestamp": "2025-09-03T14:22:08.955430"
+    },
+    {
+        "instance_id": 491,
+        "member_id": 15,
+        "exercise_id": "pP8wP2P",
+        "club_id": 1,
+        "timestamp": "2025-08-26T15:26:14.879559"
+    },
+    {
+        "instance_id": 492,
+        "member_id": 78,
+        "exercise_id": "wbUYILZ",
+        "club_id": 1,
+        "timestamp": "2025-07-30T03:53:22.285557"
+    },
+    {
+        "instance_id": 493,
+        "member_id": 70,
+        "exercise_id": "yRLPCLu",
+        "club_id": 5,
+        "timestamp": "2025-08-03T05:25:55.184125"
+    },
+    {
+        "instance_id": 494,
+        "member_id": 97,
+        "exercise_id": "da4cXST",
+        "club_id": 1,
+        "timestamp": "2025-09-04T11:23:46.672512"
+    },
+    {
+        "instance_id": 495,
+        "member_id": 45,
+        "exercise_id": "dAJscVq",
+        "club_id": 1,
+        "timestamp": "2025-07-23T21:02:55.777606"
+    },
+    {
+        "instance_id": 496,
+        "member_id": 1,
+        "exercise_id": "aaxA3cm",
+        "club_id": 4,
+        "timestamp": "2025-09-24T07:29:50.269959"
+    },
+    {
+        "instance_id": 497,
+        "member_id": 95,
+        "exercise_id": "PQStVXH",
+        "club_id": 4,
+        "timestamp": "2025-09-20T21:11:16.514156"
+    },
+    {
+        "instance_id": 498,
+        "member_id": 87,
+        "exercise_id": "dU605di",
+        "club_id": 3,
+        "timestamp": "2025-08-11T02:42:47.914068"
+    },
+    {
+        "instance_id": 499,
+        "member_id": 27,
+        "exercise_id": "obe5LMq",
+        "club_id": 1,
+        "timestamp": "2025-09-15T00:54:00.702423"
+    },
+    {
+        "instance_id": 500,
+        "member_id": 25,
+        "exercise_id": "7I6LNUG",
+        "club_id": 4,
+        "timestamp": "2025-08-26T13:04:12.854103"
+    },
+    {
+        "instance_id": 501,
+        "member_id": 80,
+        "exercise_id": "yaMIo4D",
+        "club_id": 3,
+        "timestamp": "2025-09-14T23:15:56.126055"
+    },
+    {
+        "instance_id": 502,
+        "member_id": 94,
+        "exercise_id": "EIsE3u8",
+        "club_id": 4,
+        "timestamp": "2025-09-21T04:54:44.540941"
+    },
+    {
+        "instance_id": 503,
+        "member_id": 19,
+        "exercise_id": "7I6LNUG",
+        "club_id": 2,
+        "timestamp": "2025-10-04T00:40:35.576663"
+    },
+    {
+        "instance_id": 504,
+        "member_id": 25,
+        "exercise_id": "PQStVXH",
+        "club_id": 4,
+        "timestamp": "2025-07-19T05:42:46.942283"
+    },
+    {
+        "instance_id": 505,
+        "member_id": 29,
+        "exercise_id": "v2DfH14",
+        "club_id": 2,
+        "timestamp": "2025-06-27T23:02:53.452946"
+    },
+    {
+        "instance_id": 506,
+        "member_id": 1,
+        "exercise_id": "ZSJNetl",
+        "club_id": 4,
+        "timestamp": "2025-09-14T11:10:25.324406"
+    },
+    {
+        "instance_id": 507,
+        "member_id": 68,
+        "exercise_id": "2IxROQ1",
+        "club_id": 5,
+        "timestamp": "2025-09-09T14:44:22.549028"
+    },
+    {
+        "instance_id": 508,
+        "member_id": 88,
+        "exercise_id": "U3ffHlY",
+        "club_id": 2,
+        "timestamp": "2025-07-20T18:52:02.622388"
+    },
+    {
+        "instance_id": 509,
+        "member_id": 34,
+        "exercise_id": "U7D9Fx3",
+        "club_id": 3,
+        "timestamp": "2025-10-14T10:07:00.377330"
+    },
+    {
+        "instance_id": 510,
+        "member_id": 88,
+        "exercise_id": "VQ3sNCn",
+        "club_id": 2,
+        "timestamp": "2025-10-08T04:47:12.807257"
+    },
+    {
+        "instance_id": 511,
+        "member_id": 87,
+        "exercise_id": "veXwo0D",
+        "club_id": 3,
+        "timestamp": "2025-10-10T15:50:31.262610"
+    },
+    {
+        "instance_id": 512,
+        "member_id": 88,
+        "exercise_id": "bZq4bwK",
+        "club_id": 2,
+        "timestamp": "2025-08-02T09:13:04.733248"
+    },
+    {
+        "instance_id": 513,
+        "member_id": 81,
+        "exercise_id": "VuoerH0",
+        "club_id": 5,
+        "timestamp": "2025-07-10T18:39:49.497368"
+    },
+    {
+        "instance_id": 514,
+        "member_id": 78,
+        "exercise_id": "2IxROQ1",
+        "club_id": 1,
+        "timestamp": "2025-07-13T17:58:30.756788"
+    },
+    {
+        "instance_id": 515,
+        "member_id": 81,
+        "exercise_id": "BReCuOn",
+        "club_id": 5,
+        "timestamp": "2025-08-14T07:03:35.503520"
+    },
+    {
+        "instance_id": 516,
+        "member_id": 14,
+        "exercise_id": "LuBEORI",
+        "club_id": 1,
+        "timestamp": "2025-09-21T13:34:39.661325"
+    },
+    {
+        "instance_id": 517,
+        "member_id": 3,
+        "exercise_id": "z6TAHoT",
+        "club_id": 4,
+        "timestamp": "2025-08-01T19:49:59.233414"
+    },
+    {
+        "instance_id": 518,
+        "member_id": 69,
+        "exercise_id": "z6TAHoT",
+        "club_id": 2,
+        "timestamp": "2025-07-19T21:18:23.218364"
+    },
+    {
+        "instance_id": 519,
+        "member_id": 26,
+        "exercise_id": "dAJscVq",
+        "club_id": 4,
+        "timestamp": "2025-08-06T07:02:57.526861"
+    },
+    {
+        "instance_id": 520,
+        "member_id": 36,
+        "exercise_id": "Jsgsc27",
+        "club_id": 1,
+        "timestamp": "2025-09-17T18:42:26.136916"
+    },
+    {
+        "instance_id": 521,
+        "member_id": 52,
+        "exercise_id": "vpp9Ku2",
+        "club_id": 3,
+        "timestamp": "2025-08-22T14:00:08.734533"
+    },
+    {
+        "instance_id": 522,
+        "member_id": 41,
+        "exercise_id": "XooAdhl",
+        "club_id": 2,
+        "timestamp": "2025-09-15T17:48:53.072761"
+    },
+    {
+        "instance_id": 523,
+        "member_id": 2,
+        "exercise_id": "qRZ5S1N",
+        "club_id": 2,
+        "timestamp": "2025-07-02T21:39:31.555980"
+    },
+    {
+        "instance_id": 524,
+        "member_id": 72,
+        "exercise_id": "vvNjDJS",
+        "club_id": 3,
+        "timestamp": "2025-10-12T21:42:52.729869"
+    },
+    {
+        "instance_id": 525,
+        "member_id": 95,
+        "exercise_id": "4Jt8QsQ",
+        "club_id": 4,
+        "timestamp": "2025-09-20T14:23:36.842342"
+    },
+    {
+        "instance_id": 526,
+        "member_id": 96,
+        "exercise_id": "Fhdtwf3",
+        "club_id": 3,
+        "timestamp": "2025-10-18T12:46:10.685045"
+    },
+    {
+        "instance_id": 527,
+        "member_id": 47,
+        "exercise_id": "G70mEAJ",
+        "club_id": 2,
+        "timestamp": "2025-10-16T12:16:19.650945"
+    },
+    {
+        "instance_id": 528,
+        "member_id": 41,
+        "exercise_id": "VYmYxK5",
+        "club_id": 2,
+        "timestamp": "2025-10-08T21:57:24.071779"
+    },
+    {
+        "instance_id": 529,
+        "member_id": 71,
+        "exercise_id": "zZlORz6",
+        "club_id": 1,
+        "timestamp": "2025-08-10T02:57:34.417839"
+    },
+    {
+        "instance_id": 530,
+        "member_id": 75,
+        "exercise_id": "ZqNOWQ6",
+        "club_id": 2,
+        "timestamp": "2025-07-20T19:06:15.768112"
+    },
+    {
+        "instance_id": 531,
+        "member_id": 72,
+        "exercise_id": "ZX9UZmj",
+        "club_id": 3,
+        "timestamp": "2025-08-03T11:13:08.730145"
+    },
+    {
+        "instance_id": 532,
+        "member_id": 100,
+        "exercise_id": "vpp9Ku2",
+        "club_id": 5,
+        "timestamp": "2025-10-13T22:50:55.818886"
+    },
+    {
+        "instance_id": 533,
+        "member_id": 76,
+        "exercise_id": "veXwo0D",
+        "club_id": 5,
+        "timestamp": "2025-07-24T20:30:17.798146"
+    },
+    {
+        "instance_id": 534,
+        "member_id": 33,
+        "exercise_id": "wbUYILZ",
+        "club_id": 2,
+        "timestamp": "2025-09-26T21:01:42.131621"
+    },
+    {
+        "instance_id": 535,
+        "member_id": 27,
+        "exercise_id": "uTv34oq",
+        "club_id": 1,
+        "timestamp": "2025-08-17T16:26:58.617804"
+    },
+    {
+        "instance_id": 536,
+        "member_id": 84,
+        "exercise_id": "9fCHfSc",
+        "club_id": 4,
+        "timestamp": "2025-09-06T00:25:31.467973"
+    },
+    {
+        "instance_id": 537,
+        "member_id": 25,
+        "exercise_id": "FVM1AUZ",
+        "club_id": 4,
+        "timestamp": "2025-09-15T18:13:30.077245"
+    },
+    {
+        "instance_id": 538,
+        "member_id": 83,
+        "exercise_id": "1YB40kg",
+        "club_id": 4,
+        "timestamp": "2025-09-03T16:36:58.264257"
+    },
+    {
+        "instance_id": 539,
+        "member_id": 13,
+        "exercise_id": "c8oybX6",
+        "club_id": 5,
+        "timestamp": "2025-07-29T09:26:13.967316"
+    },
+    {
+        "instance_id": 540,
+        "member_id": 4,
+        "exercise_id": "U3ffHlY",
+        "club_id": 5,
+        "timestamp": "2025-07-02T18:53:46.837219"
+    },
+    {
+        "instance_id": 541,
+        "member_id": 95,
+        "exercise_id": "yaMIo4D",
+        "club_id": 4,
+        "timestamp": "2025-09-25T07:40:44.405408"
+    },
+    {
+        "instance_id": 542,
+        "member_id": 78,
+        "exercise_id": "yRLPCLu",
+        "club_id": 1,
+        "timestamp": "2025-09-16T23:45:24.637549"
+    },
+    {
+        "instance_id": 543,
+        "member_id": 81,
+        "exercise_id": "wbUYILZ",
+        "club_id": 5,
+        "timestamp": "2025-08-31T21:08:15.686751"
+    },
+    {
+        "instance_id": 544,
+        "member_id": 66,
+        "exercise_id": "ZIViNh1",
+        "club_id": 5,
+        "timestamp": "2025-09-24T20:11:37.725222"
+    },
+    {
+        "instance_id": 545,
+        "member_id": 33,
+        "exercise_id": "Al3tP0D",
+        "club_id": 2,
+        "timestamp": "2025-08-04T04:31:37.098536"
+    },
+    {
+        "instance_id": 546,
+        "member_id": 85,
+        "exercise_id": "R5swFnc",
+        "club_id": 2,
+        "timestamp": "2025-09-11T11:29:55.139373"
+    },
+    {
+        "instance_id": 547,
+        "member_id": 9,
+        "exercise_id": "8d8qJQI",
+        "club_id": 2,
+        "timestamp": "2025-08-12T21:48:42.709424"
+    },
+    {
+        "instance_id": 548,
+        "member_id": 46,
+        "exercise_id": "eZyBC3j",
+        "club_id": 1,
+        "timestamp": "2025-07-29T02:03:36.295849"
+    },
+    {
+        "instance_id": 549,
+        "member_id": 1,
+        "exercise_id": "bLyQokI",
+        "club_id": 4,
+        "timestamp": "2025-10-18T01:53:41.750884"
+    },
+    {
+        "instance_id": 550,
+        "member_id": 26,
+        "exercise_id": "Wgbn9qo",
+        "club_id": 4,
+        "timestamp": "2025-07-16T03:36:01.524732"
+    },
+    {
+        "instance_id": 551,
+        "member_id": 11,
+        "exercise_id": "Hx1WC8I",
+        "club_id": 4,
+        "timestamp": "2025-07-21T10:48:02.322755"
+    },
+    {
+        "instance_id": 552,
+        "member_id": 9,
+        "exercise_id": "v3vLFW0",
+        "club_id": 2,
+        "timestamp": "2025-09-26T23:42:14.581333"
+    },
+    {
+        "instance_id": 553,
+        "member_id": 28,
+        "exercise_id": "D5yqP2p",
+        "club_id": 2,
+        "timestamp": "2025-09-26T13:51:30.055234"
+    },
+    {
+        "instance_id": 554,
+        "member_id": 99,
+        "exercise_id": "fUBheHs",
+        "club_id": 3,
+        "timestamp": "2025-10-09T22:32:06.556490"
+    },
+    {
+        "instance_id": 555,
+        "member_id": 30,
+        "exercise_id": "JhYSVwT",
+        "club_id": 1,
+        "timestamp": "2025-07-04T09:50:23.404925"
+    },
+    {
+        "instance_id": 556,
+        "member_id": 78,
+        "exercise_id": "wu5LXwz",
+        "club_id": 1,
+        "timestamp": "2025-08-20T00:41:59.404788"
+    },
+    {
+        "instance_id": 557,
+        "member_id": 72,
+        "exercise_id": "RxayqAZ",
+        "club_id": 3,
+        "timestamp": "2025-09-22T14:25:46.737685"
+    },
+    {
+        "instance_id": 558,
+        "member_id": 89,
+        "exercise_id": "GSDioYu",
+        "club_id": 1,
+        "timestamp": "2025-10-21T09:09:59.908714"
+    },
+    {
+        "instance_id": 559,
+        "member_id": 95,
+        "exercise_id": "8K7m2SS",
+        "club_id": 4,
+        "timestamp": "2025-07-02T01:47:23.647893"
+    },
+    {
+        "instance_id": 560,
+        "member_id": 81,
+        "exercise_id": "o8aOcrz",
+        "club_id": 5,
+        "timestamp": "2025-07-27T00:35:48.623871"
+    },
+    {
+        "instance_id": 561,
+        "member_id": 16,
+        "exercise_id": "KWyEjtI",
+        "club_id": 1,
+        "timestamp": "2025-06-23T14:00:10.525135"
+    },
+    {
+        "instance_id": 562,
+        "member_id": 51,
+        "exercise_id": "yaAxcQr",
+        "club_id": 4,
+        "timestamp": "2025-08-08T21:20:06.268453"
+    },
+    {
+        "instance_id": 563,
+        "member_id": 11,
+        "exercise_id": "WrYPP2g",
+        "club_id": 4,
+        "timestamp": "2025-07-25T23:23:43.545976"
+    },
+    {
+        "instance_id": 564,
+        "member_id": 48,
+        "exercise_id": "iZop9xO",
+        "club_id": 2,
+        "timestamp": "2025-06-27T20:59:25.825988"
+    },
+    {
+        "instance_id": 565,
+        "member_id": 28,
+        "exercise_id": "da4cXST",
+        "club_id": 2,
+        "timestamp": "2025-08-18T21:42:46.941192"
+    },
+    {
+        "instance_id": 566,
+        "member_id": 80,
+        "exercise_id": "7HcfMBP",
+        "club_id": 3,
+        "timestamp": "2025-07-02T18:17:30.780696"
+    },
+    {
+        "instance_id": 567,
+        "member_id": 18,
+        "exercise_id": "4OaumBr",
+        "club_id": 2,
+        "timestamp": "2025-06-29T01:06:16.648366"
+    },
+    {
+        "instance_id": 568,
+        "member_id": 43,
+        "exercise_id": "U3ffHlY",
+        "club_id": 3,
+        "timestamp": "2025-10-15T21:35:04.934808"
+    },
+    {
+        "instance_id": 569,
+        "member_id": 69,
+        "exercise_id": "yRLPCLu",
+        "club_id": 2,
+        "timestamp": "2025-07-01T18:13:42.879694"
+    },
+    {
+        "instance_id": 570,
+        "member_id": 90,
+        "exercise_id": "K1vlode",
+        "club_id": 5,
+        "timestamp": "2025-07-10T02:15:05.933386"
+    },
+    {
+        "instance_id": 571,
+        "member_id": 57,
+        "exercise_id": "cAvTaSg",
+        "club_id": 1,
+        "timestamp": "2025-07-24T12:40:38.265760"
+    },
+    {
+        "instance_id": 572,
+        "member_id": 9,
+        "exercise_id": "Z5YStHW",
+        "club_id": 2,
+        "timestamp": "2025-09-26T02:44:09.921762"
+    },
+    {
+        "instance_id": 573,
+        "member_id": 60,
+        "exercise_id": "hbY9wqG",
+        "club_id": 4,
+        "timestamp": "2025-07-25T04:48:02.296673"
+    },
+    {
+        "instance_id": 574,
+        "member_id": 5,
+        "exercise_id": "DQ0cqkT",
+        "club_id": 4,
+        "timestamp": "2025-09-11T06:53:04.298269"
+    },
+    {
+        "instance_id": 575,
+        "member_id": 42,
+        "exercise_id": "ezTvXcr",
+        "club_id": 4,
+        "timestamp": "2025-09-04T18:32:39.113087"
+    },
+    {
+        "instance_id": 576,
+        "member_id": 94,
+        "exercise_id": "ZqNOWQ6",
+        "club_id": 4,
+        "timestamp": "2025-09-22T12:47:26.173232"
+    },
+    {
+        "instance_id": 577,
+        "member_id": 32,
+        "exercise_id": "PQStVXH",
+        "club_id": 5,
+        "timestamp": "2025-09-05T13:51:41.952091"
+    },
+    {
+        "instance_id": 578,
+        "member_id": 15,
+        "exercise_id": "Db7eEgw",
+        "club_id": 1,
+        "timestamp": "2025-10-11T09:23:18.693506"
+    },
+    {
+        "instance_id": 579,
+        "member_id": 22,
+        "exercise_id": "5lE7XRz",
+        "club_id": 5,
+        "timestamp": "2025-07-20T05:26:36.557811"
+    },
+    {
+        "instance_id": 580,
+        "member_id": 25,
+        "exercise_id": "G70mEAJ",
+        "club_id": 4,
+        "timestamp": "2025-08-05T13:26:26.479297"
+    },
+    {
+        "instance_id": 581,
+        "member_id": 56,
+        "exercise_id": "uTv34oq",
+        "club_id": 3,
+        "timestamp": "2025-09-17T06:14:18.070722"
+    },
+    {
+        "instance_id": 582,
+        "member_id": 3,
+        "exercise_id": "NfP83rA",
+        "club_id": 4,
+        "timestamp": "2025-09-17T10:56:48.046224"
+    },
+    {
+        "instance_id": 583,
+        "member_id": 76,
+        "exercise_id": "OIFMAp1",
+        "club_id": 5,
+        "timestamp": "2025-08-26T05:55:06.539333"
+    },
+    {
+        "instance_id": 584,
+        "member_id": 9,
+        "exercise_id": "1YB40kg",
+        "club_id": 2,
+        "timestamp": "2025-10-16T10:43:43.228975"
+    },
+    {
+        "instance_id": 585,
+        "member_id": 67,
+        "exercise_id": "dZl9Q27",
+        "club_id": 4,
+        "timestamp": "2025-07-27T20:14:56.065705"
+    },
+    {
+        "instance_id": 586,
+        "member_id": 4,
+        "exercise_id": "XUUD0Fs",
+        "club_id": 5,
+        "timestamp": "2025-07-17T07:08:34.656347"
+    },
+    {
+        "instance_id": 587,
+        "member_id": 78,
+        "exercise_id": "z6TAHoT",
+        "club_id": 1,
+        "timestamp": "2025-07-07T12:07:30.172337"
+    },
+    {
+        "instance_id": 588,
+        "member_id": 76,
+        "exercise_id": "1xHyxys",
+        "club_id": 5,
+        "timestamp": "2025-10-19T21:17:54.398486"
+    },
+    {
+        "instance_id": 589,
+        "member_id": 45,
+        "exercise_id": "XooAdhl",
+        "club_id": 1,
+        "timestamp": "2025-08-27T15:50:57.386503"
+    },
+    {
+        "instance_id": 590,
+        "member_id": 87,
+        "exercise_id": "EIsE3u8",
+        "club_id": 3,
+        "timestamp": "2025-06-29T13:53:26.210783"
+    },
+    {
+        "instance_id": 591,
+        "member_id": 95,
+        "exercise_id": "Al3tP0D",
+        "club_id": 4,
+        "timestamp": "2025-06-27T13:36:36.595813"
+    },
+    {
+        "instance_id": 592,
+        "member_id": 73,
+        "exercise_id": "LkoAWAE",
+        "club_id": 1,
+        "timestamp": "2025-08-10T18:46:04.088400"
+    },
+    {
+        "instance_id": 593,
+        "member_id": 41,
+        "exercise_id": "wbUYILZ",
+        "club_id": 2,
+        "timestamp": "2025-09-08T15:51:11.228544"
+    },
+    {
+        "instance_id": 594,
+        "member_id": 94,
+        "exercise_id": "veXwo0D",
+        "club_id": 4,
+        "timestamp": "2025-07-17T16:32:38.492193"
+    },
+    {
+        "instance_id": 595,
+        "member_id": 73,
+        "exercise_id": "OVIKwsd",
+        "club_id": 1,
+        "timestamp": "2025-07-16T09:23:49.090143"
+    },
+    {
+        "instance_id": 596,
+        "member_id": 28,
+        "exercise_id": "r0z6xzQ",
+        "club_id": 2,
+        "timestamp": "2025-10-15T17:21:46.565953"
+    },
+    {
+        "instance_id": 597,
+        "member_id": 57,
+        "exercise_id": "6CKUx7o",
+        "club_id": 1,
+        "timestamp": "2025-09-19T10:21:46.013862"
+    },
+    {
+        "instance_id": 598,
+        "member_id": 52,
+        "exercise_id": "BJ0Hz5L",
+        "club_id": 3,
+        "timestamp": "2025-09-25T17:07:46.513952"
+    },
+    {
+        "instance_id": 599,
+        "member_id": 30,
+        "exercise_id": "ZSJNetl",
+        "club_id": 1,
+        "timestamp": "2025-07-25T17:27:07.508768"
+    },
+    {
+        "instance_id": 600,
+        "member_id": 41,
+        "exercise_id": "iCPqbki",
+        "club_id": 2,
+        "timestamp": "2025-07-25T09:06:00.198000"
+    },
+    {
+        "instance_id": 601,
+        "member_id": 43,
+        "exercise_id": "o8aOcrz",
+        "club_id": 3,
+        "timestamp": "2025-08-05T21:39:59.426458"
+    },
+    {
+        "instance_id": 602,
+        "member_id": 74,
+        "exercise_id": "ezTvXcr",
+        "club_id": 2,
+        "timestamp": "2025-06-24T03:52:07.580702"
+    },
+    {
+        "instance_id": 603,
+        "member_id": 57,
+        "exercise_id": "SzX3uzM",
+        "club_id": 1,
+        "timestamp": "2025-07-11T14:03:23.791558"
+    },
+    {
+        "instance_id": 604,
+        "member_id": 51,
+        "exercise_id": "4Jt8QsQ",
+        "club_id": 4,
+        "timestamp": "2025-07-16T14:04:30.006834"
+    },
+    {
+        "instance_id": 605,
+        "member_id": 53,
+        "exercise_id": "bLyQokI",
+        "club_id": 4,
+        "timestamp": "2025-06-30T16:24:55.866058"
+    },
+    {
+        "instance_id": 606,
+        "member_id": 63,
+        "exercise_id": "bpJL2Qs",
+        "club_id": 4,
+        "timestamp": "2025-07-19T21:35:09.277383"
+    },
+    {
+        "instance_id": 607,
+        "member_id": 63,
+        "exercise_id": "HEJ6DIX",
+        "club_id": 4,
+        "timestamp": "2025-07-05T19:35:18.688765"
+    },
+    {
+        "instance_id": 608,
+        "member_id": 79,
+        "exercise_id": "VYmYxK5",
+        "club_id": 2,
+        "timestamp": "2025-09-03T07:20:59.737381"
+    },
+    {
+        "instance_id": 609,
+        "member_id": 31,
+        "exercise_id": "r0z6xzQ",
+        "club_id": 2,
+        "timestamp": "2025-07-18T10:43:44.860357"
+    },
+    {
+        "instance_id": 610,
+        "member_id": 94,
+        "exercise_id": "N6dZN2I",
+        "club_id": 4,
+        "timestamp": "2025-08-01T16:03:51.568883"
+    },
+    {
+        "instance_id": 611,
+        "member_id": 84,
+        "exercise_id": "wf24o8S",
+        "club_id": 4,
+        "timestamp": "2025-07-12T14:11:51.320843"
+    },
+    {
+        "instance_id": 612,
+        "member_id": 23,
+        "exercise_id": "kesXOpB",
+        "club_id": 4,
+        "timestamp": "2025-10-05T16:20:24.942998"
+    },
+    {
+        "instance_id": 613,
+        "member_id": 3,
+        "exercise_id": "J6Dx1Mu",
+        "club_id": 4,
+        "timestamp": "2025-09-26T11:12:57.099320"
+    },
+    {
+        "instance_id": 614,
+        "member_id": 21,
+        "exercise_id": "LkoAWAE",
+        "club_id": 1,
+        "timestamp": "2025-09-08T06:54:51.136190"
+    },
+    {
+        "instance_id": 615,
+        "member_id": 37,
+        "exercise_id": "yg8Totb",
+        "club_id": 2,
+        "timestamp": "2025-10-20T02:34:22.503922"
+    },
+    {
+        "instance_id": 616,
+        "member_id": 76,
+        "exercise_id": "eZyBC3j",
+        "club_id": 5,
+        "timestamp": "2025-10-19T17:15:30.488662"
+    },
+    {
+        "instance_id": 617,
+        "member_id": 2,
+        "exercise_id": "UFGF6gk",
+        "club_id": 2,
+        "timestamp": "2025-07-22T17:59:08.667700"
+    },
+    {
+        "instance_id": 618,
+        "member_id": 78,
+        "exercise_id": "2IxROQ1",
+        "club_id": 1,
+        "timestamp": "2025-10-07T14:36:10.171888"
+    },
+    {
+        "instance_id": 619,
+        "member_id": 41,
+        "exercise_id": "GSDioYu",
+        "club_id": 2,
+        "timestamp": "2025-08-27T21:56:54.261092"
+    },
+    {
+        "instance_id": 620,
+        "member_id": 4,
+        "exercise_id": "zd4P4B2",
+        "club_id": 5,
+        "timestamp": "2025-08-14T06:18:06.935565"
+    },
+    {
+        "instance_id": 621,
+        "member_id": 2,
+        "exercise_id": "GaSzzuh",
+        "club_id": 2,
+        "timestamp": "2025-07-06T16:56:14.773299"
+    },
+    {
+        "instance_id": 622,
+        "member_id": 98,
+        "exercise_id": "w2oRpuH",
+        "club_id": 2,
+        "timestamp": "2025-06-23T22:43:42.225745"
+    },
+    {
+        "instance_id": 623,
+        "member_id": 72,
+        "exercise_id": "K1vlode",
+        "club_id": 3,
+        "timestamp": "2025-10-15T06:16:49.187068"
+    },
+    {
+        "instance_id": 624,
+        "member_id": 41,
+        "exercise_id": "JF8AkMX",
+        "club_id": 2,
+        "timestamp": "2025-08-10T19:32:13.862013"
+    },
+    {
+        "instance_id": 625,
+        "member_id": 36,
+        "exercise_id": "i11JWU7",
+        "club_id": 1,
+        "timestamp": "2025-07-30T20:35:37.388361"
+    },
+    {
+        "instance_id": 626,
+        "member_id": 78,
+        "exercise_id": "zZlORz6",
+        "club_id": 1,
+        "timestamp": "2025-08-15T19:37:12.007625"
+    },
+    {
+        "instance_id": 627,
+        "member_id": 47,
+        "exercise_id": "zYmNaoY",
+        "club_id": 2,
+        "timestamp": "2025-06-27T17:04:16.023071"
+    },
+    {
+        "instance_id": 628,
+        "member_id": 68,
+        "exercise_id": "3ZflifB",
+        "club_id": 5,
+        "timestamp": "2025-09-21T18:16:22.949307"
+    },
+    {
+        "instance_id": 629,
+        "member_id": 80,
+        "exercise_id": "L2V5Nan",
+        "club_id": 3,
+        "timestamp": "2025-09-16T12:12:09.471203"
+    },
+    {
+        "instance_id": 630,
+        "member_id": 26,
+        "exercise_id": "wbUYILZ",
+        "club_id": 4,
+        "timestamp": "2025-07-24T12:55:01.515618"
+    },
+    {
+        "instance_id": 631,
+        "member_id": 83,
+        "exercise_id": "LMGXZn8",
+        "club_id": 4,
+        "timestamp": "2025-09-29T14:57:07.519322"
+    },
+    {
+        "instance_id": 632,
+        "member_id": 34,
+        "exercise_id": "OTgkHwR",
+        "club_id": 3,
+        "timestamp": "2025-07-11T01:07:37.277849"
+    },
+    {
+        "instance_id": 633,
+        "member_id": 70,
+        "exercise_id": "qRZ5S1N",
+        "club_id": 5,
+        "timestamp": "2025-09-12T10:13:00.593760"
+    },
+    {
+        "instance_id": 634,
+        "member_id": 62,
+        "exercise_id": "OmQ8w0p",
+        "club_id": 2,
+        "timestamp": "2025-09-29T00:50:41.320717"
+    },
+    {
+        "instance_id": 635,
+        "member_id": 61,
+        "exercise_id": "wbUYILZ",
+        "club_id": 5,
+        "timestamp": "2025-08-03T00:57:07.920663"
+    },
+    {
+        "instance_id": 636,
+        "member_id": 17,
+        "exercise_id": "4Jt8QsQ",
+        "club_id": 1,
+        "timestamp": "2025-08-31T09:34:25.791758"
+    },
+    {
+        "instance_id": 637,
+        "member_id": 48,
+        "exercise_id": "2IxROQ1",
+        "club_id": 2,
+        "timestamp": "2025-08-29T08:58:03.386998"
+    },
+    {
+        "instance_id": 638,
+        "member_id": 60,
+        "exercise_id": "9fCHfSc",
+        "club_id": 4,
+        "timestamp": "2025-09-30T13:05:45.438668"
+    },
+    {
+        "instance_id": 639,
+        "member_id": 89,
+        "exercise_id": "OmQ8w0p",
+        "club_id": 1,
+        "timestamp": "2025-06-27T05:13:56.129918"
+    },
+    {
+        "instance_id": 640,
+        "member_id": 18,
+        "exercise_id": "vtusOWT",
+        "club_id": 2,
+        "timestamp": "2025-10-18T18:14:19.420900"
+    },
+    {
+        "instance_id": 641,
+        "member_id": 17,
+        "exercise_id": "s5PdDyY",
+        "club_id": 1,
+        "timestamp": "2025-08-15T10:16:04.044131"
+    },
+    {
+        "instance_id": 642,
+        "member_id": 39,
+        "exercise_id": "da4cXST",
+        "club_id": 1,
+        "timestamp": "2025-08-22T12:57:52.384344"
+    },
+    {
+        "instance_id": 643,
+        "member_id": 78,
+        "exercise_id": "O4oIqQD",
+        "club_id": 1,
+        "timestamp": "2025-07-04T08:05:34.871746"
+    },
+    {
+        "instance_id": 644,
+        "member_id": 46,
+        "exercise_id": "eZyBC3j",
+        "club_id": 1,
+        "timestamp": "2025-08-10T19:58:28.757069"
+    },
+    {
+        "instance_id": 645,
+        "member_id": 47,
+        "exercise_id": "CQHoDm0",
+        "club_id": 2,
+        "timestamp": "2025-07-15T14:57:29.361928"
+    },
+    {
+        "instance_id": 646,
+        "member_id": 96,
+        "exercise_id": "UFGF6gk",
+        "club_id": 3,
+        "timestamp": "2025-06-28T14:38:20.073078"
+    },
+    {
+        "instance_id": 647,
+        "member_id": 5,
+        "exercise_id": "c8oybX6",
+        "club_id": 4,
+        "timestamp": "2025-07-24T08:58:36.508129"
+    },
+    {
+        "instance_id": 648,
+        "member_id": 91,
+        "exercise_id": "iCPqbki",
+        "club_id": 1,
+        "timestamp": "2025-08-23T21:27:04.419491"
+    },
+    {
+        "instance_id": 649,
+        "member_id": 81,
+        "exercise_id": "wkgnGfb",
+        "club_id": 5,
+        "timestamp": "2025-07-18T21:30:55.827452"
+    },
+    {
+        "instance_id": 650,
+        "member_id": 98,
+        "exercise_id": "4CBIBOM",
+        "club_id": 2,
+        "timestamp": "2025-10-07T06:22:42.153443"
+    },
+    {
+        "instance_id": 651,
+        "member_id": 41,
+        "exercise_id": "dZl9Q27",
+        "club_id": 2,
+        "timestamp": "2025-06-30T14:14:03.216793"
+    },
+    {
+        "instance_id": 652,
+        "member_id": 52,
+        "exercise_id": "D5yqP2p",
+        "club_id": 3,
+        "timestamp": "2025-10-14T00:45:16.660026"
+    },
+    {
+        "instance_id": 653,
+        "member_id": 63,
+        "exercise_id": "7aVz15j",
+        "club_id": 4,
+        "timestamp": "2025-06-28T00:39:58.746602"
+    },
+    {
+        "instance_id": 654,
+        "member_id": 68,
+        "exercise_id": "wOLmCXc",
+        "club_id": 5,
+        "timestamp": "2025-10-11T04:48:07.384743"
+    },
+    {
+        "instance_id": 655,
+        "member_id": 97,
+        "exercise_id": "5lE7XRz",
+        "club_id": 1,
+        "timestamp": "2025-07-18T19:32:17.370949"
+    },
+    {
+        "instance_id": 656,
+        "member_id": 93,
+        "exercise_id": "Nu7jqFE",
+        "club_id": 5,
+        "timestamp": "2025-08-28T07:58:02.920531"
+    },
+    {
+        "instance_id": 657,
+        "member_id": 8,
+        "exercise_id": "GaSzzuh",
+        "club_id": 5,
+        "timestamp": "2025-07-06T09:13:00.184157"
+    },
+    {
+        "instance_id": 658,
+        "member_id": 72,
+        "exercise_id": "wf24o8S",
+        "club_id": 3,
+        "timestamp": "2025-10-02T13:12:48.379388"
+    },
+    {
+        "instance_id": 659,
+        "member_id": 56,
+        "exercise_id": "JF8AkMX",
+        "club_id": 3,
+        "timestamp": "2025-06-29T07:07:54.740666"
+    },
+    {
+        "instance_id": 660,
+        "member_id": 97,
+        "exercise_id": "SzX3uzM",
+        "club_id": 1,
+        "timestamp": "2025-09-28T16:37:32.897762"
+    },
+    {
+        "instance_id": 661,
+        "member_id": 14,
+        "exercise_id": "OVIKwsd",
+        "club_id": 1,
+        "timestamp": "2025-09-27T15:01:30.450637"
+    },
+    {
+        "instance_id": 662,
+        "member_id": 23,
+        "exercise_id": "OmQ8w0p",
+        "club_id": 4,
+        "timestamp": "2025-07-22T05:39:42.956341"
+    },
+    {
+        "instance_id": 663,
+        "member_id": 1,
+        "exercise_id": "ufaxB52",
+        "club_id": 4,
+        "timestamp": "2025-08-28T20:21:12.403930"
+    },
+    {
+        "instance_id": 664,
+        "member_id": 66,
+        "exercise_id": "nZZZy9m",
+        "club_id": 5,
+        "timestamp": "2025-09-09T11:58:06.905873"
+    },
+    {
+        "instance_id": 665,
+        "member_id": 68,
+        "exercise_id": "N6dZN2I",
+        "club_id": 5,
+        "timestamp": "2025-09-12T06:17:04.199280"
+    },
+    {
+        "instance_id": 666,
+        "member_id": 18,
+        "exercise_id": "s0HKO2I",
+        "club_id": 2,
+        "timestamp": "2025-07-04T20:35:02.507715"
+    },
+    {
+        "instance_id": 667,
+        "member_id": 36,
+        "exercise_id": "NN8nSNT",
+        "club_id": 1,
+        "timestamp": "2025-09-16T17:12:44.467570"
+    },
+    {
+        "instance_id": 668,
+        "member_id": 18,
+        "exercise_id": "BReCuOn",
+        "club_id": 2,
+        "timestamp": "2025-08-08T09:45:54.914957"
+    },
+    {
+        "instance_id": 669,
+        "member_id": 93,
+        "exercise_id": "WcHl7ru",
+        "club_id": 5,
+        "timestamp": "2025-09-28T05:18:11.908031"
+    },
+    {
+        "instance_id": 670,
+        "member_id": 4,
+        "exercise_id": "Z5YStHW",
+        "club_id": 5,
+        "timestamp": "2025-09-18T01:36:45.778264"
+    },
+    {
+        "instance_id": 671,
+        "member_id": 35,
+        "exercise_id": "g9AsZ8P",
+        "club_id": 2,
+        "timestamp": "2025-07-16T15:51:24.027628"
+    },
+    {
+        "instance_id": 672,
+        "member_id": 3,
+        "exercise_id": "qRZ5S1N",
+        "club_id": 4,
+        "timestamp": "2025-08-01T03:09:38.351685"
+    },
+    {
+        "instance_id": 673,
+        "member_id": 86,
+        "exercise_id": "kesXOpB",
+        "club_id": 2,
+        "timestamp": "2025-08-10T20:22:12.789699"
+    },
+    {
+        "instance_id": 674,
+        "member_id": 16,
+        "exercise_id": "sYCcnon",
+        "club_id": 1,
+        "timestamp": "2025-10-07T12:31:38.128701"
+    },
+    {
+        "instance_id": 675,
+        "member_id": 71,
+        "exercise_id": "J60bN17",
+        "club_id": 1,
+        "timestamp": "2025-09-05T22:55:21.407317"
+    },
+    {
+        "instance_id": 676,
+        "member_id": 82,
+        "exercise_id": "bKWbrTA",
+        "club_id": 3,
+        "timestamp": "2025-07-20T13:57:20.327355"
+    },
+    {
+        "instance_id": 677,
+        "member_id": 2,
+        "exercise_id": "vvNjDJS",
+        "club_id": 2,
+        "timestamp": "2025-09-12T04:34:11.009883"
+    },
+    {
+        "instance_id": 678,
+        "member_id": 87,
+        "exercise_id": "Gchi5Tr",
+        "club_id": 3,
+        "timestamp": "2025-10-20T00:46:39.847376"
+    },
+    {
+        "instance_id": 679,
+        "member_id": 30,
+        "exercise_id": "vtusOWT",
+        "club_id": 1,
+        "timestamp": "2025-07-03T17:06:07.569301"
+    },
+    {
+        "instance_id": 680,
+        "member_id": 43,
+        "exercise_id": "PdmaD0N",
+        "club_id": 3,
+        "timestamp": "2025-08-22T12:07:46.113178"
+    },
+    {
+        "instance_id": 681,
+        "member_id": 22,
+        "exercise_id": "wt6rwjk",
+        "club_id": 5,
+        "timestamp": "2025-09-09T16:18:59.916379"
+    },
+    {
+        "instance_id": 682,
+        "member_id": 17,
+        "exercise_id": "D5yqP2p",
+        "club_id": 1,
+        "timestamp": "2025-09-17T13:19:34.889334"
+    },
+    {
+        "instance_id": 683,
+        "member_id": 36,
+        "exercise_id": "XUUD0Fs",
+        "club_id": 1,
+        "timestamp": "2025-08-30T01:54:14.253846"
+    },
+    {
+        "instance_id": 684,
+        "member_id": 10,
+        "exercise_id": "K1vlode",
+        "club_id": 4,
+        "timestamp": "2025-08-03T06:22:32.509380"
+    },
+    {
+        "instance_id": 685,
+        "member_id": 83,
+        "exercise_id": "gAwDzB3",
+        "club_id": 4,
+        "timestamp": "2025-07-13T07:57:29.692776"
+    },
+    {
+        "instance_id": 686,
+        "member_id": 57,
+        "exercise_id": "ufaxB52",
+        "club_id": 1,
+        "timestamp": "2025-08-04T16:49:58.994280"
+    },
+    {
+        "instance_id": 687,
+        "member_id": 30,
+        "exercise_id": "ZqNOWQ6",
+        "club_id": 1,
+        "timestamp": "2025-08-27T21:39:08.699288"
+    },
+    {
+        "instance_id": 688,
+        "member_id": 9,
+        "exercise_id": "GaSzzuh",
+        "club_id": 2,
+        "timestamp": "2025-08-22T20:12:09.230883"
+    },
+    {
+        "instance_id": 689,
+        "member_id": 64,
+        "exercise_id": "4Jt8QsQ",
+        "club_id": 3,
+        "timestamp": "2025-08-06T01:37:56.474253"
+    },
+    {
+        "instance_id": 690,
+        "member_id": 39,
+        "exercise_id": "oHg8eop",
+        "club_id": 1,
+        "timestamp": "2025-10-08T06:06:23.193030"
+    },
+    {
+        "instance_id": 691,
+        "member_id": 11,
+        "exercise_id": "1xHyxys",
+        "club_id": 4,
+        "timestamp": "2025-08-15T21:19:18.080762"
+    },
+    {
+        "instance_id": 692,
+        "member_id": 73,
+        "exercise_id": "hnOYgH3",
+        "club_id": 1,
+        "timestamp": "2025-07-11T23:47:31.293489"
+    },
+    {
+        "instance_id": 693,
+        "member_id": 57,
+        "exercise_id": "hnOYgH3",
+        "club_id": 1,
+        "timestamp": "2025-10-17T19:31:12.315038"
+    },
+    {
+        "instance_id": 694,
+        "member_id": 38,
+        "exercise_id": "3xK09Sk",
+        "club_id": 2,
+        "timestamp": "2025-08-23T09:34:10.553464"
+    },
+    {
+        "instance_id": 695,
+        "member_id": 23,
+        "exercise_id": "SzX3uzM",
+        "club_id": 4,
+        "timestamp": "2025-07-05T06:45:11.828844"
+    },
+    {
+        "instance_id": 696,
+        "member_id": 100,
+        "exercise_id": "uOV3Itw",
+        "club_id": 5,
+        "timestamp": "2025-10-05T22:58:07.702899"
+    },
+    {
+        "instance_id": 697,
+        "member_id": 32,
+        "exercise_id": "Wgbn9qo",
+        "club_id": 5,
+        "timestamp": "2025-07-20T15:33:37.778247"
+    },
+    {
+        "instance_id": 698,
+        "member_id": 40,
+        "exercise_id": "8d8qJQI",
+        "club_id": 1,
+        "timestamp": "2025-10-09T07:38:08.742905"
+    },
+    {
+        "instance_id": 699,
+        "member_id": 27,
+        "exercise_id": "GSDioYu",
+        "club_id": 1,
+        "timestamp": "2025-07-22T16:07:24.630575"
+    },
+    {
+        "instance_id": 700,
+        "member_id": 71,
+        "exercise_id": "PdmaD0N",
+        "club_id": 1,
+        "timestamp": "2025-07-26T04:30:06.563302"
+    },
+    {
+        "instance_id": 701,
+        "member_id": 4,
+        "exercise_id": "bZq4bwK",
+        "club_id": 5,
+        "timestamp": "2025-09-27T18:56:53.354764"
+    },
+    {
+        "instance_id": 702,
+        "member_id": 73,
+        "exercise_id": "OVIKwsd",
+        "club_id": 1,
+        "timestamp": "2025-08-13T12:44:23.977405"
+    },
+    {
+        "instance_id": 703,
+        "member_id": 24,
+        "exercise_id": "NN8nSNT",
+        "club_id": 3,
+        "timestamp": "2025-09-22T05:03:44.200633"
+    },
+    {
+        "instance_id": 704,
+        "member_id": 28,
+        "exercise_id": "ZqNOWQ6",
+        "club_id": 2,
+        "timestamp": "2025-08-30T00:08:01.158587"
+    },
+    {
+        "instance_id": 705,
+        "member_id": 68,
+        "exercise_id": "GSDioYu",
+        "club_id": 5,
+        "timestamp": "2025-09-12T00:14:50.943005"
+    },
+    {
+        "instance_id": 706,
+        "member_id": 9,
+        "exercise_id": "dU605di",
+        "club_id": 2,
+        "timestamp": "2025-07-29T22:39:14.921692"
+    },
+    {
+        "instance_id": 707,
+        "member_id": 100,
+        "exercise_id": "SJqRxOt",
+        "club_id": 5,
+        "timestamp": "2025-10-09T20:52:35.941571"
+    },
+    {
+        "instance_id": 708,
+        "member_id": 32,
+        "exercise_id": "Z5YStHW",
+        "club_id": 5,
+        "timestamp": "2025-10-10T13:24:20.087472"
+    },
+    {
+        "instance_id": 709,
+        "member_id": 23,
+        "exercise_id": "oHg8eop",
+        "club_id": 4,
+        "timestamp": "2025-07-28T01:57:15.692755"
+    },
+    {
+        "instance_id": 710,
+        "member_id": 33,
+        "exercise_id": "kont8Ut",
+        "club_id": 2,
+        "timestamp": "2025-09-02T21:20:20.603500"
+    },
+    {
+        "instance_id": 711,
+        "member_id": 24,
+        "exercise_id": "EIsE3u8",
+        "club_id": 3,
+        "timestamp": "2025-07-25T09:10:28.352918"
+    },
+    {
+        "instance_id": 712,
+        "member_id": 71,
+        "exercise_id": "km0sQC0",
+        "club_id": 1,
+        "timestamp": "2025-09-09T07:43:49.168851"
+    },
+    {
+        "instance_id": 713,
+        "member_id": 9,
+        "exercise_id": "3T12T87",
+        "club_id": 2,
+        "timestamp": "2025-10-14T23:44:50.864611"
+    },
+    {
+        "instance_id": 714,
+        "member_id": 89,
+        "exercise_id": "yg8Totb",
+        "club_id": 1,
+        "timestamp": "2025-08-09T23:16:58.929448"
+    },
+    {
+        "instance_id": 715,
+        "member_id": 21,
+        "exercise_id": "KQfySvS",
+        "club_id": 1,
+        "timestamp": "2025-07-19T20:38:48.463840"
+    },
+    {
+        "instance_id": 716,
+        "member_id": 75,
+        "exercise_id": "dU605di",
+        "club_id": 2,
+        "timestamp": "2025-08-14T23:00:42.864120"
+    },
+    {
+        "instance_id": 717,
+        "member_id": 32,
+        "exercise_id": "uX3sUBz",
+        "club_id": 5,
+        "timestamp": "2025-06-28T14:11:08.039046"
+    },
+    {
+        "instance_id": 718,
+        "member_id": 67,
+        "exercise_id": "L2V5Nan",
+        "club_id": 4,
+        "timestamp": "2025-07-24T03:02:56.787446"
+    },
+    {
+        "instance_id": 719,
+        "member_id": 44,
+        "exercise_id": "uTv34oq",
+        "club_id": 5,
+        "timestamp": "2025-10-07T01:43:24.021862"
+    },
+    {
+        "instance_id": 720,
+        "member_id": 97,
+        "exercise_id": "OTgkHwR",
+        "club_id": 1,
+        "timestamp": "2025-06-29T04:10:51.229977"
+    },
+    {
+        "instance_id": 721,
+        "member_id": 80,
+        "exercise_id": "Ca76jUE",
+        "club_id": 3,
+        "timestamp": "2025-09-09T11:59:36.369953"
+    },
+    {
+        "instance_id": 722,
+        "member_id": 3,
+        "exercise_id": "WM6TvvW",
+        "club_id": 4,
+        "timestamp": "2025-07-14T06:51:04.994004"
+    },
+    {
+        "instance_id": 723,
+        "member_id": 48,
+        "exercise_id": "1YUWDNZ",
+        "club_id": 2,
+        "timestamp": "2025-07-31T15:07:24.188657"
+    },
+    {
+        "instance_id": 724,
+        "member_id": 8,
+        "exercise_id": "zd4P4B2",
+        "club_id": 5,
+        "timestamp": "2025-07-09T02:13:10.426932"
+    },
+    {
+        "instance_id": 725,
+        "member_id": 75,
+        "exercise_id": "pgIdT6i",
+        "club_id": 2,
+        "timestamp": "2025-07-03T10:55:39.329147"
+    },
+    {
+        "instance_id": 726,
+        "member_id": 4,
+        "exercise_id": "eZyBC3j",
+        "club_id": 5,
+        "timestamp": "2025-09-21T18:10:58.642635"
+    },
+    {
+        "instance_id": 727,
+        "member_id": 81,
+        "exercise_id": "oHg8eop",
+        "club_id": 5,
+        "timestamp": "2025-10-12T21:07:02.567480"
+    },
+    {
+        "instance_id": 728,
+        "member_id": 88,
+        "exercise_id": "iaapw0g",
+        "club_id": 2,
+        "timestamp": "2025-06-30T08:43:45.980802"
+    },
+    {
+        "instance_id": 729,
+        "member_id": 85,
+        "exercise_id": "DQ0cqkT",
+        "club_id": 2,
+        "timestamp": "2025-07-30T05:41:05.027477"
+    },
+    {
+        "instance_id": 730,
+        "member_id": 26,
+        "exercise_id": "7ePTw4B",
+        "club_id": 4,
+        "timestamp": "2025-10-15T07:02:04.525866"
+    },
+    {
+        "instance_id": 731,
+        "member_id": 47,
+        "exercise_id": "IGjKj1v",
+        "club_id": 2,
+        "timestamp": "2025-07-17T20:31:48.701019"
+    },
+    {
+        "instance_id": 732,
+        "member_id": 52,
+        "exercise_id": "o8aOcrz",
+        "club_id": 3,
+        "timestamp": "2025-08-03T13:09:14.378130"
+    },
+    {
+        "instance_id": 733,
+        "member_id": 34,
+        "exercise_id": "4OaumBr",
+        "club_id": 3,
+        "timestamp": "2025-08-21T01:55:59.587237"
+    },
+    {
+        "instance_id": 734,
+        "member_id": 26,
+        "exercise_id": "KWyEjtI",
+        "club_id": 4,
+        "timestamp": "2025-09-27T20:45:59.742953"
+    },
+    {
+        "instance_id": 735,
+        "member_id": 13,
+        "exercise_id": "MSfvriJ",
+        "club_id": 5,
+        "timestamp": "2025-09-15T11:26:11.895619"
+    },
+    {
+        "instance_id": 736,
+        "member_id": 50,
+        "exercise_id": "c8oybX6",
+        "club_id": 5,
+        "timestamp": "2025-09-06T12:09:00.203213"
+    },
+    {
+        "instance_id": 737,
+        "member_id": 74,
+        "exercise_id": "CJwa0vD",
+        "club_id": 2,
+        "timestamp": "2025-09-11T18:39:01.922153"
+    },
+    {
+        "instance_id": 738,
+        "member_id": 68,
+        "exercise_id": "hbY9wqG",
+        "club_id": 5,
+        "timestamp": "2025-08-23T18:15:12.155260"
+    },
+    {
+        "instance_id": 739,
+        "member_id": 3,
+        "exercise_id": "G70mEAJ",
+        "club_id": 4,
+        "timestamp": "2025-08-20T06:11:03.915915"
+    },
+    {
+        "instance_id": 740,
+        "member_id": 17,
+        "exercise_id": "DQ0cqkT",
+        "club_id": 1,
+        "timestamp": "2025-06-29T21:05:25.458208"
+    },
+    {
+        "instance_id": 741,
+        "member_id": 18,
+        "exercise_id": "hbY9wqG",
+        "club_id": 2,
+        "timestamp": "2025-09-18T09:09:38.478469"
+    },
+    {
+        "instance_id": 742,
+        "member_id": 86,
+        "exercise_id": "ZqNOWQ6",
+        "club_id": 2,
+        "timestamp": "2025-07-27T11:13:06.384740"
+    },
+    {
+        "instance_id": 743,
+        "member_id": 96,
+        "exercise_id": "U6G2gk9",
+        "club_id": 3,
+        "timestamp": "2025-06-27T15:15:31.718060"
+    },
+    {
+        "instance_id": 744,
+        "member_id": 46,
+        "exercise_id": "2IxROQ1",
+        "club_id": 1,
+        "timestamp": "2025-08-19T17:15:34.054064"
+    },
+    {
+        "instance_id": 745,
+        "member_id": 89,
+        "exercise_id": "eZyBC3j",
+        "club_id": 1,
+        "timestamp": "2025-09-24T01:34:03.095022"
+    },
+    {
+        "instance_id": 746,
+        "member_id": 80,
+        "exercise_id": "MgKwAAo",
+        "club_id": 3,
+        "timestamp": "2025-09-03T20:58:17.629800"
+    },
+    {
+        "instance_id": 747,
+        "member_id": 71,
+        "exercise_id": "qRZ5S1N",
+        "club_id": 1,
+        "timestamp": "2025-07-01T07:11:47.207420"
+    },
+    {
+        "instance_id": 748,
+        "member_id": 45,
+        "exercise_id": "Wgbn9qo",
+        "club_id": 1,
+        "timestamp": "2025-08-16T08:32:27.233788"
+    },
+    {
+        "instance_id": 749,
+        "member_id": 44,
+        "exercise_id": "z6TAHoT",
+        "club_id": 5,
+        "timestamp": "2025-08-29T14:34:48.317177"
+    },
+    {
+        "instance_id": 750,
+        "member_id": 35,
+        "exercise_id": "CQHoDm0",
+        "club_id": 2,
+        "timestamp": "2025-06-25T08:52:20.616107"
+    },
+    {
+        "instance_id": 751,
+        "member_id": 5,
+        "exercise_id": "UFGF6gk",
+        "club_id": 4,
+        "timestamp": "2025-10-10T09:59:44.003965"
+    },
+    {
+        "instance_id": 752,
+        "member_id": 15,
+        "exercise_id": "4ievMJ9",
+        "club_id": 1,
+        "timestamp": "2025-10-20T18:10:55.750408"
+    },
+    {
+        "instance_id": 753,
+        "member_id": 34,
+        "exercise_id": "5lE7XRz",
+        "club_id": 3,
+        "timestamp": "2025-06-25T12:49:15.140661"
+    },
+    {
+        "instance_id": 754,
+        "member_id": 92,
+        "exercise_id": "EcaV7aL",
+        "club_id": 2,
+        "timestamp": "2025-08-28T16:54:20.543850"
+    },
+    {
+        "instance_id": 755,
+        "member_id": 20,
+        "exercise_id": "Q4DSJPC",
+        "club_id": 2,
+        "timestamp": "2025-07-14T02:21:50.721408"
+    },
+    {
+        "instance_id": 756,
+        "member_id": 82,
+        "exercise_id": "eZyBC3j",
+        "club_id": 3,
+        "timestamp": "2025-07-28T07:53:26.060882"
+    },
+    {
+        "instance_id": 757,
+        "member_id": 69,
+        "exercise_id": "XooAdhl",
+        "club_id": 2,
+        "timestamp": "2025-09-10T07:38:48.168626"
+    },
+    {
+        "instance_id": 758,
+        "member_id": 24,
+        "exercise_id": "RxayqAZ",
+        "club_id": 3,
+        "timestamp": "2025-09-22T11:07:07.427416"
+    },
+    {
+        "instance_id": 759,
+        "member_id": 16,
+        "exercise_id": "zd4P4B2",
+        "club_id": 1,
+        "timestamp": "2025-07-01T11:57:53.447984"
+    },
+    {
+        "instance_id": 760,
+        "member_id": 95,
+        "exercise_id": "hbY9wqG",
+        "club_id": 4,
+        "timestamp": "2025-09-26T16:00:53.065733"
+    },
+    {
+        "instance_id": 761,
+        "member_id": 71,
+        "exercise_id": "BgljGjd",
+        "club_id": 1,
+        "timestamp": "2025-08-16T02:51:31.111928"
+    },
+    {
+        "instance_id": 762,
+        "member_id": 27,
+        "exercise_id": "SJqRxOt",
+        "club_id": 1,
+        "timestamp": "2025-08-13T09:57:44.119341"
+    },
+    {
+        "instance_id": 763,
+        "member_id": 54,
+        "exercise_id": "i11JWU7",
+        "club_id": 4,
+        "timestamp": "2025-09-04T07:22:11.340606"
+    },
+    {
+        "instance_id": 764,
+        "member_id": 89,
+        "exercise_id": "WcHl7ru",
+        "club_id": 1,
+        "timestamp": "2025-09-18T05:16:53.324437"
+    },
+    {
+        "instance_id": 765,
+        "member_id": 99,
+        "exercise_id": "vtusOWT",
+        "club_id": 3,
+        "timestamp": "2025-07-22T20:03:08.491540"
+    },
+    {
+        "instance_id": 766,
+        "member_id": 3,
+        "exercise_id": "3xK09Sk",
+        "club_id": 4,
+        "timestamp": "2025-09-10T19:04:40.242611"
+    },
+    {
+        "instance_id": 767,
+        "member_id": 91,
+        "exercise_id": "v2DfH14",
+        "club_id": 1,
+        "timestamp": "2025-09-02T04:39:35.289508"
+    },
+    {
+        "instance_id": 768,
+        "member_id": 12,
+        "exercise_id": "J6Dx1Mu",
+        "club_id": 5,
+        "timestamp": "2025-10-06T03:39:33.606685"
+    },
+    {
+        "instance_id": 769,
+        "member_id": 3,
+        "exercise_id": "WM6TvvW",
+        "club_id": 4,
+        "timestamp": "2025-10-05T16:19:35.643213"
+    },
+    {
+        "instance_id": 770,
+        "member_id": 89,
+        "exercise_id": "Ca76jUE",
+        "club_id": 1,
+        "timestamp": "2025-09-03T12:34:51.896223"
+    },
+    {
+        "instance_id": 771,
+        "member_id": 77,
+        "exercise_id": "aaxA3cm",
+        "club_id": 4,
+        "timestamp": "2025-08-24T02:42:52.546180"
+    },
+    {
+        "instance_id": 772,
+        "member_id": 69,
+        "exercise_id": "vtusOWT",
+        "club_id": 2,
+        "timestamp": "2025-10-11T23:05:12.293342"
+    },
+    {
+        "instance_id": 773,
+        "member_id": 18,
+        "exercise_id": "r0z6xzQ",
+        "club_id": 2,
+        "timestamp": "2025-10-12T14:28:12.632992"
+    },
+    {
+        "instance_id": 774,
+        "member_id": 45,
+        "exercise_id": "sYCcnon",
+        "club_id": 1,
+        "timestamp": "2025-09-18T09:59:07.900176"
+    },
+    {
+        "instance_id": 775,
+        "member_id": 95,
+        "exercise_id": "bZGHsAZ",
+        "club_id": 4,
+        "timestamp": "2025-06-28T19:40:59.197801"
+    },
+    {
+        "instance_id": 776,
+        "member_id": 96,
+        "exercise_id": "DQ0cqkT",
+        "club_id": 3,
+        "timestamp": "2025-08-20T13:15:36.301378"
+    },
+    {
+        "instance_id": 777,
+        "member_id": 38,
+        "exercise_id": "g9AsZ8P",
+        "club_id": 2,
+        "timestamp": "2025-10-05T00:59:35.815272"
+    },
+    {
+        "instance_id": 778,
+        "member_id": 94,
+        "exercise_id": "Mxa7Cr8",
+        "club_id": 4,
+        "timestamp": "2025-09-04T05:32:11.910109"
+    },
+    {
+        "instance_id": 779,
+        "member_id": 49,
+        "exercise_id": "WrYPP2g",
+        "club_id": 1,
+        "timestamp": "2025-09-09T13:42:29.304276"
+    },
+    {
+        "instance_id": 780,
+        "member_id": 4,
+        "exercise_id": "v3vLFW0",
+        "club_id": 5,
+        "timestamp": "2025-07-20T06:24:29.539770"
+    },
+    {
+        "instance_id": 781,
+        "member_id": 2,
+        "exercise_id": "N6dZN2I",
+        "club_id": 2,
+        "timestamp": "2025-06-26T13:53:49.751087"
+    },
+    {
+        "instance_id": 782,
+        "member_id": 85,
+        "exercise_id": "OIFMAp1",
+        "club_id": 2,
+        "timestamp": "2025-08-30T20:49:56.687149"
+    },
+    {
+        "instance_id": 783,
+        "member_id": 53,
+        "exercise_id": "VjYliFZ",
+        "club_id": 4,
+        "timestamp": "2025-07-05T15:38:15.310639"
+    },
+    {
+        "instance_id": 784,
+        "member_id": 100,
+        "exercise_id": "Wgbn9qo",
+        "club_id": 5,
+        "timestamp": "2025-10-10T08:54:50.505654"
+    },
+    {
+        "instance_id": 785,
+        "member_id": 80,
+        "exercise_id": "PbzNu7c",
+        "club_id": 3,
+        "timestamp": "2025-09-15T18:21:26.697488"
+    },
+    {
+        "instance_id": 786,
+        "member_id": 53,
+        "exercise_id": "r0z6xzQ",
+        "club_id": 4,
+        "timestamp": "2025-10-07T04:20:50.493814"
+    },
+    {
+        "instance_id": 787,
+        "member_id": 15,
+        "exercise_id": "hnOYgH3",
+        "club_id": 1,
+        "timestamp": "2025-10-12T15:16:50.035437"
+    },
+    {
+        "instance_id": 788,
+        "member_id": 93,
+        "exercise_id": "EIsE3u8",
+        "club_id": 5,
+        "timestamp": "2025-10-09T02:59:32.063822"
+    },
+    {
+        "instance_id": 789,
+        "member_id": 8,
+        "exercise_id": "LMGXZn8",
+        "club_id": 5,
+        "timestamp": "2025-07-17T06:27:48.672798"
+    },
+    {
+        "instance_id": 790,
+        "member_id": 73,
+        "exercise_id": "VuoerH0",
+        "club_id": 1,
+        "timestamp": "2025-08-17T11:09:10.469400"
+    },
+    {
+        "instance_id": 791,
+        "member_id": 31,
+        "exercise_id": "VYmYxK5",
+        "club_id": 2,
+        "timestamp": "2025-07-03T03:00:08.046854"
+    },
+    {
+        "instance_id": 792,
+        "member_id": 93,
+        "exercise_id": "KyLtiLT",
+        "club_id": 5,
+        "timestamp": "2025-08-06T07:08:37.060446"
+    },
+    {
+        "instance_id": 793,
+        "member_id": 18,
+        "exercise_id": "jDnrkar",
+        "club_id": 2,
+        "timestamp": "2025-07-12T07:17:31.617253"
+    },
+    {
+        "instance_id": 794,
+        "member_id": 74,
+        "exercise_id": "K1vlode",
+        "club_id": 2,
+        "timestamp": "2025-10-07T09:41:02.896554"
+    },
+    {
+        "instance_id": 795,
+        "member_id": 86,
+        "exercise_id": "K1vlode",
+        "club_id": 2,
+        "timestamp": "2025-10-06T01:34:20.989008"
+    },
+    {
+        "instance_id": 796,
+        "member_id": 93,
+        "exercise_id": "4CBIBOM",
+        "club_id": 5,
+        "timestamp": "2025-09-20T00:26:03.046444"
+    },
+    {
+        "instance_id": 797,
+        "member_id": 61,
+        "exercise_id": "jDnrkar",
+        "club_id": 5,
+        "timestamp": "2025-09-20T19:10:17.801142"
+    },
+    {
+        "instance_id": 798,
+        "member_id": 69,
+        "exercise_id": "EcaV7aL",
+        "club_id": 2,
+        "timestamp": "2025-10-02T16:22:13.193708"
+    },
+    {
+        "instance_id": 799,
+        "member_id": 51,
+        "exercise_id": "Jsgsc27",
+        "club_id": 4,
+        "timestamp": "2025-08-19T06:34:53.373388"
+    },
+    {
+        "instance_id": 800,
+        "member_id": 54,
+        "exercise_id": "dmgMp3n",
+        "club_id": 4,
+        "timestamp": "2025-10-20T12:16:50.304711"
+    },
+    {
+        "instance_id": 801,
+        "member_id": 25,
+        "exercise_id": "J60bN17",
+        "club_id": 4,
+        "timestamp": "2025-09-02T00:53:16.711007"
+    },
+    {
+        "instance_id": 802,
+        "member_id": 67,
+        "exercise_id": "4cWjYEN",
+        "club_id": 4,
+        "timestamp": "2025-09-14T09:13:41.701114"
+    },
+    {
+        "instance_id": 803,
+        "member_id": 67,
+        "exercise_id": "wbUYILZ",
+        "club_id": 4,
+        "timestamp": "2025-09-01T01:06:20.277429"
+    },
+    {
+        "instance_id": 804,
+        "member_id": 20,
+        "exercise_id": "XooAdhl",
+        "club_id": 2,
+        "timestamp": "2025-07-24T13:48:42.377561"
+    },
+    {
+        "instance_id": 805,
+        "member_id": 5,
+        "exercise_id": "4Jt8QsQ",
+        "club_id": 4,
+        "timestamp": "2025-07-04T09:51:10.027491"
+    },
+    {
+        "instance_id": 806,
+        "member_id": 78,
+        "exercise_id": "CJwa0vD",
+        "club_id": 1,
+        "timestamp": "2025-08-22T17:20:13.571217"
+    },
+    {
+        "instance_id": 807,
+        "member_id": 81,
+        "exercise_id": "DQ0cqkT",
+        "club_id": 5,
+        "timestamp": "2025-07-12T12:03:52.219497"
+    },
+    {
+        "instance_id": 808,
+        "member_id": 69,
+        "exercise_id": "bZq4bwK",
+        "club_id": 2,
+        "timestamp": "2025-10-15T13:37:37.035069"
+    },
+    {
+        "instance_id": 809,
+        "member_id": 64,
+        "exercise_id": "ZX9UZmj",
+        "club_id": 3,
+        "timestamp": "2025-09-11T20:00:22.208397"
+    },
+    {
+        "instance_id": 810,
+        "member_id": 16,
+        "exercise_id": "4ievMJ9",
+        "club_id": 1,
+        "timestamp": "2025-09-16T15:51:15.588578"
+    },
+    {
+        "instance_id": 811,
+        "member_id": 78,
+        "exercise_id": "WM6TvvW",
+        "club_id": 1,
+        "timestamp": "2025-08-27T07:16:10.953956"
+    },
+    {
+        "instance_id": 812,
+        "member_id": 11,
+        "exercise_id": "VuoerH0",
+        "club_id": 4,
+        "timestamp": "2025-08-17T03:25:17.710415"
+    },
+    {
+        "instance_id": 813,
+        "member_id": 46,
+        "exercise_id": "CJwa0vD",
+        "club_id": 1,
+        "timestamp": "2025-08-26T03:58:25.502810"
+    },
+    {
+        "instance_id": 814,
+        "member_id": 35,
+        "exercise_id": "1YUWDNZ",
+        "club_id": 2,
+        "timestamp": "2025-08-01T17:49:20.105649"
+    },
+    {
+        "instance_id": 815,
+        "member_id": 32,
+        "exercise_id": "LkoAWAE",
+        "club_id": 5,
+        "timestamp": "2025-07-25T13:47:55.294696"
+    },
+    {
+        "instance_id": 816,
+        "member_id": 72,
+        "exercise_id": "Fhdtwf3",
+        "club_id": 3,
+        "timestamp": "2025-09-05T09:06:36.377817"
+    },
+    {
+        "instance_id": 817,
+        "member_id": 96,
+        "exercise_id": "iZop9xO",
+        "club_id": 3,
+        "timestamp": "2025-07-28T10:10:41.418620"
+    },
+    {
+        "instance_id": 818,
+        "member_id": 90,
+        "exercise_id": "pgIdT6i",
+        "club_id": 5,
+        "timestamp": "2025-09-20T09:45:26.354744"
+    },
+    {
+        "instance_id": 819,
+        "member_id": 37,
+        "exercise_id": "Nh3mvOO",
+        "club_id": 2,
+        "timestamp": "2025-09-25T09:27:50.211372"
+    },
+    {
+        "instance_id": 820,
+        "member_id": 76,
+        "exercise_id": "UFGF6gk",
+        "club_id": 5,
+        "timestamp": "2025-10-02T08:56:07.624573"
+    },
+    {
+        "instance_id": 821,
+        "member_id": 65,
+        "exercise_id": "CJwa0vD",
+        "club_id": 1,
+        "timestamp": "2025-09-27T21:25:01.341507"
+    },
+    {
+        "instance_id": 822,
+        "member_id": 81,
+        "exercise_id": "jdiExfW",
+        "club_id": 5,
+        "timestamp": "2025-08-16T18:32:41.913403"
+    },
+    {
+        "instance_id": 823,
+        "member_id": 97,
+        "exercise_id": "NfP83rA",
+        "club_id": 1,
+        "timestamp": "2025-07-02T08:26:31.856555"
+    },
+    {
+        "instance_id": 824,
+        "member_id": 93,
+        "exercise_id": "ZX9UZmj",
+        "club_id": 5,
+        "timestamp": "2025-07-23T23:17:35.396358"
+    },
+    {
+        "instance_id": 825,
+        "member_id": 74,
+        "exercise_id": "L2V5Nan",
+        "club_id": 2,
+        "timestamp": "2025-07-08T08:04:37.605844"
+    },
+    {
+        "instance_id": 826,
+        "member_id": 45,
+        "exercise_id": "4f8RXP8",
+        "club_id": 1,
+        "timestamp": "2025-08-14T07:37:52.625726"
+    },
+    {
+        "instance_id": 827,
+        "member_id": 57,
+        "exercise_id": "w44vFvP",
+        "club_id": 1,
+        "timestamp": "2025-08-01T19:23:21.901687"
+    },
+    {
+        "instance_id": 828,
+        "member_id": 24,
+        "exercise_id": "bpJL2Qs",
+        "club_id": 3,
+        "timestamp": "2025-07-20T21:17:34.374213"
+    },
+    {
+        "instance_id": 829,
+        "member_id": 19,
+        "exercise_id": "3ZflifB",
+        "club_id": 2,
+        "timestamp": "2025-08-07T20:04:13.008277"
+    },
+    {
+        "instance_id": 830,
+        "member_id": 62,
+        "exercise_id": "Nh3mvOO",
+        "club_id": 2,
+        "timestamp": "2025-09-22T06:33:52.273008"
+    },
+    {
+        "instance_id": 831,
+        "member_id": 68,
+        "exercise_id": "wbUYILZ",
+        "club_id": 5,
+        "timestamp": "2025-07-18T22:48:36.325957"
+    },
+    {
+        "instance_id": 832,
+        "member_id": 45,
+        "exercise_id": "aaXr7ld",
+        "club_id": 1,
+        "timestamp": "2025-08-05T02:24:43.895050"
+    },
+    {
+        "instance_id": 833,
+        "member_id": 86,
+        "exercise_id": "o8aOcrz",
+        "club_id": 2,
+        "timestamp": "2025-08-05T06:21:30.738916"
+    },
+    {
+        "instance_id": 834,
+        "member_id": 36,
+        "exercise_id": "dAJscVq",
+        "club_id": 1,
+        "timestamp": "2025-09-09T09:00:32.173901"
+    },
+    {
+        "instance_id": 835,
+        "member_id": 51,
+        "exercise_id": "K1vlode",
+        "club_id": 4,
+        "timestamp": "2025-08-28T02:20:04.910238"
+    },
+    {
+        "instance_id": 836,
+        "member_id": 16,
+        "exercise_id": "VjYliFZ",
+        "club_id": 1,
+        "timestamp": "2025-10-19T14:45:25.035539"
+    },
+    {
+        "instance_id": 837,
+        "member_id": 63,
+        "exercise_id": "X6ytgYZ",
+        "club_id": 4,
+        "timestamp": "2025-09-21T23:00:33.513745"
+    },
+    {
+        "instance_id": 838,
+        "member_id": 11,
+        "exercise_id": "w44vFvP",
+        "club_id": 4,
+        "timestamp": "2025-07-10T02:05:40.461969"
+    },
+    {
+        "instance_id": 839,
+        "member_id": 20,
+        "exercise_id": "wpbD28t",
+        "club_id": 2,
+        "timestamp": "2025-10-17T10:22:01.411414"
+    },
+    {
+        "instance_id": 840,
+        "member_id": 26,
+        "exercise_id": "z6TAHoT",
+        "club_id": 4,
+        "timestamp": "2025-08-06T15:06:47.848603"
+    },
+    {
+        "instance_id": 841,
+        "member_id": 49,
+        "exercise_id": "NfP83rA",
+        "club_id": 1,
+        "timestamp": "2025-07-12T10:54:39.373391"
+    },
+    {
+        "instance_id": 842,
+        "member_id": 76,
+        "exercise_id": "ZIViNh1",
+        "club_id": 5,
+        "timestamp": "2025-09-29T15:14:54.392340"
+    },
+    {
+        "instance_id": 843,
+        "member_id": 55,
+        "exercise_id": "da4cXST",
+        "club_id": 1,
+        "timestamp": "2025-08-27T13:42:11.770333"
+    },
+    {
+        "instance_id": 844,
+        "member_id": 100,
+        "exercise_id": "bndCa3Q",
+        "club_id": 5,
+        "timestamp": "2025-06-25T21:19:43.848701"
+    },
+    {
+        "instance_id": 845,
+        "member_id": 64,
+        "exercise_id": "z6TAHoT",
+        "club_id": 3,
+        "timestamp": "2025-08-31T15:42:33.624925"
+    },
+    {
+        "instance_id": 846,
+        "member_id": 80,
+        "exercise_id": "NN8nSNT",
+        "club_id": 3,
+        "timestamp": "2025-09-22T05:59:46.038917"
+    },
+    {
+        "instance_id": 847,
+        "member_id": 52,
+        "exercise_id": "aaXr7ld",
+        "club_id": 3,
+        "timestamp": "2025-10-10T07:23:51.194510"
+    },
+    {
+        "instance_id": 848,
+        "member_id": 1,
+        "exercise_id": "2IxROQ1",
+        "club_id": 4,
+        "timestamp": "2025-08-15T18:40:43.000558"
+    },
+    {
+        "instance_id": 849,
+        "member_id": 67,
+        "exercise_id": "4ievMJ9",
+        "club_id": 4,
+        "timestamp": "2025-10-18T14:50:40.974754"
+    },
+    {
+        "instance_id": 850,
+        "member_id": 92,
+        "exercise_id": "VQ3sNCn",
+        "club_id": 2,
+        "timestamp": "2025-08-22T12:01:16.160598"
+    },
+    {
+        "instance_id": 851,
+        "member_id": 59,
+        "exercise_id": "b9kqlBy",
+        "club_id": 5,
+        "timestamp": "2025-08-27T06:09:15.707074"
+    },
+    {
+        "instance_id": 852,
+        "member_id": 79,
+        "exercise_id": "1u36hhy",
+        "club_id": 2,
+        "timestamp": "2025-10-12T04:11:24.127714"
+    },
+    {
+        "instance_id": 853,
+        "member_id": 37,
+        "exercise_id": "yRLPCLu",
+        "club_id": 2,
+        "timestamp": "2025-08-24T01:33:38.566635"
+    },
+    {
+        "instance_id": 854,
+        "member_id": 42,
+        "exercise_id": "km0sQC0",
+        "club_id": 4,
+        "timestamp": "2025-08-13T16:07:33.404865"
+    },
+    {
+        "instance_id": 855,
+        "member_id": 61,
+        "exercise_id": "dAJscVq",
+        "club_id": 5,
+        "timestamp": "2025-09-26T13:26:07.617876"
+    },
+    {
+        "instance_id": 856,
+        "member_id": 62,
+        "exercise_id": "MSfvriJ",
+        "club_id": 2,
+        "timestamp": "2025-10-12T19:55:03.930783"
+    },
+    {
+        "instance_id": 857,
+        "member_id": 84,
+        "exercise_id": "4OaumBr",
+        "club_id": 4,
+        "timestamp": "2025-07-27T09:46:59.951396"
+    },
+    {
+        "instance_id": 858,
+        "member_id": 44,
+        "exercise_id": "Db7eEgw",
+        "club_id": 5,
+        "timestamp": "2025-07-15T23:00:38.769702"
+    },
+    {
+        "instance_id": 859,
+        "member_id": 96,
+        "exercise_id": "ZqNOWQ6",
+        "club_id": 3,
+        "timestamp": "2025-09-14T23:32:18.390798"
+    },
+    {
+        "instance_id": 860,
+        "member_id": 44,
+        "exercise_id": "NfP83rA",
+        "club_id": 5,
+        "timestamp": "2025-09-30T03:39:25.497394"
+    },
+    {
+        "instance_id": 861,
+        "member_id": 37,
+        "exercise_id": "O4oIqQD",
+        "club_id": 2,
+        "timestamp": "2025-07-21T19:03:06.240614"
+    },
+    {
+        "instance_id": 862,
+        "member_id": 74,
+        "exercise_id": "iCPqbki",
+        "club_id": 2,
+        "timestamp": "2025-08-05T11:20:52.986359"
+    },
+    {
+        "instance_id": 863,
+        "member_id": 37,
+        "exercise_id": "OIFMAp1",
+        "club_id": 2,
+        "timestamp": "2025-06-29T16:35:08.048955"
+    },
+    {
+        "instance_id": 864,
+        "member_id": 72,
+        "exercise_id": "wOLmCXc",
+        "club_id": 3,
+        "timestamp": "2025-10-12T15:05:35.712450"
+    },
+    {
+        "instance_id": 865,
+        "member_id": 58,
+        "exercise_id": "ZqNOWQ6",
+        "club_id": 4,
+        "timestamp": "2025-09-13T02:40:07.672614"
+    },
+    {
+        "instance_id": 866,
+        "member_id": 90,
+        "exercise_id": "uOV3Itw",
+        "club_id": 5,
+        "timestamp": "2025-07-10T16:28:53.170456"
+    },
+    {
+        "instance_id": 867,
+        "member_id": 17,
+        "exercise_id": "bKWbrTA",
+        "club_id": 1,
+        "timestamp": "2025-07-31T10:08:41.413681"
+    },
+    {
+        "instance_id": 868,
+        "member_id": 16,
+        "exercise_id": "zYmNaoY",
+        "club_id": 1,
+        "timestamp": "2025-07-01T01:37:07.136798"
+    },
+    {
+        "instance_id": 869,
+        "member_id": 93,
+        "exercise_id": "4f8RXP8",
+        "club_id": 5,
+        "timestamp": "2025-08-02T17:47:47.483429"
+    },
+    {
+        "instance_id": 870,
+        "member_id": 89,
+        "exercise_id": "ufaxB52",
+        "club_id": 1,
+        "timestamp": "2025-07-19T19:02:36.004420"
+    },
+    {
+        "instance_id": 871,
+        "member_id": 34,
+        "exercise_id": "uTv34oq",
+        "club_id": 3,
+        "timestamp": "2025-07-26T01:29:39.452521"
+    },
+    {
+        "instance_id": 872,
+        "member_id": 17,
+        "exercise_id": "XooAdhl",
+        "club_id": 1,
+        "timestamp": "2025-09-05T17:32:03.772787"
+    },
+    {
+        "instance_id": 873,
+        "member_id": 42,
+        "exercise_id": "JGKowMS",
+        "club_id": 4,
+        "timestamp": "2025-07-12T14:31:08.759815"
+    },
+    {
+        "instance_id": 874,
+        "member_id": 18,
+        "exercise_id": "w44vFvP",
+        "club_id": 2,
+        "timestamp": "2025-07-02T18:14:16.595881"
+    },
+    {
+        "instance_id": 875,
+        "member_id": 93,
+        "exercise_id": "uX3sUBz",
+        "club_id": 5,
+        "timestamp": "2025-08-19T09:01:36.151625"
+    },
+    {
+        "instance_id": 876,
+        "member_id": 60,
+        "exercise_id": "uOV3Itw",
+        "club_id": 4,
+        "timestamp": "2025-09-27T05:22:58.264813"
+    },
+    {
+        "instance_id": 877,
+        "member_id": 83,
+        "exercise_id": "9pQSkH8",
+        "club_id": 4,
+        "timestamp": "2025-08-28T23:54:37.009702"
+    },
+    {
+        "instance_id": 878,
+        "member_id": 68,
+        "exercise_id": "VuoerH0",
+        "club_id": 5,
+        "timestamp": "2025-09-21T05:52:23.473517"
+    },
+    {
+        "instance_id": 879,
+        "member_id": 71,
+        "exercise_id": "IGjKj1v",
+        "club_id": 1,
+        "timestamp": "2025-10-21T10:20:37.545187"
+    },
+    {
+        "instance_id": 880,
+        "member_id": 86,
+        "exercise_id": "4OaumBr",
+        "club_id": 2,
+        "timestamp": "2025-10-14T20:40:54.016407"
+    },
+    {
+        "instance_id": 881,
+        "member_id": 15,
+        "exercise_id": "uOV3Itw",
+        "club_id": 1,
+        "timestamp": "2025-10-06T07:34:53.482713"
+    },
+    {
+        "instance_id": 882,
+        "member_id": 25,
+        "exercise_id": "OVIKwsd",
+        "club_id": 4,
+        "timestamp": "2025-10-21T01:19:06.589177"
+    },
+    {
+        "instance_id": 883,
+        "member_id": 29,
+        "exercise_id": "s5PdDyY",
+        "club_id": 2,
+        "timestamp": "2025-08-31T08:48:51.473118"
+    },
+    {
+        "instance_id": 884,
+        "member_id": 17,
+        "exercise_id": "zd4P4B2",
+        "club_id": 1,
+        "timestamp": "2025-08-04T23:40:47.812869"
+    },
+    {
+        "instance_id": 885,
+        "member_id": 28,
+        "exercise_id": "WrYPP2g",
+        "club_id": 2,
+        "timestamp": "2025-10-16T17:47:17.156114"
+    },
+    {
+        "instance_id": 886,
+        "member_id": 6,
+        "exercise_id": "wd4ds3s",
+        "club_id": 3,
+        "timestamp": "2025-10-15T08:34:58.981964"
+    },
+    {
+        "instance_id": 887,
+        "member_id": 17,
+        "exercise_id": "R5swFnc",
+        "club_id": 1,
+        "timestamp": "2025-08-19T04:00:36.807543"
+    },
+    {
+        "instance_id": 888,
+        "member_id": 54,
+        "exercise_id": "1YB40kg",
+        "club_id": 4,
+        "timestamp": "2025-07-11T22:21:02.582032"
+    },
+    {
+        "instance_id": 889,
+        "member_id": 58,
+        "exercise_id": "aaxA3cm",
+        "club_id": 4,
+        "timestamp": "2025-08-29T01:10:19.398970"
+    },
+    {
+        "instance_id": 890,
+        "member_id": 60,
+        "exercise_id": "U3ffHlY",
+        "club_id": 4,
+        "timestamp": "2025-09-06T04:52:26.808085"
+    },
+    {
+        "instance_id": 891,
+        "member_id": 57,
+        "exercise_id": "w44vFvP",
+        "club_id": 1,
+        "timestamp": "2025-09-29T22:04:15.556852"
+    },
+    {
+        "instance_id": 892,
+        "member_id": 2,
+        "exercise_id": "Db7eEgw",
+        "club_id": 2,
+        "timestamp": "2025-07-09T05:01:47.230821"
+    },
+    {
+        "instance_id": 893,
+        "member_id": 86,
+        "exercise_id": "1YUWDNZ",
+        "club_id": 2,
+        "timestamp": "2025-08-17T21:19:09.420724"
+    },
+    {
+        "instance_id": 894,
+        "member_id": 39,
+        "exercise_id": "OmQ8w0p",
+        "club_id": 1,
+        "timestamp": "2025-10-05T13:28:55.804116"
+    },
+    {
+        "instance_id": 895,
+        "member_id": 33,
+        "exercise_id": "4cWjYEN",
+        "club_id": 2,
+        "timestamp": "2025-09-24T16:40:22.252456"
+    },
+    {
+        "instance_id": 896,
+        "member_id": 60,
+        "exercise_id": "VYmYxK5",
+        "club_id": 4,
+        "timestamp": "2025-06-28T03:32:55.297334"
+    },
+    {
+        "instance_id": 897,
+        "member_id": 18,
+        "exercise_id": "hnOYgH3",
+        "club_id": 2,
+        "timestamp": "2025-07-09T03:40:06.365412"
+    },
+    {
+        "instance_id": 898,
+        "member_id": 86,
+        "exercise_id": "WcHl7ru",
+        "club_id": 2,
+        "timestamp": "2025-09-02T03:56:53.221642"
+    },
+    {
+        "instance_id": 899,
+        "member_id": 70,
+        "exercise_id": "1u36hhy",
+        "club_id": 5,
+        "timestamp": "2025-07-12T16:33:55.827640"
+    },
+    {
+        "instance_id": 900,
+        "member_id": 33,
+        "exercise_id": "veXwo0D",
+        "club_id": 2,
+        "timestamp": "2025-10-03T07:11:22.717247"
+    },
+    {
+        "instance_id": 901,
+        "member_id": 25,
+        "exercise_id": "tig3PXb",
+        "club_id": 4,
+        "timestamp": "2025-07-20T16:39:56.308067"
+    },
+    {
+        "instance_id": 902,
+        "member_id": 19,
+        "exercise_id": "PQStVXH",
+        "club_id": 2,
+        "timestamp": "2025-10-16T14:43:52.776190"
+    },
+    {
+        "instance_id": 903,
+        "member_id": 12,
+        "exercise_id": "CJwa0vD",
+        "club_id": 5,
+        "timestamp": "2025-10-15T23:21:06.122172"
+    },
+    {
+        "instance_id": 904,
+        "member_id": 94,
+        "exercise_id": "1YUWDNZ",
+        "club_id": 4,
+        "timestamp": "2025-09-01T10:24:43.821065"
+    },
+    {
+        "instance_id": 905,
+        "member_id": 84,
+        "exercise_id": "JGKowMS",
+        "club_id": 4,
+        "timestamp": "2025-10-05T06:12:12.115464"
+    },
+    {
+        "instance_id": 906,
+        "member_id": 45,
+        "exercise_id": "dmgMp3n",
+        "club_id": 1,
+        "timestamp": "2025-10-01T11:42:19.393242"
+    },
+    {
+        "instance_id": 907,
+        "member_id": 39,
+        "exercise_id": "aaXr7ld",
+        "club_id": 1,
+        "timestamp": "2025-07-18T22:13:51.009246"
+    },
+    {
+        "instance_id": 908,
+        "member_id": 68,
+        "exercise_id": "v2DfH14",
+        "club_id": 5,
+        "timestamp": "2025-09-03T08:18:31.398912"
+    },
+    {
+        "instance_id": 909,
+        "member_id": 76,
+        "exercise_id": "i11JWU7",
+        "club_id": 5,
+        "timestamp": "2025-08-21T18:02:24.640986"
+    },
+    {
+        "instance_id": 910,
+        "member_id": 49,
+        "exercise_id": "C0MA9bC",
+        "club_id": 1,
+        "timestamp": "2025-09-20T03:49:07.897093"
+    },
+    {
+        "instance_id": 911,
+        "member_id": 99,
+        "exercise_id": "b9kqlBy",
+        "club_id": 3,
+        "timestamp": "2025-09-23T04:08:19.108058"
+    },
+    {
+        "instance_id": 912,
+        "member_id": 94,
+        "exercise_id": "CJwa0vD",
+        "club_id": 4,
+        "timestamp": "2025-10-13T23:54:40.578081"
+    },
+    {
+        "instance_id": 913,
+        "member_id": 43,
+        "exercise_id": "fUBheHs",
+        "club_id": 3,
+        "timestamp": "2025-07-29T03:49:03.125806"
+    },
+    {
+        "instance_id": 914,
+        "member_id": 100,
+        "exercise_id": "VYmYxK5",
+        "club_id": 5,
+        "timestamp": "2025-06-24T03:11:32.044885"
+    },
+    {
+        "instance_id": 915,
+        "member_id": 21,
+        "exercise_id": "w44vFvP",
+        "club_id": 1,
+        "timestamp": "2025-08-31T07:54:12.593935"
+    },
+    {
+        "instance_id": 916,
+        "member_id": 51,
+        "exercise_id": "wd4ds3s",
+        "club_id": 4,
+        "timestamp": "2025-06-24T21:09:13.952305"
+    },
+    {
+        "instance_id": 917,
+        "member_id": 77,
+        "exercise_id": "O4oIqQD",
+        "club_id": 4,
+        "timestamp": "2025-10-17T03:30:51.035925"
+    },
+    {
+        "instance_id": 918,
+        "member_id": 24,
+        "exercise_id": "gtO1ErP",
+        "club_id": 3,
+        "timestamp": "2025-07-23T23:01:59.751554"
+    },
+    {
+        "instance_id": 919,
+        "member_id": 20,
+        "exercise_id": "wpbD28t",
+        "club_id": 2,
+        "timestamp": "2025-10-08T06:37:41.453907"
+    },
+    {
+        "instance_id": 920,
+        "member_id": 18,
+        "exercise_id": "7vG5o25",
+        "club_id": 2,
+        "timestamp": "2025-09-18T15:23:22.010308"
+    },
+    {
+        "instance_id": 921,
+        "member_id": 65,
+        "exercise_id": "7HcfMBP",
+        "club_id": 1,
+        "timestamp": "2025-08-01T02:17:45.814793"
+    },
+    {
+        "instance_id": 922,
+        "member_id": 59,
+        "exercise_id": "wkgnGfb",
+        "club_id": 5,
+        "timestamp": "2025-06-24T00:22:26.769638"
+    },
+    {
+        "instance_id": 923,
+        "member_id": 6,
+        "exercise_id": "OmQ8w0p",
+        "club_id": 3,
+        "timestamp": "2025-07-17T13:36:37.756572"
+    },
+    {
+        "instance_id": 924,
+        "member_id": 99,
+        "exercise_id": "BReCuOn",
+        "club_id": 3,
+        "timestamp": "2025-09-06T16:37:27.038426"
+    },
+    {
+        "instance_id": 925,
+        "member_id": 54,
+        "exercise_id": "2IxROQ1",
+        "club_id": 4,
+        "timestamp": "2025-06-30T17:25:34.524442"
+    },
+    {
+        "instance_id": 926,
+        "member_id": 94,
+        "exercise_id": "O4oIqQD",
+        "club_id": 4,
+        "timestamp": "2025-07-13T03:39:19.512481"
+    },
+    {
+        "instance_id": 927,
+        "member_id": 50,
+        "exercise_id": "ZSJNetl",
+        "club_id": 5,
+        "timestamp": "2025-08-30T22:33:51.072387"
+    },
+    {
+        "instance_id": 928,
+        "member_id": 59,
+        "exercise_id": "BJ0Hz5L",
+        "club_id": 5,
+        "timestamp": "2025-07-25T02:03:22.428038"
+    },
+    {
+        "instance_id": 929,
+        "member_id": 32,
+        "exercise_id": "EIsE3u8",
+        "club_id": 5,
+        "timestamp": "2025-08-22T22:35:54.506363"
+    },
+    {
+        "instance_id": 930,
+        "member_id": 85,
+        "exercise_id": "hnOYgH3",
+        "club_id": 2,
+        "timestamp": "2025-10-17T07:34:38.279641"
+    },
+    {
+        "instance_id": 931,
+        "member_id": 14,
+        "exercise_id": "zZlORz6",
+        "club_id": 1,
+        "timestamp": "2025-08-20T21:00:26.254077"
+    },
+    {
+        "instance_id": 932,
+        "member_id": 7,
+        "exercise_id": "1YUWDNZ",
+        "club_id": 1,
+        "timestamp": "2025-09-27T08:57:05.137938"
+    },
+    {
+        "instance_id": 933,
+        "member_id": 47,
+        "exercise_id": "SJqRxOt",
+        "club_id": 2,
+        "timestamp": "2025-08-05T04:05:50.507430"
+    },
+    {
+        "instance_id": 934,
+        "member_id": 10,
+        "exercise_id": "XooAdhl",
+        "club_id": 4,
+        "timestamp": "2025-09-28T07:34:33.871619"
+    },
+    {
+        "instance_id": 935,
+        "member_id": 77,
+        "exercise_id": "x6KpKpq",
+        "club_id": 4,
+        "timestamp": "2025-08-01T12:59:53.644069"
+    },
+    {
+        "instance_id": 936,
+        "member_id": 7,
+        "exercise_id": "DQ0cqkT",
+        "club_id": 1,
+        "timestamp": "2025-06-24T09:48:28.508554"
+    },
+    {
+        "instance_id": 937,
+        "member_id": 15,
+        "exercise_id": "wkgnGfb",
+        "club_id": 1,
+        "timestamp": "2025-10-19T11:33:49.006227"
+    },
+    {
+        "instance_id": 938,
+        "member_id": 79,
+        "exercise_id": "1YUWDNZ",
+        "club_id": 2,
+        "timestamp": "2025-07-13T20:57:16.376688"
+    },
+    {
+        "instance_id": 939,
+        "member_id": 38,
+        "exercise_id": "x6KpKpq",
+        "club_id": 2,
+        "timestamp": "2025-07-06T09:54:27.732068"
+    },
+    {
+        "instance_id": 940,
+        "member_id": 91,
+        "exercise_id": "yg8Totb",
+        "club_id": 1,
+        "timestamp": "2025-08-23T10:27:22.697345"
+    },
+    {
+        "instance_id": 941,
+        "member_id": 65,
+        "exercise_id": "tig3PXb",
+        "club_id": 1,
+        "timestamp": "2025-10-07T20:50:55.361914"
+    },
+    {
+        "instance_id": 942,
+        "member_id": 83,
+        "exercise_id": "OVIKwsd",
+        "club_id": 4,
+        "timestamp": "2025-10-13T01:53:05.631679"
+    },
+    {
+        "instance_id": 943,
+        "member_id": 13,
+        "exercise_id": "wf24o8S",
+        "club_id": 5,
+        "timestamp": "2025-10-05T11:24:03.242323"
+    },
+    {
+        "instance_id": 944,
+        "member_id": 1,
+        "exercise_id": "v2DfH14",
+        "club_id": 4,
+        "timestamp": "2025-09-20T00:19:21.448683"
+    },
+    {
+        "instance_id": 945,
+        "member_id": 50,
+        "exercise_id": "w44vFvP",
+        "club_id": 5,
+        "timestamp": "2025-07-10T18:15:34.623620"
+    },
+    {
+        "instance_id": 946,
+        "member_id": 31,
+        "exercise_id": "RrLske5",
+        "club_id": 2,
+        "timestamp": "2025-08-13T05:32:17.866980"
+    },
+    {
+        "instance_id": 947,
+        "member_id": 50,
+        "exercise_id": "oHg8eop",
+        "club_id": 5,
+        "timestamp": "2025-07-09T09:53:43.506299"
+    },
+    {
+        "instance_id": 948,
+        "member_id": 97,
+        "exercise_id": "1xHyxys",
+        "club_id": 1,
+        "timestamp": "2025-09-29T18:28:58.248591"
+    },
+    {
+        "instance_id": 949,
+        "member_id": 15,
+        "exercise_id": "VYmYxK5",
+        "club_id": 1,
+        "timestamp": "2025-07-25T18:19:58.590951"
+    },
+    {
+        "instance_id": 950,
+        "member_id": 26,
+        "exercise_id": "ZqNOWQ6",
+        "club_id": 4,
+        "timestamp": "2025-08-24T09:37:46.709041"
+    },
+    {
+        "instance_id": 951,
+        "member_id": 34,
+        "exercise_id": "4f8RXP8",
+        "club_id": 3,
+        "timestamp": "2025-07-22T19:21:55.120083"
+    },
+    {
+        "instance_id": 952,
+        "member_id": 16,
+        "exercise_id": "wkgnGfb",
+        "club_id": 1,
+        "timestamp": "2025-07-26T10:10:11.329085"
+    },
+    {
+        "instance_id": 953,
+        "member_id": 56,
+        "exercise_id": "gAwDzB3",
+        "club_id": 3,
+        "timestamp": "2025-07-05T12:55:30.156055"
+    },
+    {
+        "instance_id": 954,
+        "member_id": 57,
+        "exercise_id": "PbzNu7c",
+        "club_id": 1,
+        "timestamp": "2025-09-27T13:47:07.006278"
+    },
+    {
+        "instance_id": 955,
+        "member_id": 52,
+        "exercise_id": "ufaxB52",
+        "club_id": 3,
+        "timestamp": "2025-07-23T14:27:54.811692"
+    },
+    {
+        "instance_id": 956,
+        "member_id": 59,
+        "exercise_id": "gtO1ErP",
+        "club_id": 5,
+        "timestamp": "2025-08-22T00:57:26.144875"
+    },
+    {
+        "instance_id": 957,
+        "member_id": 70,
+        "exercise_id": "3ZflifB",
+        "club_id": 5,
+        "timestamp": "2025-09-03T01:02:31.268468"
+    },
+    {
+        "instance_id": 958,
+        "member_id": 76,
+        "exercise_id": "2IxROQ1",
+        "club_id": 5,
+        "timestamp": "2025-08-03T04:57:06.822990"
+    },
+    {
+        "instance_id": 959,
+        "member_id": 99,
+        "exercise_id": "3ZflifB",
+        "club_id": 3,
+        "timestamp": "2025-09-23T13:06:22.555638"
+    },
+    {
+        "instance_id": 960,
+        "member_id": 56,
+        "exercise_id": "bpJL2Qs",
+        "club_id": 3,
+        "timestamp": "2025-08-22T09:25:29.833465"
+    },
+    {
+        "instance_id": 961,
+        "member_id": 25,
+        "exercise_id": "zZlORz6",
+        "club_id": 4,
+        "timestamp": "2025-07-04T12:05:00.262572"
+    },
+    {
+        "instance_id": 962,
+        "member_id": 28,
+        "exercise_id": "qcY50ZD",
+        "club_id": 2,
+        "timestamp": "2025-08-27T21:34:55.213781"
+    },
+    {
+        "instance_id": 963,
+        "member_id": 93,
+        "exercise_id": "dZl9Q27",
+        "club_id": 5,
+        "timestamp": "2025-09-04T15:17:22.325293"
+    },
+    {
+        "instance_id": 964,
+        "member_id": 8,
+        "exercise_id": "qcY50ZD",
+        "club_id": 5,
+        "timestamp": "2025-08-05T14:11:32.838764"
+    },
+    {
+        "instance_id": 965,
+        "member_id": 4,
+        "exercise_id": "NfP83rA",
+        "club_id": 5,
+        "timestamp": "2025-09-27T22:50:28.924550"
+    },
+    {
+        "instance_id": 966,
+        "member_id": 9,
+        "exercise_id": "A3P4O0R",
+        "club_id": 2,
+        "timestamp": "2025-08-03T20:22:10.802222"
+    },
+    {
+        "instance_id": 967,
+        "member_id": 73,
+        "exercise_id": "PNtsX17",
+        "club_id": 1,
+        "timestamp": "2025-08-19T14:25:21.024026"
+    },
+    {
+        "instance_id": 968,
+        "member_id": 32,
+        "exercise_id": "yg8Totb",
+        "club_id": 5,
+        "timestamp": "2025-09-21T06:21:19.538278"
+    },
+    {
+        "instance_id": 969,
+        "member_id": 83,
+        "exercise_id": "eZyBC3j",
+        "club_id": 4,
+        "timestamp": "2025-07-06T11:29:21.624403"
+    },
+    {
+        "instance_id": 970,
+        "member_id": 92,
+        "exercise_id": "ZSJNetl",
+        "club_id": 2,
+        "timestamp": "2025-07-07T07:46:27.327548"
+    },
+    {
+        "instance_id": 971,
+        "member_id": 56,
+        "exercise_id": "dZl9Q27",
+        "club_id": 3,
+        "timestamp": "2025-10-12T05:22:24.491373"
+    },
+    {
+        "instance_id": 972,
+        "member_id": 89,
+        "exercise_id": "CJwa0vD",
+        "club_id": 1,
+        "timestamp": "2025-08-12T21:16:46.652296"
+    },
+    {
+        "instance_id": 973,
+        "member_id": 47,
+        "exercise_id": "KQfySvS",
+        "club_id": 2,
+        "timestamp": "2025-10-03T09:34:09.277117"
+    },
+    {
+        "instance_id": 974,
+        "member_id": 50,
+        "exercise_id": "5lE7XRz",
+        "club_id": 5,
+        "timestamp": "2025-06-25T23:41:38.044609"
+    },
+    {
+        "instance_id": 975,
+        "member_id": 2,
+        "exercise_id": "qcY50ZD",
+        "club_id": 2,
+        "timestamp": "2025-07-31T22:40:28.131732"
+    },
+    {
+        "instance_id": 976,
+        "member_id": 81,
+        "exercise_id": "Jsgsc27",
+        "club_id": 5,
+        "timestamp": "2025-07-28T13:23:09.830287"
+    },
+    {
+        "instance_id": 977,
+        "member_id": 41,
+        "exercise_id": "wt6rwjk",
+        "club_id": 2,
+        "timestamp": "2025-09-29T00:47:09.819264"
+    },
+    {
+        "instance_id": 978,
+        "member_id": 58,
+        "exercise_id": "zd4P4B2",
+        "club_id": 4,
+        "timestamp": "2025-07-24T11:19:06.169917"
+    },
+    {
+        "instance_id": 979,
+        "member_id": 8,
+        "exercise_id": "gAwDzB3",
+        "club_id": 5,
+        "timestamp": "2025-10-19T22:54:20.113603"
+    },
+    {
+        "instance_id": 980,
+        "member_id": 76,
+        "exercise_id": "EMpUwRI",
+        "club_id": 5,
+        "timestamp": "2025-07-14T03:09:51.814792"
+    },
+    {
+        "instance_id": 981,
+        "member_id": 6,
+        "exercise_id": "yaMIo4D",
+        "club_id": 3,
+        "timestamp": "2025-07-27T08:36:04.713680"
+    },
+    {
+        "instance_id": 982,
+        "member_id": 16,
+        "exercise_id": "ZujAdR9",
+        "club_id": 1,
+        "timestamp": "2025-09-25T03:19:08.252352"
+    },
+    {
+        "instance_id": 983,
+        "member_id": 13,
+        "exercise_id": "u3UuCZu",
+        "club_id": 5,
+        "timestamp": "2025-06-28T13:55:16.812737"
+    },
+    {
+        "instance_id": 984,
+        "member_id": 27,
+        "exercise_id": "s5PdDyY",
+        "club_id": 1,
+        "timestamp": "2025-08-28T10:33:26.564274"
+    },
+    {
+        "instance_id": 985,
+        "member_id": 98,
+        "exercise_id": "VQ3sNCn",
+        "club_id": 2,
+        "timestamp": "2025-06-24T22:26:07.005240"
+    },
+    {
+        "instance_id": 986,
+        "member_id": 26,
+        "exercise_id": "fUBheHs",
+        "club_id": 4,
+        "timestamp": "2025-07-25T14:39:30.746367"
+    },
+    {
+        "instance_id": 987,
+        "member_id": 97,
+        "exercise_id": "BReCuOn",
+        "club_id": 1,
+        "timestamp": "2025-10-13T19:01:30.563469"
+    },
+    {
+        "instance_id": 988,
+        "member_id": 86,
+        "exercise_id": "zZlORz6",
+        "club_id": 2,
+        "timestamp": "2025-07-08T20:54:48.505001"
+    },
+    {
+        "instance_id": 989,
+        "member_id": 5,
+        "exercise_id": "JF8AkMX",
+        "club_id": 4,
+        "timestamp": "2025-07-11T12:58:39.845672"
+    },
+    {
+        "instance_id": 990,
+        "member_id": 55,
+        "exercise_id": "yg8Totb",
+        "club_id": 1,
+        "timestamp": "2025-08-21T08:09:24.420165"
+    },
+    {
+        "instance_id": 991,
+        "member_id": 63,
+        "exercise_id": "C0MA9bC",
+        "club_id": 4,
+        "timestamp": "2025-07-02T02:49:38.853766"
+    },
+    {
+        "instance_id": 992,
+        "member_id": 69,
+        "exercise_id": "J60bN17",
+        "club_id": 2,
+        "timestamp": "2025-06-26T03:13:57.335339"
+    },
+    {
+        "instance_id": 993,
+        "member_id": 54,
+        "exercise_id": "gAwDzB3",
+        "club_id": 4,
+        "timestamp": "2025-07-08T15:58:54.706301"
+    },
+    {
+        "instance_id": 994,
+        "member_id": 34,
+        "exercise_id": "9fCHfSc",
+        "club_id": 3,
+        "timestamp": "2025-10-05T20:25:17.829305"
+    },
+    {
+        "instance_id": 995,
+        "member_id": 24,
+        "exercise_id": "OVIKwsd",
+        "club_id": 3,
+        "timestamp": "2025-08-16T15:26:23.443476"
+    },
+    {
+        "instance_id": 996,
+        "member_id": 97,
+        "exercise_id": "7HcfMBP",
+        "club_id": 1,
+        "timestamp": "2025-09-14T08:18:50.235468"
+    },
+    {
+        "instance_id": 997,
+        "member_id": 70,
+        "exercise_id": "SJqRxOt",
+        "club_id": 5,
+        "timestamp": "2025-07-04T05:04:46.666724"
+    },
+    {
+        "instance_id": 998,
+        "member_id": 41,
+        "exercise_id": "7HcfMBP",
+        "club_id": 2,
+        "timestamp": "2025-10-16T13:24:02.510267"
+    },
+    {
+        "instance_id": 999,
+        "member_id": 43,
+        "exercise_id": "wd4ds3s",
+        "club_id": 3,
+        "timestamp": "2025-10-03T22:15:50.672233"
+    },
+    {
+        "instance_id": 1000,
+        "member_id": 81,
+        "exercise_id": "zZlORz6",
+        "club_id": 5,
+        "timestamp": "2025-09-30T10:13:35.662376"
+    }
+]

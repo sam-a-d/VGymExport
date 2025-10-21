@@ -1,0 +1,4964 @@
+[
+    {
+        "checkin_id": 1,
+        "member_id": 1,
+        "club_id": 4,
+        "timestamp": "2025-10-07T04:40:56.813089"
+    },
+    {
+        "checkin_id": 2,
+        "member_id": 1,
+        "club_id": 4,
+        "timestamp": "2025-09-05T18:41:43.632065"
+    },
+    {
+        "checkin_id": 3,
+        "member_id": 1,
+        "club_id": 4,
+        "timestamp": "2025-09-28T18:02:51.433577"
+    },
+    {
+        "checkin_id": 4,
+        "member_id": 1,
+        "club_id": 4,
+        "timestamp": "2025-08-03T19:13:36.261167"
+    },
+    {
+        "checkin_id": 5,
+        "member_id": 1,
+        "club_id": 4,
+        "timestamp": "2025-07-23T17:47:05.025118"
+    },
+    {
+        "checkin_id": 6,
+        "member_id": 1,
+        "club_id": 4,
+        "timestamp": "2025-09-24T16:17:00.125722"
+    },
+    {
+        "checkin_id": 7,
+        "member_id": 1,
+        "club_id": 4,
+        "timestamp": "2025-09-14T20:39:52.313865"
+    },
+    {
+        "checkin_id": 8,
+        "member_id": 1,
+        "club_id": 4,
+        "timestamp": "2025-10-18T17:46:41.163037"
+    },
+    {
+        "checkin_id": 9,
+        "member_id": 1,
+        "club_id": 4,
+        "timestamp": "2025-09-10T15:47:07.200049"
+    },
+    {
+        "checkin_id": 10,
+        "member_id": 1,
+        "club_id": 4,
+        "timestamp": "2025-07-28T21:17:43.135563"
+    },
+    {
+        "checkin_id": 11,
+        "member_id": 1,
+        "club_id": 4,
+        "timestamp": "2025-09-23T13:38:11.850339"
+    },
+    {
+        "checkin_id": 12,
+        "member_id": 1,
+        "club_id": 4,
+        "timestamp": "2025-10-04T17:08:52.810482"
+    },
+    {
+        "checkin_id": 13,
+        "member_id": 3,
+        "club_id": 4,
+        "timestamp": "2025-08-31T08:02:26.040566"
+    },
+    {
+        "checkin_id": 14,
+        "member_id": 3,
+        "club_id": 4,
+        "timestamp": "2025-08-19T15:48:58.296443"
+    },
+    {
+        "checkin_id": 15,
+        "member_id": 3,
+        "club_id": 4,
+        "timestamp": "2025-07-31T01:40:38.471525"
+    },
+    {
+        "checkin_id": 16,
+        "member_id": 3,
+        "club_id": 4,
+        "timestamp": "2025-10-11T03:12:53.365067"
+    },
+    {
+        "checkin_id": 17,
+        "member_id": 3,
+        "club_id": 4,
+        "timestamp": "2025-09-10T20:16:02.514384"
+    },
+    {
+        "checkin_id": 18,
+        "member_id": 3,
+        "club_id": 4,
+        "timestamp": "2025-08-07T11:38:10.403665"
+    },
+    {
+        "checkin_id": 19,
+        "member_id": 3,
+        "club_id": 4,
+        "timestamp": "2025-09-23T20:08:54.849240"
+    },
+    {
+        "checkin_id": 20,
+        "member_id": 3,
+        "club_id": 4,
+        "timestamp": "2025-10-17T10:56:04.582691"
+    },
+    {
+        "checkin_id": 21,
+        "member_id": 3,
+        "club_id": 4,
+        "timestamp": "2025-09-20T08:49:02.996027"
+    },
+    {
+        "checkin_id": 22,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-09-10T04:09:33.066150"
+    },
+    {
+        "checkin_id": 23,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-10-04T03:42:59.138033"
+    },
+    {
+        "checkin_id": 24,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-07-28T15:49:46.554331"
+    },
+    {
+        "checkin_id": 25,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-07-24T02:50:31.713128"
+    },
+    {
+        "checkin_id": 26,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-10-08T17:35:15.074252"
+    },
+    {
+        "checkin_id": 27,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-10-03T10:34:45.604357"
+    },
+    {
+        "checkin_id": 28,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-08-10T13:41:09.135797"
+    },
+    {
+        "checkin_id": 29,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-08-05T11:55:24.718241"
+    },
+    {
+        "checkin_id": 30,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-09-28T00:25:50.759676"
+    },
+    {
+        "checkin_id": 31,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-09-05T03:31:54.076956"
+    },
+    {
+        "checkin_id": 32,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-10-04T10:14:37.686592"
+    },
+    {
+        "checkin_id": 33,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-10-14T19:16:38.824321"
+    },
+    {
+        "checkin_id": 34,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-07-24T05:53:07.765436"
+    },
+    {
+        "checkin_id": 35,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-09-26T22:01:40.473730"
+    },
+    {
+        "checkin_id": 36,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-08-07T19:41:36.812102"
+    },
+    {
+        "checkin_id": 37,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-09-14T15:24:39.464298"
+    },
+    {
+        "checkin_id": 38,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-09-22T21:12:36.769689"
+    },
+    {
+        "checkin_id": 39,
+        "member_id": 4,
+        "club_id": 5,
+        "timestamp": "2025-07-29T22:58:27.440948"
+    },
+    {
+        "checkin_id": 40,
+        "member_id": 5,
+        "club_id": 4,
+        "timestamp": "2025-07-24T14:50:43.547793"
+    },
+    {
+        "checkin_id": 41,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-08-02T03:27:28.293430"
+    },
+    {
+        "checkin_id": 42,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-09-25T22:56:22.161523"
+    },
+    {
+        "checkin_id": 43,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-10-17T17:38:31.117472"
+    },
+    {
+        "checkin_id": 44,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-09-15T06:31:19.444710"
+    },
+    {
+        "checkin_id": 45,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-09-09T16:34:19.847663"
+    },
+    {
+        "checkin_id": 46,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-08-26T18:44:45.903665"
+    },
+    {
+        "checkin_id": 47,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-10-03T05:54:10.430458"
+    },
+    {
+        "checkin_id": 48,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-08-17T21:04:39.648138"
+    },
+    {
+        "checkin_id": 49,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-09-30T21:13:33.765176"
+    },
+    {
+        "checkin_id": 50,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-09-28T18:38:31.326916"
+    },
+    {
+        "checkin_id": 51,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-10-06T08:46:17.980001"
+    },
+    {
+        "checkin_id": 52,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-08-18T06:11:16.017674"
+    },
+    {
+        "checkin_id": 53,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-08-22T21:13:28.736517"
+    },
+    {
+        "checkin_id": 54,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-09-25T03:08:26.287044"
+    },
+    {
+        "checkin_id": 55,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-08-05T01:40:41.129699"
+    },
+    {
+        "checkin_id": 56,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-09-17T10:34:22.630131"
+    },
+    {
+        "checkin_id": 57,
+        "member_id": 6,
+        "club_id": 3,
+        "timestamp": "2025-09-04T20:22:17.011090"
+    },
+    {
+        "checkin_id": 58,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-10-20T09:47:23.554051"
+    },
+    {
+        "checkin_id": 59,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-09-24T11:20:35.142329"
+    },
+    {
+        "checkin_id": 60,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-10-01T13:28:28.112523"
+    },
+    {
+        "checkin_id": 61,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-09-29T18:33:09.418016"
+    },
+    {
+        "checkin_id": 62,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-08-31T09:16:45.434859"
+    },
+    {
+        "checkin_id": 63,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-08-05T16:49:22.149639"
+    },
+    {
+        "checkin_id": 64,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-10-07T07:02:26.348804"
+    },
+    {
+        "checkin_id": 65,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-08-23T13:10:10.654634"
+    },
+    {
+        "checkin_id": 66,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-08-05T17:18:48.512357"
+    },
+    {
+        "checkin_id": 67,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-08-11T20:37:04.493075"
+    },
+    {
+        "checkin_id": 68,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-07-30T19:14:07.115428"
+    },
+    {
+        "checkin_id": 69,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-09-26T06:24:46.670782"
+    },
+    {
+        "checkin_id": 70,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-08-19T09:08:32.829716"
+    },
+    {
+        "checkin_id": 71,
+        "member_id": 8,
+        "club_id": 5,
+        "timestamp": "2025-08-15T21:04:55.496541"
+    },
+    {
+        "checkin_id": 72,
+        "member_id": 12,
+        "club_id": 5,
+        "timestamp": "2025-08-12T17:57:44.899906"
+    },
+    {
+        "checkin_id": 73,
+        "member_id": 12,
+        "club_id": 5,
+        "timestamp": "2025-08-18T15:26:20.778944"
+    },
+    {
+        "checkin_id": 74,
+        "member_id": 12,
+        "club_id": 5,
+        "timestamp": "2025-08-08T01:36:47.681550"
+    },
+    {
+        "checkin_id": 75,
+        "member_id": 12,
+        "club_id": 5,
+        "timestamp": "2025-08-14T02:28:01.370477"
+    },
+    {
+        "checkin_id": 76,
+        "member_id": 12,
+        "club_id": 5,
+        "timestamp": "2025-08-25T17:56:19.633421"
+    },
+    {
+        "checkin_id": 77,
+        "member_id": 12,
+        "club_id": 5,
+        "timestamp": "2025-08-11T01:18:34.008188"
+    },
+    {
+        "checkin_id": 78,
+        "member_id": 12,
+        "club_id": 5,
+        "timestamp": "2025-08-02T06:42:14.085326"
+    },
+    {
+        "checkin_id": 79,
+        "member_id": 12,
+        "club_id": 5,
+        "timestamp": "2025-10-15T16:12:21.426412"
+    },
+    {
+        "checkin_id": 80,
+        "member_id": 12,
+        "club_id": 5,
+        "timestamp": "2025-10-20T10:54:16.956334"
+    },
+    {
+        "checkin_id": 81,
+        "member_id": 14,
+        "club_id": 1,
+        "timestamp": "2025-07-31T23:07:51.283169"
+    },
+    {
+        "checkin_id": 82,
+        "member_id": 14,
+        "club_id": 1,
+        "timestamp": "2025-10-19T20:47:17.673388"
+    },
+    {
+        "checkin_id": 83,
+        "member_id": 14,
+        "club_id": 1,
+        "timestamp": "2025-08-25T13:36:04.692334"
+    },
+    {
+        "checkin_id": 84,
+        "member_id": 14,
+        "club_id": 1,
+        "timestamp": "2025-08-17T04:30:35.365520"
+    },
+    {
+        "checkin_id": 85,
+        "member_id": 14,
+        "club_id": 1,
+        "timestamp": "2025-09-30T19:07:06.125073"
+    },
+    {
+        "checkin_id": 86,
+        "member_id": 14,
+        "club_id": 1,
+        "timestamp": "2025-08-07T08:13:39.738999"
+    },
+    {
+        "checkin_id": 87,
+        "member_id": 14,
+        "club_id": 1,
+        "timestamp": "2025-07-29T05:41:21.129176"
+    },
+    {
+        "checkin_id": 88,
+        "member_id": 15,
+        "club_id": 1,
+        "timestamp": "2025-10-05T01:41:11.032658"
+    },
+    {
+        "checkin_id": 89,
+        "member_id": 15,
+        "club_id": 1,
+        "timestamp": "2025-09-12T06:16:08.835810"
+    },
+    {
+        "checkin_id": 90,
+        "member_id": 15,
+        "club_id": 1,
+        "timestamp": "2025-10-20T11:04:00.631809"
+    },
+    {
+        "checkin_id": 91,
+        "member_id": 15,
+        "club_id": 1,
+        "timestamp": "2025-08-10T02:02:35.058342"
+    },
+    {
+        "checkin_id": 92,
+        "member_id": 15,
+        "club_id": 1,
+        "timestamp": "2025-10-17T04:30:09.173380"
+    },
+    {
+        "checkin_id": 93,
+        "member_id": 15,
+        "club_id": 1,
+        "timestamp": "2025-07-28T10:54:18.228831"
+    },
+    {
+        "checkin_id": 94,
+        "member_id": 15,
+        "club_id": 1,
+        "timestamp": "2025-09-02T03:38:53.443069"
+    },
+    {
+        "checkin_id": 95,
+        "member_id": 15,
+        "club_id": 1,
+        "timestamp": "2025-10-13T13:33:50.938703"
+    },
+    {
+        "checkin_id": 96,
+        "member_id": 15,
+        "club_id": 1,
+        "timestamp": "2025-08-16T09:15:01.154989"
+    },
+    {
+        "checkin_id": 97,
+        "member_id": 15,
+        "club_id": 1,
+        "timestamp": "2025-07-24T15:11:18.683691"
+    },
+    {
+        "checkin_id": 98,
+        "member_id": 15,
+        "club_id": 1,
+        "timestamp": "2025-08-11T11:26:18.464884"
+    },
+    {
+        "checkin_id": 99,
+        "member_id": 16,
+        "club_id": 1,
+        "timestamp": "2025-07-28T05:43:51.183861"
+    },
+    {
+        "checkin_id": 100,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-08-10T22:02:40.964908"
+    },
+    {
+        "checkin_id": 101,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-08-18T04:38:23.240932"
+    },
+    {
+        "checkin_id": 102,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-10-10T16:29:03.324211"
+    },
+    {
+        "checkin_id": 103,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-08-19T21:12:03.971785"
+    },
+    {
+        "checkin_id": 104,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-08-26T02:51:35.202384"
+    },
+    {
+        "checkin_id": 105,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-09-24T16:35:04.305413"
+    },
+    {
+        "checkin_id": 106,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-07-26T01:35:52.347784"
+    },
+    {
+        "checkin_id": 107,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-09-25T21:05:37.657475"
+    },
+    {
+        "checkin_id": 108,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-10-09T11:57:58.177082"
+    },
+    {
+        "checkin_id": 109,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-08-11T07:08:41.086413"
+    },
+    {
+        "checkin_id": 110,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-08-13T09:12:00.580464"
+    },
+    {
+        "checkin_id": 111,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-08-21T18:12:54.548329"
+    },
+    {
+        "checkin_id": 112,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-08-03T00:16:52.248844"
+    },
+    {
+        "checkin_id": 113,
+        "member_id": 17,
+        "club_id": 1,
+        "timestamp": "2025-08-16T19:24:30.521317"
+    },
+    {
+        "checkin_id": 114,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-10-13T17:19:43.072461"
+    },
+    {
+        "checkin_id": 115,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-08-24T09:37:58.777433"
+    },
+    {
+        "checkin_id": 116,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-09-09T18:27:17.631249"
+    },
+    {
+        "checkin_id": 117,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-08-31T08:00:17.027544"
+    },
+    {
+        "checkin_id": 118,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-10-17T14:56:15.218012"
+    },
+    {
+        "checkin_id": 119,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-09-18T00:13:21.938423"
+    },
+    {
+        "checkin_id": 120,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-09-02T22:25:11.866398"
+    },
+    {
+        "checkin_id": 121,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-10-12T21:16:48.121126"
+    },
+    {
+        "checkin_id": 122,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-08-25T03:57:01.948304"
+    },
+    {
+        "checkin_id": 123,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-07-25T04:58:56.227218"
+    },
+    {
+        "checkin_id": 124,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-10-10T18:34:17.323158"
+    },
+    {
+        "checkin_id": 125,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-09-09T03:19:28.291242"
+    },
+    {
+        "checkin_id": 126,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-08-17T12:04:14.407171"
+    },
+    {
+        "checkin_id": 127,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-08-01T03:42:20.629900"
+    },
+    {
+        "checkin_id": 128,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-07-28T10:48:14.662302"
+    },
+    {
+        "checkin_id": 129,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-09-20T03:22:29.222770"
+    },
+    {
+        "checkin_id": 130,
+        "member_id": 18,
+        "club_id": 2,
+        "timestamp": "2025-07-23T17:34:47.698035"
+    },
+    {
+        "checkin_id": 131,
+        "member_id": 22,
+        "club_id": 5,
+        "timestamp": "2025-08-29T13:08:29.590766"
+    },
+    {
+        "checkin_id": 132,
+        "member_id": 22,
+        "club_id": 5,
+        "timestamp": "2025-10-04T18:28:59.607540"
+    },
+    {
+        "checkin_id": 133,
+        "member_id": 22,
+        "club_id": 5,
+        "timestamp": "2025-09-06T00:15:16.221852"
+    },
+    {
+        "checkin_id": 134,
+        "member_id": 22,
+        "club_id": 5,
+        "timestamp": "2025-07-27T17:18:05.952813"
+    },
+    {
+        "checkin_id": 135,
+        "member_id": 22,
+        "club_id": 5,
+        "timestamp": "2025-08-10T16:11:50.335483"
+    },
+    {
+        "checkin_id": 136,
+        "member_id": 22,
+        "club_id": 5,
+        "timestamp": "2025-07-28T10:39:54.089187"
+    },
+    {
+        "checkin_id": 137,
+        "member_id": 22,
+        "club_id": 5,
+        "timestamp": "2025-10-14T06:08:23.363932"
+    },
+    {
+        "checkin_id": 138,
+        "member_id": 22,
+        "club_id": 5,
+        "timestamp": "2025-09-17T05:42:54.527289"
+    },
+    {
+        "checkin_id": 139,
+        "member_id": 22,
+        "club_id": 5,
+        "timestamp": "2025-08-06T15:09:24.531613"
+    },
+    {
+        "checkin_id": 140,
+        "member_id": 22,
+        "club_id": 5,
+        "timestamp": "2025-08-29T23:21:37.540154"
+    },
+    {
+        "checkin_id": 141,
+        "member_id": 22,
+        "club_id": 5,
+        "timestamp": "2025-09-16T21:36:57.935515"
+    },
+    {
+        "checkin_id": 142,
+        "member_id": 23,
+        "club_id": 4,
+        "timestamp": "2025-10-10T10:36:44.315055"
+    },
+    {
+        "checkin_id": 143,
+        "member_id": 23,
+        "club_id": 4,
+        "timestamp": "2025-10-08T23:23:08.587273"
+    },
+    {
+        "checkin_id": 144,
+        "member_id": 23,
+        "club_id": 4,
+        "timestamp": "2025-07-24T17:39:39.540719"
+    },
+    {
+        "checkin_id": 145,
+        "member_id": 23,
+        "club_id": 4,
+        "timestamp": "2025-08-08T00:05:41.144812"
+    },
+    {
+        "checkin_id": 146,
+        "member_id": 23,
+        "club_id": 4,
+        "timestamp": "2025-07-24T03:39:31.230994"
+    },
+    {
+        "checkin_id": 147,
+        "member_id": 23,
+        "club_id": 4,
+        "timestamp": "2025-09-11T14:34:41.900679"
+    },
+    {
+        "checkin_id": 148,
+        "member_id": 23,
+        "club_id": 4,
+        "timestamp": "2025-08-01T09:24:59.020017"
+    },
+    {
+        "checkin_id": 149,
+        "member_id": 23,
+        "club_id": 4,
+        "timestamp": "2025-09-11T00:45:38.626963"
+    },
+    {
+        "checkin_id": 150,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-10-20T16:33:48.379611"
+    },
+    {
+        "checkin_id": 151,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-10-12T05:16:33.133169"
+    },
+    {
+        "checkin_id": 152,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-07-30T04:56:18.438481"
+    },
+    {
+        "checkin_id": 153,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-09-03T00:13:49.366429"
+    },
+    {
+        "checkin_id": 154,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-10-05T11:51:29.466810"
+    },
+    {
+        "checkin_id": 155,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-07-31T13:43:21.858032"
+    },
+    {
+        "checkin_id": 156,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-08-14T04:03:17.039836"
+    },
+    {
+        "checkin_id": 157,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-08-28T06:40:25.266925"
+    },
+    {
+        "checkin_id": 158,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-10-14T06:36:08.393009"
+    },
+    {
+        "checkin_id": 159,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-08-17T01:56:20.463807"
+    },
+    {
+        "checkin_id": 160,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-08-09T15:32:03.316642"
+    },
+    {
+        "checkin_id": 161,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-09-24T09:06:35.674985"
+    },
+    {
+        "checkin_id": 162,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-08-01T22:20:32.618646"
+    },
+    {
+        "checkin_id": 163,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-10-01T16:50:46.406177"
+    },
+    {
+        "checkin_id": 164,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-09-10T05:22:05.929652"
+    },
+    {
+        "checkin_id": 165,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-07-28T12:28:58.843160"
+    },
+    {
+        "checkin_id": 166,
+        "member_id": 24,
+        "club_id": 3,
+        "timestamp": "2025-08-17T06:57:35.975274"
+    },
+    {
+        "checkin_id": 167,
+        "member_id": 25,
+        "club_id": 4,
+        "timestamp": "2025-07-24T09:06:22.796996"
+    },
+    {
+        "checkin_id": 168,
+        "member_id": 25,
+        "club_id": 4,
+        "timestamp": "2025-09-12T17:26:53.447474"
+    },
+    {
+        "checkin_id": 169,
+        "member_id": 25,
+        "club_id": 4,
+        "timestamp": "2025-07-28T21:28:16.564807"
+    },
+    {
+        "checkin_id": 170,
+        "member_id": 25,
+        "club_id": 4,
+        "timestamp": "2025-08-07T03:21:04.293729"
+    },
+    {
+        "checkin_id": 171,
+        "member_id": 25,
+        "club_id": 4,
+        "timestamp": "2025-10-04T15:41:44.744032"
+    },
+    {
+        "checkin_id": 172,
+        "member_id": 25,
+        "club_id": 4,
+        "timestamp": "2025-09-01T04:22:36.127675"
+    },
+    {
+        "checkin_id": 173,
+        "member_id": 25,
+        "club_id": 4,
+        "timestamp": "2025-09-29T11:32:06.056792"
+    },
+    {
+        "checkin_id": 174,
+        "member_id": 25,
+        "club_id": 4,
+        "timestamp": "2025-08-25T01:56:45.360074"
+    },
+    {
+        "checkin_id": 175,
+        "member_id": 25,
+        "club_id": 4,
+        "timestamp": "2025-09-23T01:53:01.749237"
+    },
+    {
+        "checkin_id": 176,
+        "member_id": 25,
+        "club_id": 4,
+        "timestamp": "2025-10-18T13:39:54.562226"
+    },
+    {
+        "checkin_id": 177,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-08-06T19:01:21.920844"
+    },
+    {
+        "checkin_id": 178,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-09-05T06:14:30.537332"
+    },
+    {
+        "checkin_id": 179,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-08-09T07:35:10.813361"
+    },
+    {
+        "checkin_id": 180,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-10-07T02:19:46.383271"
+    },
+    {
+        "checkin_id": 181,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-09-29T03:01:44.890379"
+    },
+    {
+        "checkin_id": 182,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-10-04T15:16:48.091331"
+    },
+    {
+        "checkin_id": 183,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-08-30T17:20:03.660233"
+    },
+    {
+        "checkin_id": 184,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-10-05T03:28:18.576946"
+    },
+    {
+        "checkin_id": 185,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-07-29T19:36:24.358077"
+    },
+    {
+        "checkin_id": 186,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-10-16T03:07:44.585269"
+    },
+    {
+        "checkin_id": 187,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-09-19T21:16:42.934906"
+    },
+    {
+        "checkin_id": 188,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-08-28T21:12:42.287060"
+    },
+    {
+        "checkin_id": 189,
+        "member_id": 26,
+        "club_id": 4,
+        "timestamp": "2025-10-04T19:42:34.675214"
+    },
+    {
+        "checkin_id": 190,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-10-08T21:07:28.388633"
+    },
+    {
+        "checkin_id": 191,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-10-04T16:09:03.747995"
+    },
+    {
+        "checkin_id": 192,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-10-09T13:41:38.089228"
+    },
+    {
+        "checkin_id": 193,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-09-05T00:28:55.054111"
+    },
+    {
+        "checkin_id": 194,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-07-30T00:50:49.442626"
+    },
+    {
+        "checkin_id": 195,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-10-20T01:09:27.485328"
+    },
+    {
+        "checkin_id": 196,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-10-04T06:01:56.659449"
+    },
+    {
+        "checkin_id": 197,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-08-06T17:33:43.023726"
+    },
+    {
+        "checkin_id": 198,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-10-04T05:50:27.333549"
+    },
+    {
+        "checkin_id": 199,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-10-09T05:39:38.176943"
+    },
+    {
+        "checkin_id": 200,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-08-30T09:24:27.035676"
+    },
+    {
+        "checkin_id": 201,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-10-10T02:09:49.256477"
+    },
+    {
+        "checkin_id": 202,
+        "member_id": 27,
+        "club_id": 1,
+        "timestamp": "2025-09-26T15:28:58.341385"
+    },
+    {
+        "checkin_id": 203,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-08-01T17:43:54.838313"
+    },
+    {
+        "checkin_id": 204,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-10-20T04:17:28.838102"
+    },
+    {
+        "checkin_id": 205,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-08-28T03:27:17.860634"
+    },
+    {
+        "checkin_id": 206,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-10-11T13:24:32.291637"
+    },
+    {
+        "checkin_id": 207,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-10-02T20:55:05.655375"
+    },
+    {
+        "checkin_id": 208,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-10-16T07:24:01.645163"
+    },
+    {
+        "checkin_id": 209,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-09-12T22:28:20.063538"
+    },
+    {
+        "checkin_id": 210,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-09-27T09:39:04.425113"
+    },
+    {
+        "checkin_id": 211,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-10-06T21:30:12.183038"
+    },
+    {
+        "checkin_id": 212,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-09-22T10:54:43.115142"
+    },
+    {
+        "checkin_id": 213,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-10-03T07:54:53.613308"
+    },
+    {
+        "checkin_id": 214,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-10-11T08:29:44.537237"
+    },
+    {
+        "checkin_id": 215,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-08-08T19:43:15.469345"
+    },
+    {
+        "checkin_id": 216,
+        "member_id": 29,
+        "club_id": 2,
+        "timestamp": "2025-08-04T14:51:10.875793"
+    },
+    {
+        "checkin_id": 217,
+        "member_id": 31,
+        "club_id": 2,
+        "timestamp": "2025-09-17T02:58:29.042419"
+    },
+    {
+        "checkin_id": 218,
+        "member_id": 31,
+        "club_id": 2,
+        "timestamp": "2025-10-11T19:54:41.040143"
+    },
+    {
+        "checkin_id": 219,
+        "member_id": 31,
+        "club_id": 2,
+        "timestamp": "2025-10-14T01:03:45.296636"
+    },
+    {
+        "checkin_id": 220,
+        "member_id": 32,
+        "club_id": 5,
+        "timestamp": "2025-08-17T00:32:54.897213"
+    },
+    {
+        "checkin_id": 221,
+        "member_id": 32,
+        "club_id": 5,
+        "timestamp": "2025-10-06T21:12:43.670872"
+    },
+    {
+        "checkin_id": 222,
+        "member_id": 32,
+        "club_id": 5,
+        "timestamp": "2025-07-29T07:08:45.192982"
+    },
+    {
+        "checkin_id": 223,
+        "member_id": 32,
+        "club_id": 5,
+        "timestamp": "2025-08-20T18:18:57.282937"
+    },
+    {
+        "checkin_id": 224,
+        "member_id": 32,
+        "club_id": 5,
+        "timestamp": "2025-09-05T15:40:15.065396"
+    },
+    {
+        "checkin_id": 225,
+        "member_id": 32,
+        "club_id": 5,
+        "timestamp": "2025-08-20T15:26:12.096348"
+    },
+    {
+        "checkin_id": 226,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-08-25T11:54:23.115524"
+    },
+    {
+        "checkin_id": 227,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-08-23T10:14:48.350641"
+    },
+    {
+        "checkin_id": 228,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-08-25T09:29:59.167402"
+    },
+    {
+        "checkin_id": 229,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-10-12T01:55:41.443690"
+    },
+    {
+        "checkin_id": 230,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-08-01T18:57:31.697885"
+    },
+    {
+        "checkin_id": 231,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-10-14T11:28:27.454469"
+    },
+    {
+        "checkin_id": 232,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-08-09T17:20:02.829213"
+    },
+    {
+        "checkin_id": 233,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-08-08T16:26:01.556219"
+    },
+    {
+        "checkin_id": 234,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-08-10T09:15:41.678996"
+    },
+    {
+        "checkin_id": 235,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-08-23T16:54:37.574175"
+    },
+    {
+        "checkin_id": 236,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-09-08T01:03:07.128087"
+    },
+    {
+        "checkin_id": 237,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-08-16T10:59:47.600666"
+    },
+    {
+        "checkin_id": 238,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-09-08T13:54:07.299019"
+    },
+    {
+        "checkin_id": 239,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-08-19T23:54:42.796134"
+    },
+    {
+        "checkin_id": 240,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-10-19T06:01:19.905981"
+    },
+    {
+        "checkin_id": 241,
+        "member_id": 33,
+        "club_id": 2,
+        "timestamp": "2025-10-01T18:51:53.604646"
+    },
+    {
+        "checkin_id": 242,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-08-20T16:56:09.342656"
+    },
+    {
+        "checkin_id": 243,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-09-04T22:26:35.797686"
+    },
+    {
+        "checkin_id": 244,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-10-14T23:27:34.418560"
+    },
+    {
+        "checkin_id": 245,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-10-04T00:04:42.176600"
+    },
+    {
+        "checkin_id": 246,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-08-03T14:30:43.988846"
+    },
+    {
+        "checkin_id": 247,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-10-10T11:21:24.463537"
+    },
+    {
+        "checkin_id": 248,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-09-21T17:11:55.842340"
+    },
+    {
+        "checkin_id": 249,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-09-20T13:08:12.710479"
+    },
+    {
+        "checkin_id": 250,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-08-12T18:37:35.693944"
+    },
+    {
+        "checkin_id": 251,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-09-26T04:03:34.269511"
+    },
+    {
+        "checkin_id": 252,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-09-29T14:42:26.985976"
+    },
+    {
+        "checkin_id": 253,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-07-27T16:30:55.971054"
+    },
+    {
+        "checkin_id": 254,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-10-17T13:08:41.322065"
+    },
+    {
+        "checkin_id": 255,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-08-26T00:13:00.605312"
+    },
+    {
+        "checkin_id": 256,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-10-01T16:21:07.663791"
+    },
+    {
+        "checkin_id": 257,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-10-18T02:36:00.338023"
+    },
+    {
+        "checkin_id": 258,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-10-19T10:25:44.168735"
+    },
+    {
+        "checkin_id": 259,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-08-10T04:35:55.595404"
+    },
+    {
+        "checkin_id": 260,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-08-09T10:19:47.518679"
+    },
+    {
+        "checkin_id": 261,
+        "member_id": 35,
+        "club_id": 2,
+        "timestamp": "2025-09-02T01:41:12.230711"
+    },
+    {
+        "checkin_id": 262,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-09-25T22:32:30.226853"
+    },
+    {
+        "checkin_id": 263,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-08-04T22:24:42.641889"
+    },
+    {
+        "checkin_id": 264,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-08-15T15:34:47.046715"
+    },
+    {
+        "checkin_id": 265,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-09-02T09:47:45.066648"
+    },
+    {
+        "checkin_id": 266,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-09-09T04:43:09.100817"
+    },
+    {
+        "checkin_id": 267,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-10-15T10:50:47.086734"
+    },
+    {
+        "checkin_id": 268,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-10-11T20:48:05.302620"
+    },
+    {
+        "checkin_id": 269,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-09-23T16:45:01.235147"
+    },
+    {
+        "checkin_id": 270,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-07-24T03:36:57.220721"
+    },
+    {
+        "checkin_id": 271,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-09-08T17:43:02.413768"
+    },
+    {
+        "checkin_id": 272,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-10-19T17:14:13.628465"
+    },
+    {
+        "checkin_id": 273,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-08-21T22:56:23.053052"
+    },
+    {
+        "checkin_id": 274,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-08-15T20:54:06.152134"
+    },
+    {
+        "checkin_id": 275,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-08-13T08:01:22.092215"
+    },
+    {
+        "checkin_id": 276,
+        "member_id": 36,
+        "club_id": 1,
+        "timestamp": "2025-10-10T15:11:08.529462"
+    },
+    {
+        "checkin_id": 277,
+        "member_id": 37,
+        "club_id": 2,
+        "timestamp": "2025-08-29T14:01:31.181211"
+    },
+    {
+        "checkin_id": 278,
+        "member_id": 37,
+        "club_id": 2,
+        "timestamp": "2025-09-13T04:53:16.827582"
+    },
+    {
+        "checkin_id": 279,
+        "member_id": 37,
+        "club_id": 2,
+        "timestamp": "2025-08-09T05:01:37.560731"
+    },
+    {
+        "checkin_id": 280,
+        "member_id": 37,
+        "club_id": 2,
+        "timestamp": "2025-08-27T06:26:20.363602"
+    },
+    {
+        "checkin_id": 281,
+        "member_id": 37,
+        "club_id": 2,
+        "timestamp": "2025-10-19T09:54:32.930261"
+    },
+    {
+        "checkin_id": 282,
+        "member_id": 37,
+        "club_id": 2,
+        "timestamp": "2025-07-31T19:31:14.386945"
+    },
+    {
+        "checkin_id": 283,
+        "member_id": 37,
+        "club_id": 2,
+        "timestamp": "2025-10-19T13:59:56.229212"
+    },
+    {
+        "checkin_id": 284,
+        "member_id": 37,
+        "club_id": 2,
+        "timestamp": "2025-08-09T23:49:27.068820"
+    },
+    {
+        "checkin_id": 285,
+        "member_id": 37,
+        "club_id": 2,
+        "timestamp": "2025-09-09T03:39:53.652946"
+    },
+    {
+        "checkin_id": 286,
+        "member_id": 37,
+        "club_id": 2,
+        "timestamp": "2025-10-07T07:34:58.436792"
+    },
+    {
+        "checkin_id": 287,
+        "member_id": 38,
+        "club_id": 2,
+        "timestamp": "2025-08-23T02:46:21.073954"
+    },
+    {
+        "checkin_id": 288,
+        "member_id": 38,
+        "club_id": 2,
+        "timestamp": "2025-10-18T16:04:15.530368"
+    },
+    {
+        "checkin_id": 289,
+        "member_id": 38,
+        "club_id": 2,
+        "timestamp": "2025-07-26T11:12:42.193065"
+    },
+    {
+        "checkin_id": 290,
+        "member_id": 38,
+        "club_id": 2,
+        "timestamp": "2025-09-11T23:40:38.131506"
+    },
+    {
+        "checkin_id": 291,
+        "member_id": 38,
+        "club_id": 2,
+        "timestamp": "2025-10-12T22:47:48.825275"
+    },
+    {
+        "checkin_id": 292,
+        "member_id": 38,
+        "club_id": 2,
+        "timestamp": "2025-09-25T20:56:00.789769"
+    },
+    {
+        "checkin_id": 293,
+        "member_id": 38,
+        "club_id": 2,
+        "timestamp": "2025-08-07T09:49:27.050802"
+    },
+    {
+        "checkin_id": 294,
+        "member_id": 38,
+        "club_id": 2,
+        "timestamp": "2025-08-06T11:23:46.116108"
+    },
+    {
+        "checkin_id": 295,
+        "member_id": 38,
+        "club_id": 2,
+        "timestamp": "2025-09-08T10:10:19.838161"
+    },
+    {
+        "checkin_id": 296,
+        "member_id": 38,
+        "club_id": 2,
+        "timestamp": "2025-09-05T20:42:05.036146"
+    },
+    {
+        "checkin_id": 297,
+        "member_id": 38,
+        "club_id": 2,
+        "timestamp": "2025-10-21T04:46:57.876234"
+    },
+    {
+        "checkin_id": 298,
+        "member_id": 38,
+        "club_id": 2,
+        "timestamp": "2025-09-12T06:43:55.793968"
+    },
+    {
+        "checkin_id": 299,
+        "member_id": 40,
+        "club_id": 1,
+        "timestamp": "2025-08-25T04:41:13.482132"
+    },
+    {
+        "checkin_id": 300,
+        "member_id": 40,
+        "club_id": 1,
+        "timestamp": "2025-10-09T12:26:05.052554"
+    },
+    {
+        "checkin_id": 301,
+        "member_id": 40,
+        "club_id": 1,
+        "timestamp": "2025-08-23T18:20:10.182926"
+    },
+    {
+        "checkin_id": 302,
+        "member_id": 40,
+        "club_id": 1,
+        "timestamp": "2025-09-04T06:52:43.233607"
+    },
+    {
+        "checkin_id": 303,
+        "member_id": 40,
+        "club_id": 1,
+        "timestamp": "2025-07-28T01:38:33.156079"
+    },
+    {
+        "checkin_id": 304,
+        "member_id": 40,
+        "club_id": 1,
+        "timestamp": "2025-08-27T01:52:43.846832"
+    },
+    {
+        "checkin_id": 305,
+        "member_id": 40,
+        "club_id": 1,
+        "timestamp": "2025-10-19T00:09:32.936117"
+    },
+    {
+        "checkin_id": 306,
+        "member_id": 40,
+        "club_id": 1,
+        "timestamp": "2025-09-06T19:41:20.938120"
+    },
+    {
+        "checkin_id": 307,
+        "member_id": 40,
+        "club_id": 1,
+        "timestamp": "2025-09-16T03:43:50.301425"
+    },
+    {
+        "checkin_id": 308,
+        "member_id": 40,
+        "club_id": 1,
+        "timestamp": "2025-08-22T22:34:12.871886"
+    },
+    {
+        "checkin_id": 309,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-08-28T07:13:03.084434"
+    },
+    {
+        "checkin_id": 310,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-08-09T15:29:13.248364"
+    },
+    {
+        "checkin_id": 311,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-07-30T14:55:22.604415"
+    },
+    {
+        "checkin_id": 312,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-09-04T20:12:42.268770"
+    },
+    {
+        "checkin_id": 313,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-08-03T11:01:21.375795"
+    },
+    {
+        "checkin_id": 314,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-08-29T03:52:49.197045"
+    },
+    {
+        "checkin_id": 315,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-09-23T19:04:08.235640"
+    },
+    {
+        "checkin_id": 316,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-08-26T18:43:49.712876"
+    },
+    {
+        "checkin_id": 317,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-08-12T20:09:28.879064"
+    },
+    {
+        "checkin_id": 318,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-09-05T07:46:25.027332"
+    },
+    {
+        "checkin_id": 319,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-10-02T14:42:47.864967"
+    },
+    {
+        "checkin_id": 320,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-10-20T04:54:51.322814"
+    },
+    {
+        "checkin_id": 321,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-09-24T01:28:21.158872"
+    },
+    {
+        "checkin_id": 322,
+        "member_id": 42,
+        "club_id": 4,
+        "timestamp": "2025-09-29T00:30:44.682654"
+    },
+    {
+        "checkin_id": 323,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-08-08T04:04:33.829596"
+    },
+    {
+        "checkin_id": 324,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-07-27T09:15:42.710907"
+    },
+    {
+        "checkin_id": 325,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-10-14T19:15:15.091998"
+    },
+    {
+        "checkin_id": 326,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-07-31T14:50:12.175590"
+    },
+    {
+        "checkin_id": 327,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-10-06T09:29:49.639868"
+    },
+    {
+        "checkin_id": 328,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-09-23T09:39:39.834889"
+    },
+    {
+        "checkin_id": 329,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-09-30T10:28:23.479724"
+    },
+    {
+        "checkin_id": 330,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-09-03T03:56:23.728641"
+    },
+    {
+        "checkin_id": 331,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-09-07T17:57:27.094662"
+    },
+    {
+        "checkin_id": 332,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-10-18T22:33:02.022154"
+    },
+    {
+        "checkin_id": 333,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-09-23T02:24:32.226238"
+    },
+    {
+        "checkin_id": 334,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-09-17T04:43:58.265744"
+    },
+    {
+        "checkin_id": 335,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-10-15T22:02:40.451413"
+    },
+    {
+        "checkin_id": 336,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-09-20T06:21:54.367645"
+    },
+    {
+        "checkin_id": 337,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-07-30T13:58:20.594869"
+    },
+    {
+        "checkin_id": 338,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-10-02T13:00:38.444470"
+    },
+    {
+        "checkin_id": 339,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-07-27T00:41:49.785123"
+    },
+    {
+        "checkin_id": 340,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-09-05T22:23:42.331597"
+    },
+    {
+        "checkin_id": 341,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-09-18T17:13:38.942839"
+    },
+    {
+        "checkin_id": 342,
+        "member_id": 43,
+        "club_id": 3,
+        "timestamp": "2025-08-08T11:39:19.488467"
+    },
+    {
+        "checkin_id": 343,
+        "member_id": 45,
+        "club_id": 1,
+        "timestamp": "2025-09-12T06:27:52.131720"
+    },
+    {
+        "checkin_id": 344,
+        "member_id": 45,
+        "club_id": 1,
+        "timestamp": "2025-09-04T03:47:31.158563"
+    },
+    {
+        "checkin_id": 345,
+        "member_id": 45,
+        "club_id": 1,
+        "timestamp": "2025-09-25T16:55:03.231797"
+    },
+    {
+        "checkin_id": 346,
+        "member_id": 45,
+        "club_id": 1,
+        "timestamp": "2025-09-05T14:42:04.776246"
+    },
+    {
+        "checkin_id": 347,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-08-02T17:15:07.647701"
+    },
+    {
+        "checkin_id": 348,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-09-10T08:02:12.826016"
+    },
+    {
+        "checkin_id": 349,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-08-06T00:27:01.530427"
+    },
+    {
+        "checkin_id": 350,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-10-03T09:44:25.862752"
+    },
+    {
+        "checkin_id": 351,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-09-04T03:35:11.734305"
+    },
+    {
+        "checkin_id": 352,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-08-12T17:06:58.044288"
+    },
+    {
+        "checkin_id": 353,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-10-10T22:27:21.409497"
+    },
+    {
+        "checkin_id": 354,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-09-10T12:32:15.951817"
+    },
+    {
+        "checkin_id": 355,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-08-06T11:57:49.710739"
+    },
+    {
+        "checkin_id": 356,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-10-04T07:51:27.850796"
+    },
+    {
+        "checkin_id": 357,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-08-01T05:26:39.555519"
+    },
+    {
+        "checkin_id": 358,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-09-27T08:48:23.175491"
+    },
+    {
+        "checkin_id": 359,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-08-07T07:04:10.752737"
+    },
+    {
+        "checkin_id": 360,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-09-06T03:26:58.885974"
+    },
+    {
+        "checkin_id": 361,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-09-17T14:25:43.696676"
+    },
+    {
+        "checkin_id": 362,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-09-05T15:55:08.805284"
+    },
+    {
+        "checkin_id": 363,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-09-27T10:11:12.197935"
+    },
+    {
+        "checkin_id": 364,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-08-16T12:26:23.348040"
+    },
+    {
+        "checkin_id": 365,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-10-06T16:07:27.664754"
+    },
+    {
+        "checkin_id": 366,
+        "member_id": 46,
+        "club_id": 1,
+        "timestamp": "2025-09-26T09:21:20.370220"
+    },
+    {
+        "checkin_id": 367,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-08-17T20:28:24.342905"
+    },
+    {
+        "checkin_id": 368,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-09-26T09:48:03.039560"
+    },
+    {
+        "checkin_id": 369,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-08-08T12:29:23.998355"
+    },
+    {
+        "checkin_id": 370,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-08-22T12:16:10.266849"
+    },
+    {
+        "checkin_id": 371,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-10-16T09:47:01.697680"
+    },
+    {
+        "checkin_id": 372,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-08-11T09:06:07.190362"
+    },
+    {
+        "checkin_id": 373,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-10-05T06:28:28.451896"
+    },
+    {
+        "checkin_id": 374,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-08-09T10:52:21.003297"
+    },
+    {
+        "checkin_id": 375,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-09-03T14:43:37.390809"
+    },
+    {
+        "checkin_id": 376,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-08-26T05:32:54.388622"
+    },
+    {
+        "checkin_id": 377,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-08-23T11:22:59.386739"
+    },
+    {
+        "checkin_id": 378,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-09-30T07:45:16.706249"
+    },
+    {
+        "checkin_id": 379,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-08-01T15:30:17.802042"
+    },
+    {
+        "checkin_id": 380,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-08-13T13:24:16.878075"
+    },
+    {
+        "checkin_id": 381,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-08-22T00:13:02.042758"
+    },
+    {
+        "checkin_id": 382,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-09-26T23:17:32.354971"
+    },
+    {
+        "checkin_id": 383,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-08-05T19:46:12.885813"
+    },
+    {
+        "checkin_id": 384,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-10-18T09:22:39.025100"
+    },
+    {
+        "checkin_id": 385,
+        "member_id": 47,
+        "club_id": 2,
+        "timestamp": "2025-09-19T02:09:20.281405"
+    },
+    {
+        "checkin_id": 386,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-10-11T07:45:58.953672"
+    },
+    {
+        "checkin_id": 387,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-09-19T13:19:32.023561"
+    },
+    {
+        "checkin_id": 388,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-09-22T19:14:17.998830"
+    },
+    {
+        "checkin_id": 389,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-10-18T16:05:02.361607"
+    },
+    {
+        "checkin_id": 390,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-09-12T13:50:37.173722"
+    },
+    {
+        "checkin_id": 391,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-10-02T12:03:02.062604"
+    },
+    {
+        "checkin_id": 392,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-09-16T06:45:02.764086"
+    },
+    {
+        "checkin_id": 393,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-09-30T00:03:23.383995"
+    },
+    {
+        "checkin_id": 394,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-09-14T15:23:19.770673"
+    },
+    {
+        "checkin_id": 395,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-08-28T23:22:28.463391"
+    },
+    {
+        "checkin_id": 396,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-08-10T11:47:03.759509"
+    },
+    {
+        "checkin_id": 397,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-10-02T22:57:41.109389"
+    },
+    {
+        "checkin_id": 398,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-10-07T17:34:00.299879"
+    },
+    {
+        "checkin_id": 399,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-08-13T16:34:23.859195"
+    },
+    {
+        "checkin_id": 400,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-10-12T06:11:10.790384"
+    },
+    {
+        "checkin_id": 401,
+        "member_id": 50,
+        "club_id": 5,
+        "timestamp": "2025-08-03T15:57:28.729150"
+    },
+    {
+        "checkin_id": 402,
+        "member_id": 51,
+        "club_id": 4,
+        "timestamp": "2025-08-25T15:02:42.599146"
+    },
+    {
+        "checkin_id": 403,
+        "member_id": 51,
+        "club_id": 4,
+        "timestamp": "2025-09-12T18:09:08.334366"
+    },
+    {
+        "checkin_id": 404,
+        "member_id": 51,
+        "club_id": 4,
+        "timestamp": "2025-10-05T01:20:28.317728"
+    },
+    {
+        "checkin_id": 405,
+        "member_id": 51,
+        "club_id": 4,
+        "timestamp": "2025-08-27T06:46:00.294687"
+    },
+    {
+        "checkin_id": 406,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-08-01T16:20:18.227279"
+    },
+    {
+        "checkin_id": 407,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-08-23T03:09:43.125145"
+    },
+    {
+        "checkin_id": 408,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-09-22T01:00:59.299028"
+    },
+    {
+        "checkin_id": 409,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-10-13T13:57:49.292219"
+    },
+    {
+        "checkin_id": 410,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-10-12T08:52:48.641089"
+    },
+    {
+        "checkin_id": 411,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-08-27T11:10:01.296025"
+    },
+    {
+        "checkin_id": 412,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-10-04T01:01:27.415930"
+    },
+    {
+        "checkin_id": 413,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-09-27T15:47:56.527224"
+    },
+    {
+        "checkin_id": 414,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-09-20T18:24:38.894653"
+    },
+    {
+        "checkin_id": 415,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-09-12T02:33:10.995770"
+    },
+    {
+        "checkin_id": 416,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-09-17T13:42:37.991149"
+    },
+    {
+        "checkin_id": 417,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-09-24T06:18:47.622738"
+    },
+    {
+        "checkin_id": 418,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-09-16T11:25:18.089848"
+    },
+    {
+        "checkin_id": 419,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-09-18T10:08:39.253011"
+    },
+    {
+        "checkin_id": 420,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-10-11T17:48:44.153268"
+    },
+    {
+        "checkin_id": 421,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-10-10T07:10:34.456224"
+    },
+    {
+        "checkin_id": 422,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-08-03T11:47:12.921412"
+    },
+    {
+        "checkin_id": 423,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-09-11T00:38:28.886982"
+    },
+    {
+        "checkin_id": 424,
+        "member_id": 52,
+        "club_id": 3,
+        "timestamp": "2025-08-29T12:45:03.642593"
+    },
+    {
+        "checkin_id": 425,
+        "member_id": 53,
+        "club_id": 4,
+        "timestamp": "2025-09-07T22:22:42.762052"
+    },
+    {
+        "checkin_id": 426,
+        "member_id": 53,
+        "club_id": 4,
+        "timestamp": "2025-09-05T07:49:28.323862"
+    },
+    {
+        "checkin_id": 427,
+        "member_id": 53,
+        "club_id": 4,
+        "timestamp": "2025-08-05T01:57:38.141795"
+    },
+    {
+        "checkin_id": 428,
+        "member_id": 53,
+        "club_id": 4,
+        "timestamp": "2025-09-05T13:02:35.112338"
+    },
+    {
+        "checkin_id": 429,
+        "member_id": 53,
+        "club_id": 4,
+        "timestamp": "2025-09-05T06:11:56.926493"
+    },
+    {
+        "checkin_id": 430,
+        "member_id": 53,
+        "club_id": 4,
+        "timestamp": "2025-09-28T10:55:07.286398"
+    },
+    {
+        "checkin_id": 431,
+        "member_id": 53,
+        "club_id": 4,
+        "timestamp": "2025-09-25T01:50:58.755355"
+    },
+    {
+        "checkin_id": 432,
+        "member_id": 53,
+        "club_id": 4,
+        "timestamp": "2025-08-27T23:37:23.985405"
+    },
+    {
+        "checkin_id": 433,
+        "member_id": 53,
+        "club_id": 4,
+        "timestamp": "2025-09-10T10:52:08.893828"
+    },
+    {
+        "checkin_id": 434,
+        "member_id": 54,
+        "club_id": 4,
+        "timestamp": "2025-08-23T15:10:36.216384"
+    },
+    {
+        "checkin_id": 435,
+        "member_id": 54,
+        "club_id": 4,
+        "timestamp": "2025-08-29T05:27:19.165564"
+    },
+    {
+        "checkin_id": 436,
+        "member_id": 54,
+        "club_id": 4,
+        "timestamp": "2025-10-20T08:11:06.451541"
+    },
+    {
+        "checkin_id": 437,
+        "member_id": 54,
+        "club_id": 4,
+        "timestamp": "2025-08-08T07:37:12.877899"
+    },
+    {
+        "checkin_id": 438,
+        "member_id": 54,
+        "club_id": 4,
+        "timestamp": "2025-09-20T11:59:42.120440"
+    },
+    {
+        "checkin_id": 439,
+        "member_id": 54,
+        "club_id": 4,
+        "timestamp": "2025-08-10T21:12:06.157302"
+    },
+    {
+        "checkin_id": 440,
+        "member_id": 54,
+        "club_id": 4,
+        "timestamp": "2025-09-13T12:53:35.731811"
+    },
+    {
+        "checkin_id": 441,
+        "member_id": 54,
+        "club_id": 4,
+        "timestamp": "2025-10-20T19:53:32.451777"
+    },
+    {
+        "checkin_id": 442,
+        "member_id": 54,
+        "club_id": 4,
+        "timestamp": "2025-09-29T09:34:13.869422"
+    },
+    {
+        "checkin_id": 443,
+        "member_id": 54,
+        "club_id": 4,
+        "timestamp": "2025-07-25T18:21:51.367789"
+    },
+    {
+        "checkin_id": 444,
+        "member_id": 54,
+        "club_id": 4,
+        "timestamp": "2025-10-16T23:49:40.565427"
+    },
+    {
+        "checkin_id": 445,
+        "member_id": 54,
+        "club_id": 4,
+        "timestamp": "2025-10-10T01:57:29.071632"
+    },
+    {
+        "checkin_id": 446,
+        "member_id": 55,
+        "club_id": 1,
+        "timestamp": "2025-08-26T05:14:03.220642"
+    },
+    {
+        "checkin_id": 447,
+        "member_id": 56,
+        "club_id": 3,
+        "timestamp": "2025-09-11T05:32:51.877922"
+    },
+    {
+        "checkin_id": 448,
+        "member_id": 56,
+        "club_id": 3,
+        "timestamp": "2025-08-18T17:12:10.911599"
+    },
+    {
+        "checkin_id": 449,
+        "member_id": 56,
+        "club_id": 3,
+        "timestamp": "2025-08-30T22:09:36.675360"
+    },
+    {
+        "checkin_id": 450,
+        "member_id": 56,
+        "club_id": 3,
+        "timestamp": "2025-07-28T14:04:43.209563"
+    },
+    {
+        "checkin_id": 451,
+        "member_id": 56,
+        "club_id": 3,
+        "timestamp": "2025-09-16T11:20:53.515945"
+    },
+    {
+        "checkin_id": 452,
+        "member_id": 56,
+        "club_id": 3,
+        "timestamp": "2025-08-30T14:37:41.334143"
+    },
+    {
+        "checkin_id": 453,
+        "member_id": 56,
+        "club_id": 3,
+        "timestamp": "2025-09-21T20:22:53.168461"
+    },
+    {
+        "checkin_id": 454,
+        "member_id": 56,
+        "club_id": 3,
+        "timestamp": "2025-10-17T10:09:31.878180"
+    },
+    {
+        "checkin_id": 455,
+        "member_id": 56,
+        "club_id": 3,
+        "timestamp": "2025-09-07T08:13:17.893129"
+    },
+    {
+        "checkin_id": 456,
+        "member_id": 56,
+        "club_id": 3,
+        "timestamp": "2025-09-10T09:49:21.788951"
+    },
+    {
+        "checkin_id": 457,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-10-14T23:29:18.683334"
+    },
+    {
+        "checkin_id": 458,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-10-16T20:14:20.469503"
+    },
+    {
+        "checkin_id": 459,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-08-10T01:25:50.570560"
+    },
+    {
+        "checkin_id": 460,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-07-30T09:44:41.063418"
+    },
+    {
+        "checkin_id": 461,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-08-31T19:15:44.276976"
+    },
+    {
+        "checkin_id": 462,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-09-22T07:43:08.666002"
+    },
+    {
+        "checkin_id": 463,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-10-15T18:50:35.968853"
+    },
+    {
+        "checkin_id": 464,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-08-27T22:34:12.860762"
+    },
+    {
+        "checkin_id": 465,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-10-14T20:58:07.676152"
+    },
+    {
+        "checkin_id": 466,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-09-21T10:02:20.800470"
+    },
+    {
+        "checkin_id": 467,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-09-07T03:31:26.782628"
+    },
+    {
+        "checkin_id": 468,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-10-12T17:26:58.857391"
+    },
+    {
+        "checkin_id": 469,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-08-01T02:52:29.479481"
+    },
+    {
+        "checkin_id": 470,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-10-21T04:18:27.243951"
+    },
+    {
+        "checkin_id": 471,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-10-15T21:15:41.456432"
+    },
+    {
+        "checkin_id": 472,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-09-06T01:20:13.043184"
+    },
+    {
+        "checkin_id": 473,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-09-28T07:18:09.959390"
+    },
+    {
+        "checkin_id": 474,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-09-11T03:22:43.701888"
+    },
+    {
+        "checkin_id": 475,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-09-11T20:52:02.828511"
+    },
+    {
+        "checkin_id": 476,
+        "member_id": 57,
+        "club_id": 1,
+        "timestamp": "2025-08-22T19:05:18.372231"
+    },
+    {
+        "checkin_id": 477,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-08-04T20:43:46.205262"
+    },
+    {
+        "checkin_id": 478,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-08-31T13:40:26.112828"
+    },
+    {
+        "checkin_id": 479,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-08-22T06:26:51.376015"
+    },
+    {
+        "checkin_id": 480,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-08-13T00:35:09.879750"
+    },
+    {
+        "checkin_id": 481,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-10-16T13:00:49.989304"
+    },
+    {
+        "checkin_id": 482,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-10-12T04:30:06.820492"
+    },
+    {
+        "checkin_id": 483,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-09-24T14:52:54.825986"
+    },
+    {
+        "checkin_id": 484,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-09-28T23:13:39.050624"
+    },
+    {
+        "checkin_id": 485,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-08-15T02:09:24.811095"
+    },
+    {
+        "checkin_id": 486,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-08-12T13:47:24.217304"
+    },
+    {
+        "checkin_id": 487,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-08-14T21:39:32.532996"
+    },
+    {
+        "checkin_id": 488,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-09-25T12:51:19.631284"
+    },
+    {
+        "checkin_id": 489,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-10-17T13:15:26.734337"
+    },
+    {
+        "checkin_id": 490,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-08-24T03:13:21.522999"
+    },
+    {
+        "checkin_id": 491,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-07-27T20:12:05.986432"
+    },
+    {
+        "checkin_id": 492,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-09-28T17:19:23.220385"
+    },
+    {
+        "checkin_id": 493,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-10-03T17:30:24.171422"
+    },
+    {
+        "checkin_id": 494,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-08-15T08:48:08.137174"
+    },
+    {
+        "checkin_id": 495,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-10-03T23:15:45.107767"
+    },
+    {
+        "checkin_id": 496,
+        "member_id": 58,
+        "club_id": 4,
+        "timestamp": "2025-08-04T02:56:12.065594"
+    },
+    {
+        "checkin_id": 497,
+        "member_id": 59,
+        "club_id": 5,
+        "timestamp": "2025-08-28T03:29:48.342726"
+    },
+    {
+        "checkin_id": 498,
+        "member_id": 59,
+        "club_id": 5,
+        "timestamp": "2025-09-09T00:10:28.299593"
+    },
+    {
+        "checkin_id": 499,
+        "member_id": 59,
+        "club_id": 5,
+        "timestamp": "2025-10-09T19:35:52.867327"
+    },
+    {
+        "checkin_id": 500,
+        "member_id": 59,
+        "club_id": 5,
+        "timestamp": "2025-08-13T10:28:30.114743"
+    },
+    {
+        "checkin_id": 501,
+        "member_id": 59,
+        "club_id": 5,
+        "timestamp": "2025-10-09T07:32:04.039914"
+    },
+    {
+        "checkin_id": 502,
+        "member_id": 59,
+        "club_id": 5,
+        "timestamp": "2025-08-06T04:38:25.722876"
+    },
+    {
+        "checkin_id": 503,
+        "member_id": 59,
+        "club_id": 5,
+        "timestamp": "2025-09-15T20:36:22.590381"
+    },
+    {
+        "checkin_id": 504,
+        "member_id": 59,
+        "club_id": 5,
+        "timestamp": "2025-08-28T10:56:09.094079"
+    },
+    {
+        "checkin_id": 505,
+        "member_id": 59,
+        "club_id": 5,
+        "timestamp": "2025-10-02T10:39:49.786268"
+    },
+    {
+        "checkin_id": 506,
+        "member_id": 59,
+        "club_id": 5,
+        "timestamp": "2025-10-07T10:35:18.099920"
+    },
+    {
+        "checkin_id": 507,
+        "member_id": 59,
+        "club_id": 5,
+        "timestamp": "2025-10-03T07:44:33.702185"
+    },
+    {
+        "checkin_id": 508,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-08-20T16:41:14.090080"
+    },
+    {
+        "checkin_id": 509,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-09-29T08:22:28.842934"
+    },
+    {
+        "checkin_id": 510,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-09-01T17:15:54.973034"
+    },
+    {
+        "checkin_id": 511,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-09-01T05:30:16.370456"
+    },
+    {
+        "checkin_id": 512,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-10-08T11:12:46.364583"
+    },
+    {
+        "checkin_id": 513,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-08-12T19:37:58.131174"
+    },
+    {
+        "checkin_id": 514,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-09-24T03:00:05.097567"
+    },
+    {
+        "checkin_id": 515,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-08-19T16:37:21.355746"
+    },
+    {
+        "checkin_id": 516,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-08-04T09:38:30.626470"
+    },
+    {
+        "checkin_id": 517,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-09-03T23:35:53.299424"
+    },
+    {
+        "checkin_id": 518,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-09-23T11:34:22.650268"
+    },
+    {
+        "checkin_id": 519,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-08-08T13:54:51.387824"
+    },
+    {
+        "checkin_id": 520,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-09-23T10:48:13.717433"
+    },
+    {
+        "checkin_id": 521,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-09-03T12:04:22.887106"
+    },
+    {
+        "checkin_id": 522,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-09-11T05:04:52.067086"
+    },
+    {
+        "checkin_id": 523,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-08-16T21:40:12.683955"
+    },
+    {
+        "checkin_id": 524,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-10-06T16:15:16.535754"
+    },
+    {
+        "checkin_id": 525,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-09-13T18:33:25.206287"
+    },
+    {
+        "checkin_id": 526,
+        "member_id": 60,
+        "club_id": 4,
+        "timestamp": "2025-08-28T01:28:27.391189"
+    },
+    {
+        "checkin_id": 527,
+        "member_id": 61,
+        "club_id": 5,
+        "timestamp": "2025-07-30T18:20:50.485096"
+    },
+    {
+        "checkin_id": 528,
+        "member_id": 61,
+        "club_id": 5,
+        "timestamp": "2025-10-08T21:56:30.206265"
+    },
+    {
+        "checkin_id": 529,
+        "member_id": 61,
+        "club_id": 5,
+        "timestamp": "2025-09-15T09:16:34.147704"
+    },
+    {
+        "checkin_id": 530,
+        "member_id": 61,
+        "club_id": 5,
+        "timestamp": "2025-08-27T03:56:33.882934"
+    },
+    {
+        "checkin_id": 531,
+        "member_id": 61,
+        "club_id": 5,
+        "timestamp": "2025-09-07T09:00:31.413200"
+    },
+    {
+        "checkin_id": 532,
+        "member_id": 64,
+        "club_id": 3,
+        "timestamp": "2025-09-08T18:18:20.173193"
+    },
+    {
+        "checkin_id": 533,
+        "member_id": 64,
+        "club_id": 3,
+        "timestamp": "2025-07-31T05:45:56.076598"
+    },
+    {
+        "checkin_id": 534,
+        "member_id": 65,
+        "club_id": 1,
+        "timestamp": "2025-10-20T05:32:29.430249"
+    },
+    {
+        "checkin_id": 535,
+        "member_id": 65,
+        "club_id": 1,
+        "timestamp": "2025-10-13T17:18:58.717629"
+    },
+    {
+        "checkin_id": 536,
+        "member_id": 65,
+        "club_id": 1,
+        "timestamp": "2025-10-03T01:19:32.684301"
+    },
+    {
+        "checkin_id": 537,
+        "member_id": 65,
+        "club_id": 1,
+        "timestamp": "2025-09-16T22:25:57.429504"
+    },
+    {
+        "checkin_id": 538,
+        "member_id": 65,
+        "club_id": 1,
+        "timestamp": "2025-10-01T12:36:03.987576"
+    },
+    {
+        "checkin_id": 539,
+        "member_id": 65,
+        "club_id": 1,
+        "timestamp": "2025-09-13T18:46:07.830180"
+    },
+    {
+        "checkin_id": 540,
+        "member_id": 65,
+        "club_id": 1,
+        "timestamp": "2025-10-15T11:28:58.821922"
+    },
+    {
+        "checkin_id": 541,
+        "member_id": 65,
+        "club_id": 1,
+        "timestamp": "2025-10-19T13:12:15.149017"
+    },
+    {
+        "checkin_id": 542,
+        "member_id": 65,
+        "club_id": 1,
+        "timestamp": "2025-09-04T12:22:59.934002"
+    },
+    {
+        "checkin_id": 543,
+        "member_id": 65,
+        "club_id": 1,
+        "timestamp": "2025-10-18T21:19:57.158403"
+    },
+    {
+        "checkin_id": 544,
+        "member_id": 65,
+        "club_id": 1,
+        "timestamp": "2025-08-19T03:50:19.627189"
+    },
+    {
+        "checkin_id": 545,
+        "member_id": 65,
+        "club_id": 1,
+        "timestamp": "2025-08-13T17:33:56.344656"
+    },
+    {
+        "checkin_id": 546,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-08-11T09:38:28.182297"
+    },
+    {
+        "checkin_id": 547,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-08-13T08:39:02.154944"
+    },
+    {
+        "checkin_id": 548,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-10-05T21:48:35.651652"
+    },
+    {
+        "checkin_id": 549,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-08-07T15:39:45.195223"
+    },
+    {
+        "checkin_id": 550,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-09-09T16:13:57.832254"
+    },
+    {
+        "checkin_id": 551,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-08-13T06:38:30.916565"
+    },
+    {
+        "checkin_id": 552,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-08-13T15:30:01.457135"
+    },
+    {
+        "checkin_id": 553,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-08-17T03:37:19.891913"
+    },
+    {
+        "checkin_id": 554,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-09-24T20:54:11.772803"
+    },
+    {
+        "checkin_id": 555,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-09-02T10:00:01.406999"
+    },
+    {
+        "checkin_id": 556,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-08-09T15:08:47.071452"
+    },
+    {
+        "checkin_id": 557,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-10-05T23:43:52.272702"
+    },
+    {
+        "checkin_id": 558,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-07-28T07:50:44.323472"
+    },
+    {
+        "checkin_id": 559,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-08-22T18:34:33.158589"
+    },
+    {
+        "checkin_id": 560,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-08-10T05:10:50.873469"
+    },
+    {
+        "checkin_id": 561,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-09-20T15:52:32.560741"
+    },
+    {
+        "checkin_id": 562,
+        "member_id": 66,
+        "club_id": 5,
+        "timestamp": "2025-08-09T21:55:11.302106"
+    },
+    {
+        "checkin_id": 563,
+        "member_id": 67,
+        "club_id": 4,
+        "timestamp": "2025-08-23T15:57:01.829499"
+    },
+    {
+        "checkin_id": 564,
+        "member_id": 67,
+        "club_id": 4,
+        "timestamp": "2025-09-11T19:25:56.833666"
+    },
+    {
+        "checkin_id": 565,
+        "member_id": 67,
+        "club_id": 4,
+        "timestamp": "2025-08-27T19:21:18.076927"
+    },
+    {
+        "checkin_id": 566,
+        "member_id": 67,
+        "club_id": 4,
+        "timestamp": "2025-08-24T23:32:44.707398"
+    },
+    {
+        "checkin_id": 567,
+        "member_id": 67,
+        "club_id": 4,
+        "timestamp": "2025-10-10T11:18:52.368232"
+    },
+    {
+        "checkin_id": 568,
+        "member_id": 67,
+        "club_id": 4,
+        "timestamp": "2025-10-17T16:31:10.203651"
+    },
+    {
+        "checkin_id": 569,
+        "member_id": 67,
+        "club_id": 4,
+        "timestamp": "2025-07-24T07:58:37.119573"
+    },
+    {
+        "checkin_id": 570,
+        "member_id": 69,
+        "club_id": 2,
+        "timestamp": "2025-08-12T20:33:09.764367"
+    },
+    {
+        "checkin_id": 571,
+        "member_id": 69,
+        "club_id": 2,
+        "timestamp": "2025-10-07T12:03:07.475917"
+    },
+    {
+        "checkin_id": 572,
+        "member_id": 69,
+        "club_id": 2,
+        "timestamp": "2025-09-28T04:33:05.305306"
+    },
+    {
+        "checkin_id": 573,
+        "member_id": 69,
+        "club_id": 2,
+        "timestamp": "2025-10-06T12:56:35.970523"
+    },
+    {
+        "checkin_id": 574,
+        "member_id": 69,
+        "club_id": 2,
+        "timestamp": "2025-09-17T00:10:27.149697"
+    },
+    {
+        "checkin_id": 575,
+        "member_id": 69,
+        "club_id": 2,
+        "timestamp": "2025-10-06T15:11:55.119567"
+    },
+    {
+        "checkin_id": 576,
+        "member_id": 69,
+        "club_id": 2,
+        "timestamp": "2025-10-18T12:40:23.115918"
+    },
+    {
+        "checkin_id": 577,
+        "member_id": 69,
+        "club_id": 2,
+        "timestamp": "2025-08-26T07:26:02.613071"
+    },
+    {
+        "checkin_id": 578,
+        "member_id": 69,
+        "club_id": 2,
+        "timestamp": "2025-09-28T16:36:23.168857"
+    },
+    {
+        "checkin_id": 579,
+        "member_id": 69,
+        "club_id": 2,
+        "timestamp": "2025-10-04T23:14:50.714026"
+    },
+    {
+        "checkin_id": 580,
+        "member_id": 69,
+        "club_id": 2,
+        "timestamp": "2025-10-14T04:27:48.785869"
+    },
+    {
+        "checkin_id": 581,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-08-08T14:11:48.424123"
+    },
+    {
+        "checkin_id": 582,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-08-13T15:50:44.100274"
+    },
+    {
+        "checkin_id": 583,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-10-11T00:27:47.845829"
+    },
+    {
+        "checkin_id": 584,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-08-07T06:44:25.001338"
+    },
+    {
+        "checkin_id": 585,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-08-03T11:50:06.797943"
+    },
+    {
+        "checkin_id": 586,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-10-03T06:01:26.011527"
+    },
+    {
+        "checkin_id": 587,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-08-16T12:47:10.771683"
+    },
+    {
+        "checkin_id": 588,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-09-25T00:33:01.469854"
+    },
+    {
+        "checkin_id": 589,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-08-04T21:15:24.459951"
+    },
+    {
+        "checkin_id": 590,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-09-04T10:31:02.306991"
+    },
+    {
+        "checkin_id": 591,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-10-11T16:05:37.993097"
+    },
+    {
+        "checkin_id": 592,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-07-31T18:18:08.430343"
+    },
+    {
+        "checkin_id": 593,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-09-09T17:34:25.877533"
+    },
+    {
+        "checkin_id": 594,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-08-15T07:21:03.958183"
+    },
+    {
+        "checkin_id": 595,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-07-25T23:14:51.046132"
+    },
+    {
+        "checkin_id": 596,
+        "member_id": 70,
+        "club_id": 5,
+        "timestamp": "2025-08-12T04:47:46.722725"
+    },
+    {
+        "checkin_id": 597,
+        "member_id": 71,
+        "club_id": 1,
+        "timestamp": "2025-08-22T18:56:42.148578"
+    },
+    {
+        "checkin_id": 598,
+        "member_id": 71,
+        "club_id": 1,
+        "timestamp": "2025-07-29T17:30:15.688795"
+    },
+    {
+        "checkin_id": 599,
+        "member_id": 71,
+        "club_id": 1,
+        "timestamp": "2025-10-03T13:45:33.365266"
+    },
+    {
+        "checkin_id": 600,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-10-08T06:39:09.381119"
+    },
+    {
+        "checkin_id": 601,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-07-29T10:35:56.907131"
+    },
+    {
+        "checkin_id": 602,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-10-03T16:50:19.163219"
+    },
+    {
+        "checkin_id": 603,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-09-24T22:30:53.253299"
+    },
+    {
+        "checkin_id": 604,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-09-04T08:01:41.035249"
+    },
+    {
+        "checkin_id": 605,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-10-19T03:30:30.015103"
+    },
+    {
+        "checkin_id": 606,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-09-29T22:34:07.231155"
+    },
+    {
+        "checkin_id": 607,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-08-27T11:25:03.602790"
+    },
+    {
+        "checkin_id": 608,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-09-01T22:08:15.553681"
+    },
+    {
+        "checkin_id": 609,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-08-19T12:14:37.276429"
+    },
+    {
+        "checkin_id": 610,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-09-17T01:38:32.258063"
+    },
+    {
+        "checkin_id": 611,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-08-22T10:55:30.600231"
+    },
+    {
+        "checkin_id": 612,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-08-25T00:30:19.557345"
+    },
+    {
+        "checkin_id": 613,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-10-11T13:08:17.201215"
+    },
+    {
+        "checkin_id": 614,
+        "member_id": 72,
+        "club_id": 3,
+        "timestamp": "2025-08-21T17:28:49.978011"
+    },
+    {
+        "checkin_id": 615,
+        "member_id": 73,
+        "club_id": 1,
+        "timestamp": "2025-08-20T03:29:58.923751"
+    },
+    {
+        "checkin_id": 616,
+        "member_id": 73,
+        "club_id": 1,
+        "timestamp": "2025-10-10T18:22:13.132932"
+    },
+    {
+        "checkin_id": 617,
+        "member_id": 73,
+        "club_id": 1,
+        "timestamp": "2025-07-23T13:46:52.778386"
+    },
+    {
+        "checkin_id": 618,
+        "member_id": 73,
+        "club_id": 1,
+        "timestamp": "2025-08-12T03:17:22.857708"
+    },
+    {
+        "checkin_id": 619,
+        "member_id": 73,
+        "club_id": 1,
+        "timestamp": "2025-08-17T17:43:46.637526"
+    },
+    {
+        "checkin_id": 620,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-10-20T01:41:37.236637"
+    },
+    {
+        "checkin_id": 621,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-07-30T15:50:39.610261"
+    },
+    {
+        "checkin_id": 622,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-10-02T11:29:31.587286"
+    },
+    {
+        "checkin_id": 623,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-09-22T02:23:56.311432"
+    },
+    {
+        "checkin_id": 624,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-08-29T17:36:01.107814"
+    },
+    {
+        "checkin_id": 625,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-08-19T16:06:16.787688"
+    },
+    {
+        "checkin_id": 626,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-08-29T19:51:35.107481"
+    },
+    {
+        "checkin_id": 627,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-10-13T02:23:58.683845"
+    },
+    {
+        "checkin_id": 628,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-08-17T13:58:10.271617"
+    },
+    {
+        "checkin_id": 629,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-10-17T13:50:28.481966"
+    },
+    {
+        "checkin_id": 630,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-09-21T02:17:59.876790"
+    },
+    {
+        "checkin_id": 631,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-08-31T01:34:29.409819"
+    },
+    {
+        "checkin_id": 632,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-09-19T08:44:43.001673"
+    },
+    {
+        "checkin_id": 633,
+        "member_id": 74,
+        "club_id": 2,
+        "timestamp": "2025-09-11T12:26:06.023025"
+    },
+    {
+        "checkin_id": 634,
+        "member_id": 75,
+        "club_id": 2,
+        "timestamp": "2025-10-14T14:45:34.094264"
+    },
+    {
+        "checkin_id": 635,
+        "member_id": 75,
+        "club_id": 2,
+        "timestamp": "2025-07-29T17:46:09.785955"
+    },
+    {
+        "checkin_id": 636,
+        "member_id": 75,
+        "club_id": 2,
+        "timestamp": "2025-10-15T03:22:19.751109"
+    },
+    {
+        "checkin_id": 637,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-08-04T08:39:08.925692"
+    },
+    {
+        "checkin_id": 638,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-09-14T20:02:36.793217"
+    },
+    {
+        "checkin_id": 639,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-08-17T16:50:04.671792"
+    },
+    {
+        "checkin_id": 640,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-09-06T22:49:57.466800"
+    },
+    {
+        "checkin_id": 641,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-10-05T01:07:24.002789"
+    },
+    {
+        "checkin_id": 642,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-10-02T21:02:11.114818"
+    },
+    {
+        "checkin_id": 643,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-08-29T08:21:49.590603"
+    },
+    {
+        "checkin_id": 644,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-09-11T19:29:38.776650"
+    },
+    {
+        "checkin_id": 645,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-07-28T07:04:10.069882"
+    },
+    {
+        "checkin_id": 646,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-08-14T19:17:13.139892"
+    },
+    {
+        "checkin_id": 647,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-08-07T16:41:14.868181"
+    },
+    {
+        "checkin_id": 648,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-10-15T06:08:11.562497"
+    },
+    {
+        "checkin_id": 649,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-08-16T14:49:47.550262"
+    },
+    {
+        "checkin_id": 650,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-10-14T16:48:42.206074"
+    },
+    {
+        "checkin_id": 651,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-09-17T11:33:28.350730"
+    },
+    {
+        "checkin_id": 652,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-09-16T21:43:22.210672"
+    },
+    {
+        "checkin_id": 653,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-08-22T11:11:28.799135"
+    },
+    {
+        "checkin_id": 654,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-10-17T06:34:19.188455"
+    },
+    {
+        "checkin_id": 655,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-09-28T05:58:24.892474"
+    },
+    {
+        "checkin_id": 656,
+        "member_id": 77,
+        "club_id": 4,
+        "timestamp": "2025-09-30T11:27:38.374328"
+    },
+    {
+        "checkin_id": 657,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-07-27T02:03:22.355300"
+    },
+    {
+        "checkin_id": 658,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-09-06T22:25:52.829215"
+    },
+    {
+        "checkin_id": 659,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-08-12T05:48:03.970208"
+    },
+    {
+        "checkin_id": 660,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-10-06T22:18:44.784914"
+    },
+    {
+        "checkin_id": 661,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-09-14T12:49:14.139521"
+    },
+    {
+        "checkin_id": 662,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-09-04T02:28:25.690589"
+    },
+    {
+        "checkin_id": 663,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-08-11T21:18:32.742712"
+    },
+    {
+        "checkin_id": 664,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-08-14T04:01:06.577876"
+    },
+    {
+        "checkin_id": 665,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-09-10T10:21:41.729451"
+    },
+    {
+        "checkin_id": 666,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-10-07T13:32:30.144838"
+    },
+    {
+        "checkin_id": 667,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-09-07T00:49:41.210420"
+    },
+    {
+        "checkin_id": 668,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-07-26T16:25:34.246760"
+    },
+    {
+        "checkin_id": 669,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-08-22T00:28:39.615803"
+    },
+    {
+        "checkin_id": 670,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-07-25T18:37:06.958367"
+    },
+    {
+        "checkin_id": 671,
+        "member_id": 78,
+        "club_id": 1,
+        "timestamp": "2025-09-10T00:29:24.209082"
+    },
+    {
+        "checkin_id": 672,
+        "member_id": 79,
+        "club_id": 2,
+        "timestamp": "2025-08-17T13:49:06.633924"
+    },
+    {
+        "checkin_id": 673,
+        "member_id": 79,
+        "club_id": 2,
+        "timestamp": "2025-08-05T02:45:47.769181"
+    },
+    {
+        "checkin_id": 674,
+        "member_id": 79,
+        "club_id": 2,
+        "timestamp": "2025-09-04T17:28:10.390067"
+    },
+    {
+        "checkin_id": 675,
+        "member_id": 79,
+        "club_id": 2,
+        "timestamp": "2025-09-29T23:19:05.742832"
+    },
+    {
+        "checkin_id": 676,
+        "member_id": 79,
+        "club_id": 2,
+        "timestamp": "2025-10-08T17:13:45.411020"
+    },
+    {
+        "checkin_id": 677,
+        "member_id": 79,
+        "club_id": 2,
+        "timestamp": "2025-10-06T01:27:06.617906"
+    },
+    {
+        "checkin_id": 678,
+        "member_id": 79,
+        "club_id": 2,
+        "timestamp": "2025-10-04T09:12:07.953066"
+    },
+    {
+        "checkin_id": 679,
+        "member_id": 79,
+        "club_id": 2,
+        "timestamp": "2025-10-10T02:56:19.126216"
+    },
+    {
+        "checkin_id": 680,
+        "member_id": 80,
+        "club_id": 3,
+        "timestamp": "2025-09-08T05:05:18.255850"
+    },
+    {
+        "checkin_id": 681,
+        "member_id": 80,
+        "club_id": 3,
+        "timestamp": "2025-08-18T07:04:47.323736"
+    },
+    {
+        "checkin_id": 682,
+        "member_id": 80,
+        "club_id": 3,
+        "timestamp": "2025-10-09T01:34:17.451398"
+    },
+    {
+        "checkin_id": 683,
+        "member_id": 80,
+        "club_id": 3,
+        "timestamp": "2025-08-23T15:44:50.701462"
+    },
+    {
+        "checkin_id": 684,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-10-01T12:14:02.288804"
+    },
+    {
+        "checkin_id": 685,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-09-04T03:00:30.300344"
+    },
+    {
+        "checkin_id": 686,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-09-26T11:41:19.989046"
+    },
+    {
+        "checkin_id": 687,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-09-12T03:45:32.795225"
+    },
+    {
+        "checkin_id": 688,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-09-17T20:58:25.421851"
+    },
+    {
+        "checkin_id": 689,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-09-24T10:11:45.641941"
+    },
+    {
+        "checkin_id": 690,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-09-07T17:42:31.178252"
+    },
+    {
+        "checkin_id": 691,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-09-01T17:44:51.216602"
+    },
+    {
+        "checkin_id": 692,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-09-06T08:38:01.145062"
+    },
+    {
+        "checkin_id": 693,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-08-10T06:18:56.461655"
+    },
+    {
+        "checkin_id": 694,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-09-23T10:37:43.096778"
+    },
+    {
+        "checkin_id": 695,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-08-11T07:43:01.197283"
+    },
+    {
+        "checkin_id": 696,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-08-23T16:06:01.863981"
+    },
+    {
+        "checkin_id": 697,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-08-06T08:50:33.371948"
+    },
+    {
+        "checkin_id": 698,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-09-14T02:38:23.334132"
+    },
+    {
+        "checkin_id": 699,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-08-21T17:57:20.399506"
+    },
+    {
+        "checkin_id": 700,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-10-20T17:31:21.351701"
+    },
+    {
+        "checkin_id": 701,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-09-16T03:52:25.750401"
+    },
+    {
+        "checkin_id": 702,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-08-28T22:36:36.300962"
+    },
+    {
+        "checkin_id": 703,
+        "member_id": 81,
+        "club_id": 5,
+        "timestamp": "2025-10-17T08:07:19.213425"
+    },
+    {
+        "checkin_id": 704,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-09-04T20:40:29.021260"
+    },
+    {
+        "checkin_id": 705,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-07-29T10:20:07.794868"
+    },
+    {
+        "checkin_id": 706,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-08-01T15:39:17.789252"
+    },
+    {
+        "checkin_id": 707,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-08-12T09:51:08.199147"
+    },
+    {
+        "checkin_id": 708,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-09-24T18:51:50.891910"
+    },
+    {
+        "checkin_id": 709,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-08-14T20:02:11.022305"
+    },
+    {
+        "checkin_id": 710,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-10-14T02:34:07.056299"
+    },
+    {
+        "checkin_id": 711,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-08-02T15:39:59.455262"
+    },
+    {
+        "checkin_id": 712,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-09-14T11:03:49.017763"
+    },
+    {
+        "checkin_id": 713,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-09-10T12:06:07.299581"
+    },
+    {
+        "checkin_id": 714,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-07-24T01:32:31.553186"
+    },
+    {
+        "checkin_id": 715,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-07-29T02:05:38.454616"
+    },
+    {
+        "checkin_id": 716,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-10-03T05:39:07.537204"
+    },
+    {
+        "checkin_id": 717,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-09-28T12:23:50.266279"
+    },
+    {
+        "checkin_id": 718,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-10-21T00:17:03.386973"
+    },
+    {
+        "checkin_id": 719,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-08-11T04:14:05.637392"
+    },
+    {
+        "checkin_id": 720,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-08-24T23:49:23.908248"
+    },
+    {
+        "checkin_id": 721,
+        "member_id": 83,
+        "club_id": 4,
+        "timestamp": "2025-09-06T01:25:13.601897"
+    },
+    {
+        "checkin_id": 722,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-09-22T05:26:06.073086"
+    },
+    {
+        "checkin_id": 723,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-09-25T05:40:25.334859"
+    },
+    {
+        "checkin_id": 724,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-09-14T05:58:17.344065"
+    },
+    {
+        "checkin_id": 725,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-07-28T19:42:54.326578"
+    },
+    {
+        "checkin_id": 726,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-10-02T21:52:16.230156"
+    },
+    {
+        "checkin_id": 727,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-08-01T13:39:12.701837"
+    },
+    {
+        "checkin_id": 728,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-09-10T00:39:36.286238"
+    },
+    {
+        "checkin_id": 729,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-09-25T03:50:53.509584"
+    },
+    {
+        "checkin_id": 730,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-09-25T14:05:01.870767"
+    },
+    {
+        "checkin_id": 731,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-08-27T09:40:48.163758"
+    },
+    {
+        "checkin_id": 732,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-09-19T03:15:20.928962"
+    },
+    {
+        "checkin_id": 733,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-09-15T16:23:38.220745"
+    },
+    {
+        "checkin_id": 734,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-09-15T03:22:17.076665"
+    },
+    {
+        "checkin_id": 735,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-07-25T10:58:46.152747"
+    },
+    {
+        "checkin_id": 736,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-07-30T12:01:14.826329"
+    },
+    {
+        "checkin_id": 737,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-09-04T02:18:18.640050"
+    },
+    {
+        "checkin_id": 738,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-10-11T20:56:21.154577"
+    },
+    {
+        "checkin_id": 739,
+        "member_id": 84,
+        "club_id": 4,
+        "timestamp": "2025-07-28T18:07:12.307590"
+    },
+    {
+        "checkin_id": 740,
+        "member_id": 85,
+        "club_id": 2,
+        "timestamp": "2025-10-13T01:51:33.143361"
+    },
+    {
+        "checkin_id": 741,
+        "member_id": 85,
+        "club_id": 2,
+        "timestamp": "2025-09-29T04:55:21.605523"
+    },
+    {
+        "checkin_id": 742,
+        "member_id": 85,
+        "club_id": 2,
+        "timestamp": "2025-08-31T17:49:18.827085"
+    },
+    {
+        "checkin_id": 743,
+        "member_id": 85,
+        "club_id": 2,
+        "timestamp": "2025-09-16T07:51:28.559851"
+    },
+    {
+        "checkin_id": 744,
+        "member_id": 85,
+        "club_id": 2,
+        "timestamp": "2025-09-28T12:22:20.184744"
+    },
+    {
+        "checkin_id": 745,
+        "member_id": 85,
+        "club_id": 2,
+        "timestamp": "2025-10-10T21:12:24.038361"
+    },
+    {
+        "checkin_id": 746,
+        "member_id": 85,
+        "club_id": 2,
+        "timestamp": "2025-08-11T15:26:33.451607"
+    },
+    {
+        "checkin_id": 747,
+        "member_id": 85,
+        "club_id": 2,
+        "timestamp": "2025-08-19T02:55:37.054406"
+    },
+    {
+        "checkin_id": 748,
+        "member_id": 86,
+        "club_id": 2,
+        "timestamp": "2025-08-20T16:51:59.028092"
+    },
+    {
+        "checkin_id": 749,
+        "member_id": 86,
+        "club_id": 2,
+        "timestamp": "2025-10-14T00:51:30.720871"
+    },
+    {
+        "checkin_id": 750,
+        "member_id": 86,
+        "club_id": 2,
+        "timestamp": "2025-08-29T17:59:09.311502"
+    },
+    {
+        "checkin_id": 751,
+        "member_id": 86,
+        "club_id": 2,
+        "timestamp": "2025-10-18T16:03:10.369058"
+    },
+    {
+        "checkin_id": 752,
+        "member_id": 87,
+        "club_id": 3,
+        "timestamp": "2025-08-27T17:50:14.656957"
+    },
+    {
+        "checkin_id": 753,
+        "member_id": 87,
+        "club_id": 3,
+        "timestamp": "2025-09-20T18:19:50.336019"
+    },
+    {
+        "checkin_id": 754,
+        "member_id": 87,
+        "club_id": 3,
+        "timestamp": "2025-08-19T02:20:30.013317"
+    },
+    {
+        "checkin_id": 755,
+        "member_id": 87,
+        "club_id": 3,
+        "timestamp": "2025-09-29T14:41:02.597376"
+    },
+    {
+        "checkin_id": 756,
+        "member_id": 87,
+        "club_id": 3,
+        "timestamp": "2025-08-22T14:24:29.103214"
+    },
+    {
+        "checkin_id": 757,
+        "member_id": 87,
+        "club_id": 3,
+        "timestamp": "2025-09-11T13:10:59.925124"
+    },
+    {
+        "checkin_id": 758,
+        "member_id": 87,
+        "club_id": 3,
+        "timestamp": "2025-08-02T20:10:36.002708"
+    },
+    {
+        "checkin_id": 759,
+        "member_id": 87,
+        "club_id": 3,
+        "timestamp": "2025-09-10T13:21:15.076416"
+    },
+    {
+        "checkin_id": 760,
+        "member_id": 87,
+        "club_id": 3,
+        "timestamp": "2025-09-27T10:02:01.192653"
+    },
+    {
+        "checkin_id": 761,
+        "member_id": 87,
+        "club_id": 3,
+        "timestamp": "2025-10-02T02:01:28.877145"
+    },
+    {
+        "checkin_id": 762,
+        "member_id": 87,
+        "club_id": 3,
+        "timestamp": "2025-08-24T02:55:57.470493"
+    },
+    {
+        "checkin_id": 763,
+        "member_id": 87,
+        "club_id": 3,
+        "timestamp": "2025-08-21T06:08:31.583355"
+    },
+    {
+        "checkin_id": 764,
+        "member_id": 89,
+        "club_id": 1,
+        "timestamp": "2025-08-14T19:37:20.654673"
+    },
+    {
+        "checkin_id": 765,
+        "member_id": 89,
+        "club_id": 1,
+        "timestamp": "2025-08-25T10:22:06.533695"
+    },
+    {
+        "checkin_id": 766,
+        "member_id": 89,
+        "club_id": 1,
+        "timestamp": "2025-08-24T15:04:40.244063"
+    },
+    {
+        "checkin_id": 767,
+        "member_id": 89,
+        "club_id": 1,
+        "timestamp": "2025-07-27T21:36:05.827863"
+    },
+    {
+        "checkin_id": 768,
+        "member_id": 89,
+        "club_id": 1,
+        "timestamp": "2025-10-01T11:29:51.622187"
+    },
+    {
+        "checkin_id": 769,
+        "member_id": 90,
+        "club_id": 5,
+        "timestamp": "2025-10-06T00:51:37.816722"
+    },
+    {
+        "checkin_id": 770,
+        "member_id": 90,
+        "club_id": 5,
+        "timestamp": "2025-10-20T19:31:12.034831"
+    },
+    {
+        "checkin_id": 771,
+        "member_id": 90,
+        "club_id": 5,
+        "timestamp": "2025-08-03T10:05:30.719162"
+    },
+    {
+        "checkin_id": 772,
+        "member_id": 90,
+        "club_id": 5,
+        "timestamp": "2025-08-13T12:30:55.446095"
+    },
+    {
+        "checkin_id": 773,
+        "member_id": 90,
+        "club_id": 5,
+        "timestamp": "2025-08-25T19:35:58.891565"
+    },
+    {
+        "checkin_id": 774,
+        "member_id": 92,
+        "club_id": 2,
+        "timestamp": "2025-09-30T00:59:38.412853"
+    },
+    {
+        "checkin_id": 775,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-07-26T08:54:57.164346"
+    },
+    {
+        "checkin_id": 776,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-09-22T19:16:34.907607"
+    },
+    {
+        "checkin_id": 777,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-07-27T13:57:47.970153"
+    },
+    {
+        "checkin_id": 778,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-08-20T06:08:27.918548"
+    },
+    {
+        "checkin_id": 779,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-09-30T07:49:32.641415"
+    },
+    {
+        "checkin_id": 780,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-09-29T03:45:40.169458"
+    },
+    {
+        "checkin_id": 781,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-09-08T18:19:05.439762"
+    },
+    {
+        "checkin_id": 782,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-08-30T21:33:47.920616"
+    },
+    {
+        "checkin_id": 783,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-07-28T19:08:59.919890"
+    },
+    {
+        "checkin_id": 784,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-09-23T05:06:39.600079"
+    },
+    {
+        "checkin_id": 785,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-08-16T21:19:25.393998"
+    },
+    {
+        "checkin_id": 786,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-09-27T03:11:13.594490"
+    },
+    {
+        "checkin_id": 787,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-10-13T13:32:52.350862"
+    },
+    {
+        "checkin_id": 788,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-07-26T15:11:17.100966"
+    },
+    {
+        "checkin_id": 789,
+        "member_id": 93,
+        "club_id": 5,
+        "timestamp": "2025-10-07T11:58:40.810153"
+    },
+    {
+        "checkin_id": 790,
+        "member_id": 94,
+        "club_id": 4,
+        "timestamp": "2025-10-16T09:03:24.559149"
+    },
+    {
+        "checkin_id": 791,
+        "member_id": 94,
+        "club_id": 4,
+        "timestamp": "2025-08-12T17:53:26.639746"
+    },
+    {
+        "checkin_id": 792,
+        "member_id": 94,
+        "club_id": 4,
+        "timestamp": "2025-07-23T16:41:07.451228"
+    },
+    {
+        "checkin_id": 793,
+        "member_id": 95,
+        "club_id": 4,
+        "timestamp": "2025-09-25T08:42:56.353477"
+    },
+    {
+        "checkin_id": 794,
+        "member_id": 95,
+        "club_id": 4,
+        "timestamp": "2025-09-20T06:16:40.447401"
+    },
+    {
+        "checkin_id": 795,
+        "member_id": 95,
+        "club_id": 4,
+        "timestamp": "2025-10-07T09:12:11.962277"
+    },
+    {
+        "checkin_id": 796,
+        "member_id": 95,
+        "club_id": 4,
+        "timestamp": "2025-09-30T15:01:42.348258"
+    },
+    {
+        "checkin_id": 797,
+        "member_id": 95,
+        "club_id": 4,
+        "timestamp": "2025-08-19T23:11:31.684481"
+    },
+    {
+        "checkin_id": 798,
+        "member_id": 95,
+        "club_id": 4,
+        "timestamp": "2025-07-30T20:53:11.107940"
+    },
+    {
+        "checkin_id": 799,
+        "member_id": 95,
+        "club_id": 4,
+        "timestamp": "2025-09-16T19:07:27.601542"
+    },
+    {
+        "checkin_id": 800,
+        "member_id": 95,
+        "club_id": 4,
+        "timestamp": "2025-09-18T15:23:45.178216"
+    },
+    {
+        "checkin_id": 801,
+        "member_id": 95,
+        "club_id": 4,
+        "timestamp": "2025-10-03T12:00:09.024533"
+    },
+    {
+        "checkin_id": 802,
+        "member_id": 95,
+        "club_id": 4,
+        "timestamp": "2025-08-13T21:26:18.190319"
+    },
+    {
+        "checkin_id": 803,
+        "member_id": 97,
+        "club_id": 1,
+        "timestamp": "2025-09-27T20:29:46.597612"
+    },
+    {
+        "checkin_id": 804,
+        "member_id": 97,
+        "club_id": 1,
+        "timestamp": "2025-07-27T20:28:49.833279"
+    },
+    {
+        "checkin_id": 805,
+        "member_id": 97,
+        "club_id": 1,
+        "timestamp": "2025-07-27T18:28:58.066856"
+    },
+    {
+        "checkin_id": 806,
+        "member_id": 97,
+        "club_id": 1,
+        "timestamp": "2025-08-28T14:52:17.388214"
+    },
+    {
+        "checkin_id": 807,
+        "member_id": 97,
+        "club_id": 1,
+        "timestamp": "2025-09-06T16:07:07.809298"
+    },
+    {
+        "checkin_id": 808,
+        "member_id": 97,
+        "club_id": 1,
+        "timestamp": "2025-10-07T18:04:31.584980"
+    },
+    {
+        "checkin_id": 809,
+        "member_id": 97,
+        "club_id": 1,
+        "timestamp": "2025-09-10T12:14:03.000803"
+    },
+    {
+        "checkin_id": 810,
+        "member_id": 98,
+        "club_id": 2,
+        "timestamp": "2025-09-14T00:21:24.620637"
+    },
+    {
+        "checkin_id": 811,
+        "member_id": 98,
+        "club_id": 2,
+        "timestamp": "2025-09-20T05:03:05.632011"
+    },
+    {
+        "checkin_id": 812,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-08-07T07:27:43.016334"
+    },
+    {
+        "checkin_id": 813,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-09-05T14:41:43.874197"
+    },
+    {
+        "checkin_id": 814,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-09-27T20:20:47.510157"
+    },
+    {
+        "checkin_id": 815,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-10-15T13:40:13.916922"
+    },
+    {
+        "checkin_id": 816,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-07-29T13:40:25.225613"
+    },
+    {
+        "checkin_id": 817,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-10-12T08:17:20.777638"
+    },
+    {
+        "checkin_id": 818,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-08-15T15:33:03.481651"
+    },
+    {
+        "checkin_id": 819,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-08-22T20:56:27.869519"
+    },
+    {
+        "checkin_id": 820,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-10-11T19:43:31.430148"
+    },
+    {
+        "checkin_id": 821,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-07-29T18:44:04.771631"
+    },
+    {
+        "checkin_id": 822,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-08-10T08:32:40.035561"
+    },
+    {
+        "checkin_id": 823,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-09-13T00:44:02.301745"
+    },
+    {
+        "checkin_id": 824,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-09-30T13:06:33.286550"
+    },
+    {
+        "checkin_id": 825,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-10-12T14:50:24.946575"
+    },
+    {
+        "checkin_id": 826,
+        "member_id": 99,
+        "club_id": 3,
+        "timestamp": "2025-09-05T15:56:38.544667"
+    },
+    {
+        "checkin_id": 827,
+        "member_id": 100,
+        "club_id": 5,
+        "timestamp": "2025-08-08T20:45:26.426735"
+    }
+]

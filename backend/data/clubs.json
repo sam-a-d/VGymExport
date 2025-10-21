@@ -1,0 +1,27 @@
+[
+    {
+        "club_id": 1,
+        "club_name": "East Rebeccaton Fitness Center",
+        "city": "Anthonymouth"
+    },
+    {
+        "club_id": 2,
+        "club_name": "Jenniferstad Fitness Center",
+        "city": "Jessemouth"
+    },
+    {
+        "club_id": 3,
+        "club_name": "Hortonborough Fitness Center",
+        "city": "Jeffreyfurt"
+    },
+    {
+        "club_id": 4,
+        "club_name": "Madisonfurt Fitness Center",
+        "city": "Smithburgh"
+    },
+    {
+        "club_id": 5,
+        "club_name": "Lake Brandonmouth Fitness Center",
+        "city": "North Phillip"
+    }
+]

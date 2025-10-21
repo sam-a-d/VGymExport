@@ -1,0 +1,1602 @@
+[
+    {
+        "exercise_id": "VPPtusI",
+        "club_id": 5,
+        "name": "inverted row bent knees",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "8d8qJQI",
+        "club_id": 2,
+        "name": "barbell reverse grip incline bench row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "JGKowMS",
+        "club_id": 2,
+        "name": "smith narrow row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "dmgMp3n",
+        "club_id": 5,
+        "name": "barbell incline row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "ZqNOWQ6",
+        "club_id": 1,
+        "name": "lever reverse grip vertical row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "w2oRpuH",
+        "club_id": 2,
+        "name": "lever alternating narrow grip seated row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "zYmNaoY",
+        "club_id": 5,
+        "name": "elevator",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "C0MA9bC",
+        "club_id": 5,
+        "name": "dumbbell one arm bent-over row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "UFGF6gk",
+        "club_id": 2,
+        "name": "cable rope crossover seated row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "c8oybX6",
+        "club_id": 4,
+        "name": "cable rope elevated seated row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "b9kqlBy",
+        "club_id": 2,
+        "name": "kettlebell alternating renegade row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "WrYPP2g",
+        "club_id": 4,
+        "name": "cable one arm straight back high row (kneeling)",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "km0sQC0",
+        "club_id": 1,
+        "name": "band one arm standing low row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "Ca76jUE",
+        "club_id": 5,
+        "name": "kettlebell alternating row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "ZX9UZmj",
+        "club_id": 2,
+        "name": "smith bent over row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "xbkPfaw",
+        "club_id": 4,
+        "name": "bodyweight standing one arm row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "bKWbrTA",
+        "club_id": 3,
+        "name": "one arm towel row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "XUUD0Fs",
+        "club_id": 5,
+        "name": "dumbbell lying rear delt row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "Fhdtwf3",
+        "club_id": 2,
+        "name": "lever one arm bent over row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "PNtsX17",
+        "club_id": 1,
+        "name": "cable reverse-grip straight back seated high row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "OmQ8w0p",
+        "club_id": 5,
+        "name": "cable palm rotational row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "7vG5o25",
+        "club_id": 2,
+        "name": "dumbbell incline row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "hvV79Si",
+        "club_id": 4,
+        "name": "cable low seated row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "wf24o8S",
+        "club_id": 2,
+        "name": "kettlebell two arm row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "BReCuOn",
+        "club_id": 3,
+        "name": "bodyweight squatting row (with towel)",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "oROuvrX",
+        "club_id": 5,
+        "name": "lever unilateral row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "bZGHsAZ",
+        "club_id": 5,
+        "name": "inverted row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "uTv34oq",
+        "club_id": 5,
+        "name": "bodyweight standing row (with towel)",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "X6ytgYZ",
+        "club_id": 3,
+        "name": "dumbbell side plank with rear fly",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "G70mEAJ",
+        "club_id": 3,
+        "name": "chin-ups (narrow parallel grip)",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "FVM1AUZ",
+        "club_id": 2,
+        "name": "lever t-bar reverse grip row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "JF8AkMX",
+        "club_id": 4,
+        "name": "standing archer",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "BJ0Hz5L",
+        "club_id": 2,
+        "name": "dumbbell bent over row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "SzX3uzM",
+        "club_id": 2,
+        "name": "barbell reverse grip bent over row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "9pQSkH8",
+        "club_id": 1,
+        "name": "dumbbell reverse grip incline bench two arm row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "R5swFnc",
+        "club_id": 5,
+        "name": "cambered bar lying row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "wd4ds3s",
+        "club_id": 4,
+        "name": "bodyweight standing row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "eZyBC3j",
+        "club_id": 4,
+        "name": "barbell bent over row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "JOZhu2h",
+        "club_id": 3,
+        "name": "cable standing twist row (v-bar)",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "3xK09Sk",
+        "club_id": 4,
+        "name": "bodyweight squatting row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "aaxA3cm",
+        "club_id": 2,
+        "name": "smith reverse grip bent over row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "Q4DSJPC",
+        "club_id": 3,
+        "name": "smith one arm row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "uX3sUBz",
+        "club_id": 4,
+        "name": "inverted row v. 2",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "aaXr7ld",
+        "club_id": 2,
+        "name": "lever t bar row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "wt6rwjk",
+        "club_id": 3,
+        "name": "dumbbell palm rotational bent over row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "BgljGjd",
+        "club_id": 3,
+        "name": "lever reverse t-bar row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "nZZZy9m",
+        "club_id": 1,
+        "name": "lever high row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "v2DfH14",
+        "club_id": 5,
+        "name": "bodyweight standing close-grip one arm row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "veXwo0D",
+        "club_id": 2,
+        "name": "cable floor seated wide-grip row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "fUBheHs",
+        "club_id": 2,
+        "name": "cable seated row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "4f8RXP8",
+        "club_id": 4,
+        "name": "cable standing row (v-bar)",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "vpp9Ku2",
+        "club_id": 5,
+        "name": "cable seated one arm alternate row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "tig3PXb",
+        "club_id": 1,
+        "name": "bodyweight standing close-grip row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "GaSzzuh",
+        "club_id": 3,
+        "name": "back lever",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "PQStVXH",
+        "club_id": 4,
+        "name": "cable upper row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "qcY50ZD",
+        "club_id": 1,
+        "name": "cable seated wide-grip row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "GSDioYu",
+        "club_id": 3,
+        "name": "upper back stretch",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "MgKwAAo",
+        "club_id": 2,
+        "name": "cable rope extension incline bench row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "O4oIqQD",
+        "club_id": 4,
+        "name": "bodyweight standing one arm row (with towel)",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "ZIViNh1",
+        "club_id": 1,
+        "name": "dumbbell reverse grip incline bench one arm row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "hbY9wqG",
+        "club_id": 3,
+        "name": "front lever reps",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "yaAxcQr",
+        "club_id": 4,
+        "name": "rope climb",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "4OaumBr",
+        "club_id": 3,
+        "name": "suspended row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "r0z6xzQ",
+        "club_id": 3,
+        "name": "barbell pendlay row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "Jsgsc27",
+        "club_id": 5,
+        "name": "barbell one arm bent over row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "OIFMAp1",
+        "club_id": 3,
+        "name": "lever one arm lateral high row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "MSfvriJ",
+        "club_id": 2,
+        "name": "skin the cat",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "Mxa7Cr8",
+        "club_id": 3,
+        "name": "inverted row on bench",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "kesXOpB",
+        "club_id": 3,
+        "name": "cable decline seated wide-grip row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "oHg8eop",
+        "club_id": 3,
+        "name": "medicine ball overhead slam",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "g9AsZ8P",
+        "club_id": 2,
+        "name": "kettlebell one arm row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "ZSJNetl",
+        "club_id": 1,
+        "name": "cable high row (kneeling)",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "PbzNu7c",
+        "club_id": 1,
+        "name": "dumbbell incline y-raise",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "LuBEORI",
+        "club_id": 2,
+        "name": "lever bent-over row with v-bar",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "EIsE3u8",
+        "club_id": 1,
+        "name": "cable one arm bent over row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "jdiExfW",
+        "club_id": 2,
+        "name": "inverted row with straps",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "wbUYILZ",
+        "club_id": 3,
+        "name": "elbow lift - reverse push-up",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "7I6LNUG",
+        "club_id": 3,
+        "name": "lever seated row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "yaMIo4D",
+        "club_id": 3,
+        "name": "cable incline bench row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "X3cqyXz",
+        "club_id": 5,
+        "name": "lever bent over row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "IGjKj1v",
+        "club_id": 4,
+        "name": "lever narrow grip seated row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "Nu7jqFE",
+        "club_id": 2,
+        "name": "resistance band seated straight back row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "bLyQokI",
+        "club_id": 1,
+        "name": "london bridge",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "G8dXpNG",
+        "club_id": 2,
+        "name": "ez bar reverse grip bent over row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "DKBwJrL",
+        "club_id": 5,
+        "name": "band one arm twisting seated row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "SJqRxOt",
+        "club_id": 5,
+        "name": "cable rope seated row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "Tq6gbK6",
+        "club_id": 4,
+        "name": "cable straight back seated row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "Nh3mvOO",
+        "club_id": 4,
+        "name": "dumbbell reverse grip row (female)",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "WM6TvvW",
+        "club_id": 5,
+        "name": "cable low seated row controlled",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "N6dZN2I",
+        "club_id": 1,
+        "name": "side cable high row (kneeling)",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "u3UuCZu",
+        "club_id": 5,
+        "name": "intense kettlebell two arm row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "KWyEjtI",
+        "club_id": 2,
+        "name": "precision style lever bent-over row with v-bar",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "pgIdT6i",
+        "club_id": 4,
+        "name": "band one arm standing low row - lateral variation",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "dAJscVq",
+        "club_id": 1,
+        "name": "cable incline bench row - elite variation",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "9fCHfSc",
+        "club_id": 5,
+        "name": "pointed cable palm rotational row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "1u36hhy",
+        "club_id": 5,
+        "name": "stability lever narrow grip seated row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "w44vFvP",
+        "club_id": 2,
+        "name": "smith one arm row linear",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "A3P4O0R",
+        "club_id": 2,
+        "name": "cable seated row with reverse",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "5lE7XRz",
+        "club_id": 4,
+        "name": "smith bent over row with declined",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "KQfySvS",
+        "club_id": 2,
+        "name": "dumbbell reverse grip row (female) hold",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "iCPqbki",
+        "club_id": 4,
+        "name": "lever narrow grip seated row - strength variation",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "1YUWDNZ",
+        "club_id": 5,
+        "name": "extended style inverted row",
+        "target_muscles": [
+            "upper back"
+        ]
+    },
+    {
+        "exercise_id": "LMGXZn8",
+        "club_id": 1,
+        "name": "barbell decline close grip to skull press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "x6KpKpq",
+        "club_id": 5,
+        "name": "close-grip push-up",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "obe5LMq",
+        "club_id": 5,
+        "name": "band side triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "qRZ5S1N",
+        "club_id": 1,
+        "name": "cable one arm tricep pushdown",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "XooAdhl",
+        "club_id": 1,
+        "name": "handstand",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "iaapw0g",
+        "club_id": 2,
+        "name": "ez barbell seated triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "WcHl7ru",
+        "club_id": 2,
+        "name": "smith close-grip bench press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "uxJcFUU",
+        "club_id": 1,
+        "name": "cable lying triceps extension v. 2",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "U3ffHlY",
+        "club_id": 1,
+        "name": "cable rope lying on floor tricep extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "Gchi5Tr",
+        "club_id": 5,
+        "name": "cable alternate triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "NN8nSNT",
+        "club_id": 4,
+        "name": "cable rope high pulley overhead tricep extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "jDnrkar",
+        "club_id": 1,
+        "name": "dumbbell incline one arm hammer press on exercise ball",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "s0HKO2I",
+        "club_id": 3,
+        "name": "bodyweight kneeling triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "gAwDzB3",
+        "club_id": 2,
+        "name": "cable triceps pushdown (v-bar)",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "HEJ6DIX",
+        "club_id": 2,
+        "name": "cable kickback",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "cAvTaSg",
+        "club_id": 4,
+        "name": "dumbbell kickbacks on exercise ball",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "zZlORz6",
+        "club_id": 5,
+        "name": "dumbbell lying one arm supinated triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "J60bN17",
+        "club_id": 1,
+        "name": "assisted triceps dip (kneeling)",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "z6TAHoT",
+        "club_id": 2,
+        "name": "dumbbell twisting bench press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "Wgbn9qo",
+        "club_id": 3,
+        "name": "triceps dip (between benches)",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "RxayqAZ",
+        "club_id": 1,
+        "name": "dumbbell close-grip press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "LkoAWAE",
+        "club_id": 4,
+        "name": "elbow dips",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "da4cXST",
+        "club_id": 5,
+        "name": "ez-bar close-grip bench press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "bndCa3Q",
+        "club_id": 1,
+        "name": "barbell pin presses",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "2IxROQ1",
+        "club_id": 2,
+        "name": "cable overhead triceps extension (rope attachment)",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "wOLmCXc",
+        "club_id": 4,
+        "name": "dumbbell tricep kickback with stork stance",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "wkgnGfb",
+        "club_id": 3,
+        "name": "dumbbell incline hammer press on exercise ball",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "uOV3Itw",
+        "club_id": 5,
+        "name": "triceps stretch",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "L2V5Nan",
+        "club_id": 3,
+        "name": "dumbbell lying extension (across face)",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "vtusOWT",
+        "club_id": 3,
+        "name": "barbell one arm floor press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "bZq4bwK",
+        "club_id": 5,
+        "name": "weighted tricep dips",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "VjYliFZ",
+        "club_id": 5,
+        "name": "cable reverse-grip pushdown",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "1YB40kg",
+        "club_id": 2,
+        "name": "incline close-grip push-up",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "JhYSVwT",
+        "club_id": 5,
+        "name": "dumbbell seated bench extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "i11JWU7",
+        "club_id": 4,
+        "name": "cable standing reverse grip one arm overhead tricep extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "4cWjYEN",
+        "club_id": 1,
+        "name": "narrow push-up on exercise ball",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "zd4P4B2",
+        "club_id": 2,
+        "name": "stalder press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "Z5YStHW",
+        "club_id": 3,
+        "name": "overhead triceps stretch",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "v3vLFW0",
+        "club_id": 1,
+        "name": "close-grip push-up (on knees)",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "3ZflifB",
+        "club_id": 5,
+        "name": "cable pushdown",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "4Jt8QsQ",
+        "club_id": 3,
+        "name": "push-up on lower arms",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "U7D9Fx3",
+        "club_id": 4,
+        "name": "dumbbell incline two arm extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "mpKZGWz",
+        "club_id": 4,
+        "name": "dumbbell lying triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "CJwa0vD",
+        "club_id": 2,
+        "name": "dumbbell standing bent over one arm triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "iZop9xO",
+        "club_id": 1,
+        "name": "barbell lying triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "D5yqP2p",
+        "club_id": 3,
+        "name": "lever overhand triceps dip",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "EcaV7aL",
+        "club_id": 5,
+        "name": "barbell lying close-grip press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "W6PxUkg",
+        "club_id": 5,
+        "name": "dumbbell kickback",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "wpbD28t",
+        "club_id": 1,
+        "name": "side push-up",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "OTgkHwR",
+        "club_id": 2,
+        "name": "dumbbell decline triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "1xHyxys",
+        "club_id": 2,
+        "name": "cable high pulley overhead tricep extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "OVIKwsd",
+        "club_id": 3,
+        "name": "dumbbell incline triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "Hx1WC8I",
+        "club_id": 5,
+        "name": "cable incline triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "4ievMJ9",
+        "club_id": 1,
+        "name": "dumbbell seated bent over triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "yg8Totb",
+        "club_id": 5,
+        "name": "barbell lying back of the head tricep extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "eOCOwIR",
+        "club_id": 4,
+        "name": "dumbbell lying elbow press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "gtO1ErP",
+        "club_id": 1,
+        "name": "weighted three bench dips",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "pP8wP2P",
+        "club_id": 1,
+        "name": "dumbbell neutral grip bench press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "HJ63mSO",
+        "club_id": 1,
+        "name": "barbell lying close-grip triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "CQHoDm0",
+        "club_id": 2,
+        "name": "ez barbell decline triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "VQ3sNCn",
+        "club_id": 3,
+        "name": "dumbbell seated one arm kickback",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "6CKUx7o",
+        "club_id": 2,
+        "name": "ez bar lying close grip triceps extension behind head",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "ufaxB52",
+        "club_id": 2,
+        "name": "band close-grip push-up",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "bpJL2Qs",
+        "club_id": 5,
+        "name": "dumbbell pronate-grip triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "K1vlode",
+        "club_id": 1,
+        "name": "weighted triceps dip on high parallel bars",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "DQ0cqkT",
+        "club_id": 4,
+        "name": "three bench dip",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "ezTvXcr",
+        "club_id": 3,
+        "name": "ring dips",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "s5PdDyY",
+        "club_id": 2,
+        "name": "dumbbell tate press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "RrLske5",
+        "club_id": 4,
+        "name": "bench dip (knees bent)",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "dZl9Q27",
+        "club_id": 1,
+        "name": "barbell standing overhead triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "ZujAdR9",
+        "club_id": 1,
+        "name": "cable rope incline tricep extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "o8aOcrz",
+        "club_id": 1,
+        "name": "smith machine incline tricep extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "wu5LXwz",
+        "club_id": 2,
+        "name": "olympic barbell triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "VYmYxK5",
+        "club_id": 2,
+        "name": "dumbbell one arm hammer press on exercise ball",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "kont8Ut",
+        "club_id": 5,
+        "name": "dumbbell seated triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "PdmaD0N",
+        "club_id": 4,
+        "name": "dumbbell standing triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "NfP83rA",
+        "club_id": 4,
+        "name": "dumbbell lying alternate extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "VuoerH0",
+        "club_id": 5,
+        "name": "triceps dip (bench leg)",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "Al3tP0D",
+        "club_id": 3,
+        "name": "medicine ball supine chest throw",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "OxJk1fg",
+        "club_id": 4,
+        "name": "cable triceps pushdown (v-bar) (with arm blaster)",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "J6Dx1Mu",
+        "club_id": 4,
+        "name": "barbell close-grip bench press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "7HcfMBP",
+        "club_id": 5,
+        "name": "assisted standing triceps extension (with towel)",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "kprile3",
+        "club_id": 5,
+        "name": "exercise ball dip",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "4CBIBOM",
+        "club_id": 3,
+        "name": "barbell seated close grip behind neck triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "7aVz15j",
+        "club_id": 5,
+        "name": "triceps dips floor",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "8K7m2SS",
+        "club_id": 5,
+        "name": "medicine ball close grip push up",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "KyLtiLT",
+        "club_id": 1,
+        "name": "ez barbell incline triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "sYCcnon",
+        "club_id": 5,
+        "name": "cable standing one arm triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "hnOYgH3",
+        "club_id": 4,
+        "name": "ez barbell jm bench press",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "EMpUwRI",
+        "club_id": 1,
+        "name": "barbell lying extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "dU605di",
+        "club_id": 2,
+        "name": "cable pushdown (with rope attachment)",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "vvNjDJS",
+        "club_id": 5,
+        "name": "cable two arm tricep kickback",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "U6G2gk9",
+        "club_id": 5,
+        "name": "body-up",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "Db7eEgw",
+        "club_id": 4,
+        "name": "cable concentration extension (on knee)",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "yRLPCLu",
+        "club_id": 5,
+        "name": "barbell reverse grip skullcrusher",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "7ePTw4B",
+        "club_id": 4,
+        "name": "exercise ball seated triceps stretch",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "XalXcvM",
+        "club_id": 5,
+        "name": "dumbbell forward lunge triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    },
+    {
+        "exercise_id": "3T12T87",
+        "club_id": 5,
+        "name": "dumbbell standing bent over two arm triceps extension",
+        "target_muscles": [
+            "triceps"
+        ]
+    }
+]
