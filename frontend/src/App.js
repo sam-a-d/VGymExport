@@ -38,7 +38,7 @@ function App() {
   
   const handleReportTypeChange = (newType) => {
     setReportType(newType);
-    setData(null); // <-- This is the fix
+    setData(null);
     setError(null); // Also clear any old errors
   };
   // --- Function to Fetch Report Data ---
@@ -205,8 +205,6 @@ const ReportChart = ({ data, reportType }) => {
           y: { stacked: true },
         },
       };
-
-    // --- POPULAR EXERCISES LOGIC HAS BEEN REMOVED ---
     
     } 
 
