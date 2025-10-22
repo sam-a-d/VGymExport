@@ -9,7 +9,7 @@ from app.models import ReportType, ReportFormat
 # 1. Create the router
 router = APIRouter()
 
-# 2. Move your helper function here
+# 2. Helper function to create CSV response
 def create_csv_response(df: pd.DataFrame, filename: str):
     csv_buffer = StringIO()
     df.to_csv(csv_buffer, index=False)
@@ -20,7 +20,7 @@ def create_csv_response(df: pd.DataFrame, filename: str):
     }
     return StreamingResponse(csv_buffer, media_type="text/csv", headers=headers)
 
-# 3. Move the export endpoint here
+# 3. Eendpoint endpoint to get export reports
 @router.get("/api/export")
 def get_export(
     type: ReportType,

@@ -4,7 +4,7 @@ from fastapi.responses import JSONResponse
 # 1. Create the router
 router = APIRouter()
 
-# 2. Move your endpoint here, using @router.get instead of @app.get
+# 2. Endpoint to get paginated exercises
 @router.get("/api/exercises")
 def get_exercises(request: Request, offset: int = 0, limit: int = 20):
     """
