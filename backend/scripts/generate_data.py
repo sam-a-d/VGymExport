@@ -73,4 +73,4 @@ with open(f"{DATA_DIR}checkins.json", "w") as f:
     json.dump(checkins, f, indent=4)
 print(f" Generated {len(checkins)} check-ins for the last {CHECKIN_DAYS} days.")
 
-print("\n🎉 Mock data generation complete!")
+print("\n Mock data generation complete!")
